@@ -13,11 +13,13 @@ export interface Fact {
 
 export const facts: Fact[] = [
   { key: '发售日期', value: '2026-11-19' },
-  { key: '平台', value: 'PS5 · Xbox X|S', note: 'PC 待定' },
-  { key: '标准版价格', value: '$79.99', note: '6/25 已开启预购' },
-  { key: '主角', value: 'Lucia × Jason', note: '双主角' },
-  { key: '舞台', value: '罪恶都市', note: '迈阿密风格' },
+  { key: '平台', value: 'PS5 · Xbox Series X|S', note: 'PC 版未公布' },
+  { key: '标准版价格', value: '$79.99', note: '终极版 $99.99' },
+  { key: '主角', value: 'Jason Duval × Lucia Caminos', note: '双主角 · 当代 GTA 首位女性主角' },
+  { key: '世界观', value: '莱昂尼达州（Leonida）', note: '以佛罗里达为原型' },
+  { key: '核心城市', value: '罪恶都市（Vice City）', note: '迈阿密风格' },
   { key: '最新预告', value: 'An Extended Look', note: '8/27 首映' },
+  { key: '官方确认', value: '无生成式 AI · 单机无内购', note: '9 月官方声明' },
 ];
 
 export interface TimelineItem {
@@ -57,6 +59,11 @@ export const timeline: TimelineItem[] = [
     title: '新一波泄露',
     text: '再有未经授权的实机片段流出，Rockstar 称"令人心碎"，但强调游戏"已接近完成"、11 月如期。',
   },
+  {
+    date: '2026-09-01',
+    title: '3 张新截图 + 确认无生成式 AI',
+    text: 'Rockstar 在官网媒体区放出 3 张新截图（Lucia、Jason 与罪恶都市）；并在媒体采访中确认开发未使用生成式 AI、单机战役无内购。',
+  },
 ];
 
 export type VerifyStatus = 'yes' | 'no' | 'maybe';
@@ -76,4 +83,8 @@ export const verifyRows: VerifyRow[] = [
   { claim: '标准版 $79.99、预购已开启', status: 'yes' },
   { claim: '具体地图面积 / 城市数量', status: 'maybe' },
   { claim: '线上模式（GTA Online 2）细节', status: 'maybe' },
+  { claim: '世界观为莱昂尼达州（Leonida）', status: 'yes' },
+  { claim: '开发使用生成式 AI', status: 'no', note: '官方明确否认，内容由人工制作' },
+  { claim: '单机战役含内购', status: 'no', note: '官方确认单机无内购' },
+  { claim: '首发即含 GTA Online 2', status: 'maybe', note: '官方未公布线上模式细节' },
 ];

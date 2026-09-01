@@ -3,6 +3,8 @@ import type { ReactNode } from 'react';
 import './globals.css';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
+import { JsonLd } from '@/components/JsonLd';
+import { websiteSchema } from '@/lib/schema';
 import { SITE_NAME, SITE_URL } from '@/lib/data';
 
 export const metadata: Metadata = {
@@ -25,6 +27,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="zh-CN">
       <body>
+        <JsonLd data={websiteSchema()} />
         <Header />
         <main>{children}</main>
         <Footer />

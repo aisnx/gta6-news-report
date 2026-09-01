@@ -13,6 +13,8 @@ export interface PostMeta {
   description: string;
   category?: string;
   tags?: string[];
+  cover?: string;
+  coverCaption?: string;
 }
 
 export interface Post extends PostMeta {
@@ -38,6 +40,8 @@ function readPosts(type: ContentType): Post[] {
       description: (data.description as string) ?? '',
       category: data.category as string | undefined,
       tags: (data.tags as string[]) ?? [],
+      cover: data.cover as string | undefined,
+      coverCaption: data.coverCaption as string | undefined,
       content,
     } as Post;
   });
@@ -60,4 +64,39 @@ export function getAllGuides(): Post[] {
 
 export function getGuideBySlug(slug: string): Post | undefined {
   return readPosts('guides').find((p) => p.slug === slug);
+}
+
+// 相关阅读：按分类 / 标签匹配打分，不足时用最近发布补齐。
+export function getRelatedPosts(type: ContentType, post: Post, limit = 4): Post[] {
+  const all = readPosts(type).filter((p) => p.slug !== post.slug);
+  const scored = all
+    .map((p) => {
+      let score = 0;
+      if (post.category && p.category === post.category) score += 3;
+      if (post.tags && p.tags) {
+        const overlap = post.tags.filter((t) => p.tags?.includes(t)).length;
+        score += overlap * 2;
+      }
+      return { p, score };
+    })
+    .filter((x) => x.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  const related = scored.map((x) => x.p);
+  for (const p of all) {
+    if (related.length >= limit) break;
+    if (!related.includes(p)) related.push(p);
+  }
+  return related.slice(0, limit);
+}
+
+// 按分类分组（保持分类首次出现顺序，即按最新文章日期倒序）。
+export function groupByCategory(posts: Post[]): [string, Post[]][] {
+  const map = new Map<string, Post[]>();
+  for (const p of posts) {
+    const c = p.category ?? '其他';
+    if (!map.has(c)) map.set(c, []);
+    map.get(c)!.push(p);
+  }
+  return [...map.entries()];
 }

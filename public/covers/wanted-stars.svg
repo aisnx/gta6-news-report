@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a0d16"/>
+      <stop offset="1" stop-color="#0b0b12"/>
+    </linearGradient>
+    <linearGradient id="star" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff5c9d"/>
+      <stop offset="1" stop-color="#ff2d78"/>
+    </linearGradient>
+    <polygon id="st" points="0,-58 17,-18 58,-18 26,6 38,48 0,26 -38,48 -26,6 -58,-18 -17,-18"/>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#eceaf6" font-size="48" font-weight="800">六星通缉回归</text>
+  <text x="600" y="168" text-anchor="middle" fill="#9a97ad" font-size="24">Wanted Level · 6 Stars</text>
+
+  <g>
+    <use href="#st" x="230" y="360" fill="url(#star)"/>
+    <use href="#st" x="410" y="360" fill="url(#star)"/>
+    <use href="#st" x="590" y="360" fill="url(#star)"/>
+    <use href="#st" x="770" y="360" fill="url(#star)"/>
+    <use href="#st" x="950" y="360" fill="url(#star)"/>
+    <use href="#st" x="1130" y="360" fill="url(#star)"/>
+  </g>
+
+  <text x="600" y="520" text-anchor="middle" fill="#9a97ad" font-size="22">自《GTA4》后时隔多年，六星通缉在 GTA6 回归</text>
+</svg>

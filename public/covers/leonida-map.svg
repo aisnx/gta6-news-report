@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14141f"/>
+      <stop offset="1" stop-color="#0b0b12"/>
+    </linearGradient>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2d78"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#eceaf6" font-size="48" font-weight="800">LEONIDA · 莱昂尼达州</text>
+  <text x="600" y="168" text-anchor="middle" fill="#9a97ad" font-size="24">六大官方确认区域速览</text>
+
+  <!-- 1 Vice City -->
+  <g>
+    <rect x="90" y="230" width="316" height="150" rx="16" fill="#1a1a28"/>
+    <rect x="90" y="230" width="316" height="150" rx="16" fill="none" stroke="#ff2d78" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="114" y="254" width="52" height="8" rx="4" fill="#ff2d78"/>
+    <text x="114" y="308" fill="#eceaf6" font-size="30" font-weight="700">罪恶都市</text>
+    <text x="114" y="346" fill="#9a97ad" font-size="20">Vice City · 核心都市</text>
+  </g>
+
+  <!-- 2 Leonida Keys -->
+  <g>
+    <rect x="442" y="230" width="316" height="150" rx="16" fill="#1a1a28"/>
+    <rect x="442" y="230" width="316" height="150" rx="16" fill="none" stroke="#22d3ee" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="466" y="254" width="52" height="8" rx="4" fill="#22d3ee"/>
+    <text x="466" y="308" fill="#eceaf6" font-size="30" font-weight="700">莱昂尼达群岛</text>
+    <text x="466" y="346" fill="#9a97ad" font-size="20">Leonida Keys · 热带岛链</text>
+  </g>
+
+  <!-- 3 Grassrivers -->
+  <g>
+    <rect x="794" y="230" width="316" height="150" rx="16" fill="#1a1a28"/>
+    <rect x="794" y="230" width="316" height="150" rx="16" fill="none" stroke="#34d399" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="818" y="254" width="52" height="8" rx="4" fill="#34d399"/>
+    <text x="818" y="308" fill="#eceaf6" font-size="30" font-weight="700">草河湿地</text>
+    <text x="818" y="346" fill="#9a97ad" font-size="20">Grassrivers · 沼泽红树林</text>
+  </g>
+
+  <!-- 4 Port Gellhorn -->
+  <g>
+    <rect x="90" y="410" width="316" height="150" rx="16" fill="#1a1a28"/>
+    <rect x="90" y="410" width="316" height="150" rx="16" fill="none" stroke="#8b5cf6" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="114" y="434" width="52" height="8" rx="4" fill="#8b5cf6"/>
+    <text x="114" y="488" fill="#eceaf6" font-size="30" font-weight="700">盖尔霍恩港</text>
+    <text x="114" y="526" fill="#9a97ad" font-size="20">Port Gellhorn · 被遗忘的海岸</text>
+  </g>
+
+  <!-- 5 Ambrosia -->
+  <g>
+    <rect x="442" y="410" width="316" height="150" rx="16" fill="#1a1a28"/>
+    <rect x="442" y="410" width="316" height="150" rx="16" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="466" y="434" width="52" height="8" rx="4" fill="#f59e0b"/>
+    <text x="466" y="488" fill="#eceaf6" font-size="30" font-weight="700">安布罗西亚</text>
+    <text x="466" y="526" fill="#9a97ad" font-size="20">Ambrosia · 制糖工业镇</text>
+  </g>
+
+  <!-- 6 Mount Kalaga -->
+  <g>
+    <rect x="794" y="410" width="316" height="150" rx="16" fill="#1a1a28"/>
+    <rect x="794" y="410" width="316" height="150" rx="16" fill="none" stroke="#60a5fa" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="818" y="434" width="52" height="8" rx="4" fill="#60a5fa"/>
+    <text x="818" y="488" fill="#eceaf6" font-size="30" font-weight="700">卡拉加山国家公园</text>
+    <text x="818" y="526" fill="#9a97ad" font-size="20">Mount Kalaga · 北部荒野</text>
+  </g>
+</svg>

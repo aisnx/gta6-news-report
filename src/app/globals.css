@@ -163,6 +163,19 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
 .card p { font-size: 14px; color: var(--muted); flex: 1; }
 .card .meta { font-size: 12px; color: var(--muted); }
 
+/* ===== 分类分组 ===== */
+.group { margin-top: 32px; }
+.group:first-of-type { margin-top: 0; }
+.group-title {
+  font-size: 15px; font-weight: 700; color: var(--text); margin-bottom: 14px;
+  display: flex; align-items: center; gap: 8px; letter-spacing: 0.5px;
+}
+.group-title::before { content: ""; width: 4px; height: 15px; border-radius: 2px; background: var(--grad); }
+.group-count {
+  font-size: 12px; font-weight: 600; color: var(--muted);
+  background: var(--bg-3); padding: 1px 8px; border-radius: 10px;
+}
+
 /* ===== 文章正文 ===== */
 .article { max-width: 760px; }
 .article h2 { font-size: 22px; margin: 28px 0 12px; }
@@ -191,9 +204,31 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
 .article-head { margin-bottom: 24px; padding-bottom: 20px; border-bottom: 1px solid var(--border); }
 .article-head h1 { font-size: 30px; font-weight: 800; line-height: 1.25; }
 .article-head .meta { color: var(--muted); font-size: 14px; margin-top: 10px; }
+.article-head .cover { width: 100%; border-radius: 12px; margin-top: 16px; border: 1px solid var(--border); display: block; }
+.article-head .cover-fig { margin: 0; }
+.article-head .cover-fig figcaption { margin-top: 8px; font-size: 12px; color: var(--muted); text-align: center; }
 
 /* 空状态 */
 .empty { text-align: center; padding: 40px 20px; color: var(--muted); }
+
+/* ===== 面包屑 ===== */
+.breadcrumbs {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+  font-size: 13px; color: var(--muted); margin-bottom: 20px;
+}
+.breadcrumbs a { color: var(--muted); }
+.breadcrumbs a:hover { color: var(--cyan); text-decoration: none; }
+.breadcrumbs .crumb { display: inline-flex; align-items: center; gap: 6px; }
+.breadcrumbs .sep { color: rgba(255, 255, 255, 0.25); }
+.breadcrumbs .current { color: var(--text); }
+
+/* ===== 相关阅读 ===== */
+.related { margin-top: 48px; }
+.related h2 {
+  font-size: 20px; font-weight: 800; margin-bottom: 16px;
+  display: flex; align-items: center; gap: 10px;
+}
+.related h2::before { content: ""; width: 6px; height: 18px; border-radius: 3px; background: var(--grad); }
 
 @media (max-width: 640px) {
   .cd-num { font-size: 30px; }

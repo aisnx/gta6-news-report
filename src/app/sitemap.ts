@@ -2,6 +2,8 @@ import type { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/data';
 import { getAllNews, getAllGuides } from '@/lib/content';
 
+export const dynamic = 'force-static';
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const news = getAllNews().map((p) => ({
     url: `${SITE_URL}/news/${p.slug}`,

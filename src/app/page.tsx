@@ -1,8 +1,19 @@
+import Link from 'next/link';
+import type { Metadata } from 'next';
 import { Countdown } from '@/components/Countdown';
-import { VerifyTable } from '@/components/VerifyTable';
-import { facts, timeline } from '@/lib/data';
+import { facts, SITE_URL } from '@/lib/data';
+import { getAllNews, getAllGuides } from '@/lib/content';
+
+export const metadata: Metadata = {
+  alternates: { canonical: '/' },
+  openGraph: {
+    images: [{ url: `${SITE_URL}/covers/jason-lucia.jpg`, width: 1600, height: 900 }],
+  },
+};
 
 export default function HomePage() {
+  const latestNews = getAllNews().slice(0, 3);
+  const latestGuides = getAllGuides().slice(0, 3);
   return (
     <>
       <section className="hero">
@@ -33,24 +44,38 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="section" id="timeline">
-        <h2>情报时间线</h2>
-        <p className="sub">从首次泄露到临近发售的关键节点。</p>
-        <div className="timeline">
-          {timeline.map((t) => (
-            <div className="tl-item" key={t.title}>
-              <div className="tl-date">{t.date}</div>
-              <h3>{t.title}</h3>
-              <p>{t.text}</p>
-            </div>
+      <section className="section" id="news">
+        <h2>最新情报</h2>
+        <p className="sub">
+          GTA6 最新动态与爆料追踪。<Link href="/news">查看全部 →</Link>
+        </p>
+        <div className="grid">
+          {latestNews.map((p) => (
+            <Link href={`/news/${p.slug}`} className="card" key={p.slug}>
+              <span className="tag">{p.category}</span>
+              <h3>{p.title}</h3>
+              <p>{p.description}</p>
+              <div className="meta">{p.date}</div>
+            </Link>
           ))}
         </div>
       </section>
 
-      <section className="section" id="verify">
-        <h2>真伪求证</h2>
-        <p className="sub">网上传言满天飞，一键分清「已确认 / 未确认 / 谣言」。</p>
-        <VerifyTable />
+      <section className="section" id="guides">
+        <h2>攻略与资料</h2>
+        <p className="sub">
+          角色、地图、系统、配乐与购买指南。<Link href="/guides">查看全部 →</Link>
+        </p>
+        <div className="grid">
+          {latestGuides.map((p) => (
+            <Link href={`/guides/${p.slug}`} className="card" key={p.slug}>
+              <span className="tag">{p.category}</span>
+              <h3>{p.title}</h3>
+              <p>{p.description}</p>
+              <div className="meta">{p.date}</div>
+            </Link>
+          ))}
+        </div>
       </section>
 
       <div className="disclaimer">
