@@ -1,9 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import type { Locale } from './i18n';
 
-// 内容管线：从 content/<type>/*.md 读取文章，frontmatter + 正文。
-// 日常发稿只需往 content/news 或 content/guides 扔一个 Markdown 文件即可。
+// 内容管线：从 content/<locale>/<type>/*.md 读取文章，frontmatter + 正文。
+// 日常发稿只需往 content/<locale>/news 或 content/<locale>/guides 扔一个 Markdown 文件即可。
+// 不同语言使用相同 slug，便于语言切换器映射；未翻译的文章在对应语言下不存在（列表不显示、直达 404）。
 
 export type ContentType = 'news' | 'guides';
 
@@ -24,8 +26,8 @@ export interface Post extends PostMeta {
 
 const contentDir = path.join(process.cwd(), 'content');
 
-function readPosts(type: ContentType): Post[] {
-  const dir = path.join(contentDir, type);
+function readPosts(type: ContentType, locale: Locale): Post[] {
+  const dir = path.join(contentDir, locale, type);
   if (!fs.existsSync(dir)) return [];
   const files = fs.readdirSync(dir).filter((f) => f.endsWith('.md'));
 
@@ -50,25 +52,25 @@ function readPosts(type: ContentType): Post[] {
   return posts.sort((a, b) => (a.date < b.date ? 1 : -1));
 }
 
-export function getAllNews(): Post[] {
-  return readPosts('news');
+export function getAllNews(locale: Locale): Post[] {
+  return readPosts('news', locale);
 }
 
-export function getNewsBySlug(slug: string): Post | undefined {
-  return readPosts('news').find((p) => p.slug === slug);
+export function getNewsBySlug(locale: Locale, slug: string): Post | undefined {
+  return readPosts('news', locale).find((p) => p.slug === slug);
 }
 
-export function getAllGuides(): Post[] {
-  return readPosts('guides');
+export function getAllGuides(locale: Locale): Post[] {
+  return readPosts('guides', locale);
 }
 
-export function getGuideBySlug(slug: string): Post | undefined {
-  return readPosts('guides').find((p) => p.slug === slug);
+export function getGuideBySlug(locale: Locale, slug: string): Post | undefined {
+  return readPosts('guides', locale).find((p) => p.slug === slug);
 }
 
 // 相关阅读：按分类 / 标签匹配打分，不足时用最近发布补齐。
-export function getRelatedPosts(type: ContentType, post: Post, limit = 4): Post[] {
-  const all = readPosts(type).filter((p) => p.slug !== post.slug);
+export function getRelatedPosts(type: ContentType, locale: Locale, post: Post, limit = 4): Post[] {
+  const all = readPosts(type, locale).filter((p) => p.slug !== post.slug);
   const scored = all
     .map((p) => {
       let score = 0;
@@ -91,10 +93,10 @@ export function getRelatedPosts(type: ContentType, post: Post, limit = 4): Post[
 }
 
 // 按分类分组（保持分类首次出现顺序，即按最新文章日期倒序）。
-export function groupByCategory(posts: Post[]): [string, Post[]][] {
+export function groupByCategory(posts: Post[], fallbackCategory: string): [string, Post[]][] {
   const map = new Map<string, Post[]>();
   for (const p of posts) {
-    const c = p.category ?? '其他';
+    const c = p.category ?? fallbackCategory;
     if (!map.has(c)) map.set(c, []);
     map.get(c)!.push(p);
   }

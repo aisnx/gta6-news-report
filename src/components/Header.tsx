@@ -1,21 +1,24 @@
 import Link from 'next/link';
+import type { Locale, Dictionary } from '@/lib/i18n';
+import { LanguageSwitcher } from './LanguageSwitcher';
 
-export function Header() {
+export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   return (
     <>
-      <div className="topbar">🎮 GTA6 定档 2026-11-19 · 预购已开启 · PC 版预计 2027+</div>
+      <div className="topbar">{dict.header.topbar}</div>
       <header className="site-header">
         <div className="nav">
-          <Link href="/" className="brand">
-            GTA6 情报站
-            <small>情报 / 求证 / 汇总 ｜ 攻略</small>
+          <Link href={`/${locale}`} className="brand">
+            {dict.siteName}
+            <small>{dict.header.brandTagline}</small>
           </Link>
           <nav className="menu">
-            <Link href="/">首页</Link>
-            <Link href="/news">情报</Link>
-            <Link href="/verify">真伪求证</Link>
-            <Link href="/guides">攻略</Link>
+            <Link href={`/${locale}`}>{dict.header.navHome}</Link>
+            <Link href={`/${locale}/news`}>{dict.header.navNews}</Link>
+            <Link href={`/${locale}/verify`}>{dict.header.navVerify}</Link>
+            <Link href={`/${locale}/guides`}>{dict.header.navGuides}</Link>
           </nav>
+          <LanguageSwitcher current={locale} />
         </div>
       </header>
     </>

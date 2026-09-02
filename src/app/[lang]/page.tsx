@@ -1,0 +1,106 @@
+import Link from 'next/link';
+import type { Metadata } from 'next';
+import { Countdown } from '@/components/Countdown';
+import { SITE_URL } from '@/lib/data';
+import { getAllNews, getAllGuides } from '@/lib/content';
+import { toLocale, getDictionary } from '@/lib/i18n';
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}): Promise<Metadata> {
+  const { lang } = await params;
+  const locale = toLocale(lang);
+  return {
+    alternates: { canonical: `/${locale}` },
+    openGraph: {
+      images: [{ url: `${SITE_URL}/covers/jason-lucia.jpg`, width: 1600, height: 900 }],
+    },
+  };
+}
+
+export default async function HomePage({
+  params,
+}: {
+  params: Promise<{ lang: string }>;
+}) {
+  const { lang } = await params;
+  const locale = toLocale(lang);
+  const dict = getDictionary(locale);
+  const latestNews = getAllNews(locale).slice(0, 3);
+  const latestGuides = getAllGuides(locale).slice(0, 3);
+
+  return (
+    <>
+      <section className="hero">
+        <h1>
+          {dict.home.heroTitle1}
+          <br />
+          {dict.home.heroTitle2}
+        </h1>
+        <p className="lead">{dict.home.lead}</p>
+        <Countdown labels={dict.countdown} />
+      </section>
+
+      <section className="section" id="facts">
+        <h2>{dict.home.factsTitle}</h2>
+        <p className="sub">{dict.home.factsSub}</p>
+        <div className="facts">
+          {dict.facts.map((f) => (
+            <div className="fact" key={f.key}>
+              <div className="k">{f.key}</div>
+              <div className="v">
+                {f.value}
+                {f.note ? <small> · {f.note}</small> : null}
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <section className="section" id="news">
+        <h2>{dict.home.newsTitle}</h2>
+        <p className="sub">
+          {dict.home.newsSub}
+          <Link href={`/${locale}/news`}>{dict.home.viewAll} →</Link>
+        </p>
+        <div className="grid">
+          {latestNews.map((p) => (
+            <Link href={`/${locale}/news/${p.slug}`} className="card" key={p.slug}>
+              <span className="tag">{p.category}</span>
+              <h3>{p.title}</h3>
+              <p>{p.description}</p>
+              <div className="meta">{p.date}</div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section className="section" id="guides">
+        <h2>{dict.home.guidesTitle}</h2>
+        <p className="sub">
+          {dict.home.guidesSub}
+          <Link href={`/${locale}/guides`}>{dict.home.viewAll} →</Link>
+        </p>
+        <div className="grid">
+          {latestGuides.map((p) => (
+            <Link href={`/${locale}/guides/${p.slug}`} className="card" key={p.slug}>
+              <span className="tag">{p.category}</span>
+              <h3>{p.title}</h3>
+              <p>{p.description}</p>
+              <div className="meta">{p.date}</div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <div className="disclaimer">
+        <strong>{dict.home.disclaimer.lead}</strong>
+        {dict.home.disclaimer.body1}
+        <strong>{dict.home.disclaimer.body2}</strong>
+        {dict.home.disclaimer.body3}
+      </div>
+    </>
+  );
+}

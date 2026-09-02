@@ -1,30 +1,42 @@
 import type { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/data';
 import { getAllNews, getAllGuides } from '@/lib/content';
+import { locales } from '@/lib/i18n';
+import { alternateLanguages } from '@/lib/seo';
 
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const news = getAllNews().map((p) => ({
-    url: `${SITE_URL}/news/${p.slug}`,
-    lastModified: p.date ? new Date(p.date) : new Date(),
-    changeFrequency: 'daily' as const,
-    priority: 0.6,
-  }));
+  const entries: MetadataRoute.Sitemap = [];
 
-  const guides = getAllGuides().map((p) => ({
-    url: `${SITE_URL}/guides/${p.slug}`,
-    lastModified: p.date ? new Date(p.date) : new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.7,
-  }));
+  for (const locale of locales) {
+    entries.push(
+      { url: `${SITE_URL}/${locale}`, lastModified: new Date(), changeFrequency: 'daily', priority: 1 },
+      { url: `${SITE_URL}/${locale}/news`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
+      { url: `${SITE_URL}/${locale}/guides`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
+      { url: `${SITE_URL}/${locale}/verify`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
+    );
 
-  return [
-    { url: SITE_URL, lastModified: new Date(), changeFrequency: 'daily', priority: 1 },
-    { url: `${SITE_URL}/news`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.8 },
-    { url: `${SITE_URL}/verify`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.7 },
-    { url: `${SITE_URL}/guides`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
-    ...news,
-    ...guides,
-  ];
+    for (const p of getAllNews(locale)) {
+      entries.push({
+        url: `${SITE_URL}/${locale}/news/${p.slug}`,
+        lastModified: p.date ? new Date(p.date) : new Date(),
+        changeFrequency: 'daily',
+        priority: 0.6,
+        alternates: { languages: alternateLanguages('news', p.slug) },
+      });
+    }
+
+    for (const p of getAllGuides(locale)) {
+      entries.push({
+        url: `${SITE_URL}/${locale}/guides/${p.slug}`,
+        lastModified: p.date ? new Date(p.date) : new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.7,
+        alternates: { languages: alternateLanguages('guides', p.slug) },
+      });
+    }
+  }
+
+  return entries;
 }

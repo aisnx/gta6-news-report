@@ -1,28 +1,40 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { getAllGuides, getGuideBySlug, getRelatedPosts } from '@/lib/content';
+import { getAllNews, getNewsBySlug, getRelatedPosts } from '@/lib/content';
 import { Markdown } from '@/components/Markdown';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { RelatedPosts } from '@/components/RelatedPosts';
 import { JsonLd } from '@/components/JsonLd';
 import { articleSchema, breadcrumbSchema, absoluteUrl } from '@/lib/schema';
+import { alternateLanguages } from '@/lib/seo';
+import { toLocale, getDictionary } from '@/lib/i18n';
 
-export function generateStaticParams() {
-  return getAllGuides().map((p) => ({ slug: p.slug }));
+export function generateStaticParams({
+  params,
+}: {
+  params: { lang: string };
+}) {
+  const { lang } = params;
+  const locale = toLocale(lang);
+  return getAllNews(locale).map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ lang: string; slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
-  const post = getGuideBySlug(slug);
+  const { lang, slug } = await params;
+  const locale = toLocale(lang);
+  const post = getNewsBySlug(locale, slug);
   if (!post) return {};
   return {
     title: post.title,
     description: post.description,
-    alternates: { canonical: `/guides/${slug}` },
+    alternates: {
+      canonical: `/${locale}/news/${slug}`,
+      languages: alternateLanguages('news', slug),
+    },
     openGraph: {
       title: post.title,
       description: post.description,
@@ -33,27 +45,29 @@ export async function generateMetadata({
   };
 }
 
-export default async function GuidePostPage({
+export default async function NewsPostPage({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ lang: string; slug: string }>;
 }) {
-  const { slug } = await params;
-  const post = getGuideBySlug(slug);
+  const { lang, slug } = await params;
+  const locale = toLocale(lang);
+  const dict = getDictionary(locale);
+  const post = getNewsBySlug(locale, slug);
   if (!post) notFound();
 
   const breadcrumbs = [
-    { name: '首页', path: '/' },
-    { name: '攻略', path: '/guides' },
-    { name: post.title, path: `/guides/${slug}` },
+    { name: dict.breadcrumbs.home, path: `/${locale}` },
+    { name: dict.breadcrumbs.news, path: `/${locale}/news` },
+    { name: post.title, path: `/${locale}/news/${slug}` },
   ];
-  const related = getRelatedPosts('guides', post);
+  const related = getRelatedPosts('news', locale, post);
 
   return (
     <>
-      <JsonLd data={articleSchema('guides', post)} />
+      <JsonLd data={articleSchema('news', post, locale, dict.siteName)} />
       <JsonLd data={breadcrumbSchema(breadcrumbs)} />
-      <Breadcrumbs items={breadcrumbs} />
+      <Breadcrumbs items={breadcrumbs} ariaLabel={dict.breadcrumbs.ariaLabel} />
       <article>
         <div className="article-head">
           {post.category ? <span className="tag">{post.category}</span> : null}
@@ -70,7 +84,7 @@ export default async function GuidePostPage({
         </div>
         <Markdown content={post.content} />
       </article>
-      <RelatedPosts basePath="/guides" posts={related} />
+      <RelatedPosts basePath={`/${locale}/news`} posts={related} title={dict.related} />
     </>
   );
 }

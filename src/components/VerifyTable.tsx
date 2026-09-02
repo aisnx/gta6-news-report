@@ -1,22 +1,22 @@
-import { verifyRows, type VerifyStatus } from '@/lib/data';
+import type { Dictionary, VerifyStatus } from '@/lib/i18n';
 
-const label: Record<VerifyStatus, string> = {
-  yes: '官方确认',
-  no: '谣言',
-  maybe: '未确认',
-};
+export function VerifyTable({ dict }: { dict: Dictionary }) {
+  const label: Record<VerifyStatus, string> = {
+    yes: dict.verify.statusYes,
+    no: dict.verify.statusNo,
+    maybe: dict.verify.statusMaybe,
+  };
 
-export function VerifyTable() {
   return (
     <table className="verify">
       <thead>
         <tr>
-          <th>说法</th>
-          <th>状态</th>
+          <th>{dict.verify.tableClaim}</th>
+          <th>{dict.verify.tableStatus}</th>
         </tr>
       </thead>
       <tbody>
-        {verifyRows.map((r) => (
+        {dict.verifyRows.map((r) => (
           <tr key={r.claim}>
             <td>{r.claim}</td>
             <td>

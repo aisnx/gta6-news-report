@@ -3,7 +3,15 @@
 import { useEffect, useState } from 'react';
 import { RELEASE_DATE } from '@/lib/data';
 
-export function Countdown() {
+export interface CountdownLabels {
+  days: string;
+  hours: string;
+  minutes: string;
+  seconds: string;
+  launched: string;
+}
+
+export function Countdown({ labels }: { labels: CountdownLabels }) {
   const [diff, setDiff] = useState<number | null>(null);
 
   useEffect(() => {
@@ -23,19 +31,17 @@ export function Countdown() {
   if (launched) {
     return (
       <div className="countdown">
-        <div className="cd-cell" style={{ gridColumn: '1 / -1' }}>
-          🎮 GTA6 已发售！攻略更新中 →
-        </div>
+        <div className="cd-cell" style={{ gridColumn: '1 / -1' }}>{labels.launched}</div>
       </div>
     );
   }
 
   return (
     <div className="countdown">
-      <div className="cd-cell"><div className="cd-num days">{days}</div><div className="cd-label">天</div></div>
-      <div className="cd-cell"><div className="cd-num">{hrs}</div><div className="cd-label">小时</div></div>
-      <div className="cd-cell"><div className="cd-num">{min}</div><div className="cd-label">分</div></div>
-      <div className="cd-cell"><div className="cd-num">{sec}</div><div className="cd-label">秒</div></div>
+      <div className="cd-cell"><div className="cd-num days">{days}</div><div className="cd-label">{labels.days}</div></div>
+      <div className="cd-cell"><div className="cd-num">{hrs}</div><div className="cd-label">{labels.hours}</div></div>
+      <div className="cd-cell"><div className="cd-num">{min}</div><div className="cd-label">{labels.minutes}</div></div>
+      <div className="cd-cell"><div className="cd-num">{sec}</div><div className="cd-label">{labels.seconds}</div></div>
     </div>
   );
 }
