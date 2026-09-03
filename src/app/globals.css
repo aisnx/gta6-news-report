@@ -204,6 +204,13 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
 }
 .article code { background: var(--bg-3); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
 .article img { border-radius: 10px; margin: 12px 0; }
+.article .video-embed { margin: 16px 0; }
+.video-embed-inner {
+  position: relative; padding-top: 56.25%; border-radius: 10px;
+  overflow: hidden; border: 1px solid var(--border); background: #000;
+}
+.video-embed-inner iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+.video-embed figcaption { margin-top: 8px; font-size: 12px; color: var(--muted); text-align: center; }
 
 /* ===== 页脚 ===== */
 .site-footer {
