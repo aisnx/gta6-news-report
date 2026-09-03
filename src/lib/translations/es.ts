@@ -33,6 +33,8 @@ export const es: Dictionary = {
     newsSub: 'Las últimas novedades y seguimiento de rumores de GTA6.',
     guidesTitle: 'Guías y recursos',
     guidesSub: 'Personajes, mapa, sistemas, banda sonora y guía de compra.',
+    trailersTitle: 'Tráilers y vídeos',
+    trailersSub: 'Tráilers oficiales y el último vídeo de la comunidad, en un solo lugar.',
     viewAll: 'Ver todo',
     disclaimer: {
       lead: 'Aviso legal: ',
@@ -86,6 +88,12 @@ export const es: Dictionary = {
   },
 
   fallbackCategory: 'Otros',
+
+  videos: [
+    { id: 'VQRLujxTm3c', title: 'Tráiler oficial (1)' },
+    { id: 'QdBZY2fkU-0', title: 'Tráiler oficial (2)' },
+    { id: 'tJbzMqJGH4k', title: 'Vídeo largo de filtraciones (comunidad, sin confirmar)' },
+  ],
 
   facts: [
     { key: 'Fecha de lanzamiento', value: '19-11-2026' },

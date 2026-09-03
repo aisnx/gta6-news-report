@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { Countdown } from '@/components/Countdown';
+import { VideoEmbed } from '@/components/VideoEmbed';
 import { SITE_URL } from '@/lib/data';
 import { getAllNews, getAllGuides } from '@/lib/content';
 import { toLocale, getDictionary } from '@/lib/i18n';
@@ -41,6 +42,16 @@ export default async function HomePage({
         </h1>
         <p className="lead">{dict.home.lead}</p>
         <Countdown labels={dict.countdown} />
+      </section>
+
+      <section className="section" id="trailers">
+        <h2>{dict.home.trailersTitle}</h2>
+        <p className="sub">{dict.home.trailersSub}</p>
+        <div className="video-grid">
+          {dict.videos.map((v) => (
+            <VideoEmbed key={v.id} id={v.id} title={v.title} />
+          ))}
+        </div>
       </section>
 
       <section className="section" id="facts">

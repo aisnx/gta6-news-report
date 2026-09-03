@@ -2,7 +2,7 @@
 
 export const locales = ['zh', 'en', 'es', 'ja'] as const;
 export type Locale = (typeof locales)[number];
-export const defaultLocale: Locale = 'zh';
+export const defaultLocale: Locale = 'en';
 
 // 语言标签映射（用于 <html lang> 属性）
 export const htmlLang: Record<Locale, string> = {
@@ -30,6 +30,11 @@ export interface VerifyRow {
   claim: string;
   status: VerifyStatus;
   note?: string;
+}
+
+export interface Video {
+  id: string;
+  title: string;
 }
 
 // 站点字典：聚合所有 UI 文案 + 本地化数据（facts / timeline / verifyRows）
@@ -66,6 +71,8 @@ export interface Dictionary {
     newsSub: string;
     guidesTitle: string;
     guidesSub: string;
+    trailersTitle: string;
+    trailersSub: string;
     viewAll: string;
     disclaimer: {
       lead: string;
@@ -120,6 +127,7 @@ export interface Dictionary {
 
   fallbackCategory: string;
 
+  videos: Video[];
   facts: Fact[];
   timeline: TimelineItem[];
   verifyRows: VerifyRow[];

@@ -33,6 +33,8 @@ export const ja: Dictionary = {
     newsSub: 'GTA6 の最新動向とリーク情報の追跡。',
     guidesTitle: '攻略と資料',
     guidesSub: 'キャラクター・マップ・システム・サウンドトラック・購入ガイド。',
+    trailersTitle: 'トレーラー & 動画',
+    trailersSub: '公式トレーラーと最新のコミュニティ動画をまとめて視聴。',
     viewAll: 'すべて見る',
     disclaimer: {
       lead: '免責事項：',
@@ -86,6 +88,12 @@ export const ja: Dictionary = {
   },
 
   fallbackCategory: 'その他',
+
+  videos: [
+    { id: 'VQRLujxTm3c', title: '公式トレーラー（1）' },
+    { id: 'QdBZY2fkU-0', title: '公式トレーラー（2）' },
+    { id: 'tJbzMqJGH4k', title: 'リーク長編動画（コミュニティ、未確認）' },
+  ],
 
   facts: [
     { key: '発売日', value: '2026-11-19' },

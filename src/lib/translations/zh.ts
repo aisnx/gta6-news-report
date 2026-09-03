@@ -33,6 +33,8 @@ export const zh: Dictionary = {
     newsSub: 'GTA6 最新动态与爆料追踪。',
     guidesTitle: '攻略与资料',
     guidesSub: '角色、地图、系统、配乐与购买指南。',
+    trailersTitle: '预告片 & 视频',
+    trailersSub: '官方预告片与最新社区视频，一站看齐。',
     viewAll: '查看全部',
     disclaimer: {
       lead: '免责与边界声明：',
@@ -86,6 +88,12 @@ export const zh: Dictionary = {
   },
 
   fallbackCategory: '其他',
+
+  videos: [
+    { id: 'VQRLujxTm3c', title: '官方预告片（一）' },
+    { id: 'QdBZY2fkU-0', title: '官方预告片（二）' },
+    { id: 'tJbzMqJGH4k', title: '爆料长视频（社区，未证实）' },
+  ],
 
   facts: [
     { key: '发售日期', value: '2026-11-19' },

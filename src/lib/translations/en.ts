@@ -33,6 +33,8 @@ export const en: Dictionary = {
     newsSub: 'The latest GTA6 updates and rumor tracking.',
     guidesTitle: 'Guides & resources',
     guidesSub: 'Characters, map, systems, soundtrack and buying guide.',
+    trailersTitle: 'Watch the trailers',
+    trailersSub: 'Official trailers and the latest community video, in one place.',
     viewAll: 'View all',
     disclaimer: {
       lead: 'Disclaimer: ',
@@ -86,6 +88,12 @@ export const en: Dictionary = {
   },
 
   fallbackCategory: 'Other',
+
+  videos: [
+    { id: 'VQRLujxTm3c', title: 'Official Trailer (1)' },
+    { id: 'QdBZY2fkU-0', title: 'Official Trailer (2)' },
+    { id: 'tJbzMqJGH4k', title: 'Leak long video (community, unconfirmed)' },
+  ],
 
   facts: [
     { key: 'Release date', value: '2026-11-19' },
