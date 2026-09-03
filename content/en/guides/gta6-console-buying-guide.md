@@ -41,3 +41,9 @@ GTA6 launches 2026-11-19 on **PS5 and Xbox Series X|S only**; the PC version is 
 If you only have a PC and don't want a console: the PC date is unannounced, with rumors pointing to **2027** (unconfirmed). We track it in [GTA6 PC release rumors](/en/news/gta6-pc-release-rumors).
 
 > Console comparisons are based on public specs and general knowledge; GTA6's actual per-platform performance is subject to post-launch testing. Refer to official Rockstar announcements.
+
+## Where to buy a console
+
+- [PlayStation 5](https://www.playstation.com/ps5) · [Xbox Series X|S](https://www.xbox.com) · [Amazon](https://www.amazon.com)
+
+> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.

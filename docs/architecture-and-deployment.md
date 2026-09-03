@@ -156,6 +156,20 @@ src/app/
 3. `git add -A && git commit && git push origin main`
 4. Cloudflare 自动构建部署（约 1–2 分钟）
 
+### 6.4 部署踩坑（重要）
+
+**坑 1：Pages 域名显示 `active`，但 DNS 解析记录没落库**
+
+- **现象**：Cloudflare Pages 后台自定义域名显示 `active`、SSL 证书也已签发，但用公共 DNS（`dig` / DoH）查裸域 `gta6gameleaksandguides.asia` 没有任何 A/AAAA/CNAME 记录 → 域名无法解析（`curl` 报 `Could not resolve host`），sitemap 提交到 Google/Bing 也报「无法抓取」。
+- **排查**：`nslookup -type=NS` 确认 NS 已指向 Cloudflare；`www` 子域有解析、裸域没有；Pages API `GET /accounts/{id}/pages/projects/{name}/domains` 显示裸域 `status: active`，但 zone 里无对应 DNS 记录。
+- **修复**：把该裸域从 Pages「摘掉再重挂」（`DELETE` 再 `POST` 自定义域），触发 Cloudflare 重新写入解析记录。重挂后约 20 秒裸域解析生效，全站（含 `/en/verify`、`sitemap.xml`）恢复 200。
+
+**坑 2：Cloudflare「托管 robots.txt / AI Crawl Control」默认挡 AI 爬虫**
+
+- **现象**：`robots.txt` 被 Cloudflare 自动注入 `# BEGIN Cloudflare Managed content` 块，含 `Disallow: GPTBot / ClaudeBot / Google-Extended / CCBot / Bytespider` 等 AI 爬虫 + `Content-Signal:` 声明。普通 Google 搜索不受影响（看起来一切正常），但 ChatGPT / Perplexity / Claude 等 AI 爬虫被拒——与本站「利于 AI 引用」的 JSON-LD 策略直接冲突。
+- **定位**：这是 Cloudflare 的 **AI Crawl Control / 托管 robots.txt** 功能，默认开启；不在普通 zone setting（`GET /zones/{id}/settings`）列表里，也没有易找的 API（本版已废弃 Page Rules，做重定向需 rulesets 权限）。
+- **修复**：dashboard → 域名 → **AI Crawl Control**（或 Security → Bots）→ 关「Managed robots.txt」卡片右上角开关；再把「Block AI training bots」设为「Do not block (allow crawlers)」。验证：`curl https://gta6gameleaksandguides.asia/robots.txt` 无 `Disallow` 行、无 `Content-Signal:` 块。
+
 ---
 
 ## 7. 每一步的原理与作用（速查表）
@@ -172,6 +186,8 @@ src/app/
 | JSON-LD | `schema.ts` | 富结果 + 利于 AI 引用 |
 | `NODE_VERSION=22` | Cloudflare 环境变量 | 满足 Next 16 的 Node ≥20.9 要求 |
 | frontmatter 冒号加引号 | 译文 coverCaption 用双引号 | 避免 YAML 把 `: ` 当映射分隔符 |
+| Pages 域名重挂 | 摘掉再重挂自定义域 | 修复「active 但 DNS 记录没落库」 |
+| 关 AI 托管 robots | dashboard AI Crawl Control | 避免默认挡 AI 爬虫（Disallow GPTBot 等） |
 
 ---
 

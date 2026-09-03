@@ -40,3 +40,9 @@ Digital pre-load opens on **2026-11-12**. The physical edition also needs an int
 If you only care about playing as early as possible, go digital; if you value the box, go physical. Game content, price and pre-order bonuses are identical.
 
 > Based on official announcements; refer to Rockstar Games for the latest.
+
+## Where to buy
+
+- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+
+> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.

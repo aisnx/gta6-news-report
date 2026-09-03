@@ -13,7 +13,7 @@ export const ja: Dictionary = {
     navGuides: '攻略',
   },
 
-  footer: 'GTA6 情報ステーション · 非公式ファンサイト · Rockstar Games / Take-Two とは一切関係ありません · 各商標は権利者に帰属します',
+  footer: 'GTA6 情報ステーション · 非公式ファンサイト · Rockstar Games / Take-Two とは一切関係ありません · 各商標は権利者に帰属します · 本サイトにはアフィリエイトリンクが含まれる場合があります',
 
   countdown: {
     days: '日',

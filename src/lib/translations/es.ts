@@ -13,7 +13,7 @@ export const es: Dictionary = {
     navGuides: 'Guías',
   },
 
-  footer: 'Centro GTA6 · Sitio de fans no oficial · Sin relación con Rockstar Games / Take-Two · Todas las marcas pertenecen a sus respectivos dueños',
+  footer: 'Centro GTA6 · Sitio de fans no oficial · Sin relación con Rockstar Games / Take-Two · Todas las marcas pertenecen a sus respectivos dueños · Este sitio puede contener enlaces de afiliado y podría ganar una comisión por compras',
 
   countdown: {
     days: 'd',

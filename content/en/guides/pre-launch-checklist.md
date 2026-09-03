@@ -40,3 +40,9 @@ GTA6's official launch (2026-11-19) is getting close. This checklist helps you s
 - Follow this site: from launch day we'll update main-story, easter egg, collectible and ending guides.
 
 > Specific details are subject to official Rockstar Games announcements.
+
+## Where to buy
+
+- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+
+> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.

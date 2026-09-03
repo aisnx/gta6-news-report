@@ -13,7 +13,7 @@ export const zh: Dictionary = {
     navGuides: '攻略',
   },
 
-  footer: 'GTA6 情报站 · 非官方粉丝站 · 与 Rockstar Games / Take-Two 无任何关联 · 相关商标归其权利人所有',
+  footer: 'GTA6 情报站 · 非官方粉丝站 · 与 Rockstar Games / Take-Two 无任何关联 · 相关商标归其权利人所有 · 本站可能包含推广链接，通过链接购买本站可能获得佣金',
 
   countdown: {
     days: '天',

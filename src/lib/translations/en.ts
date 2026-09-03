@@ -13,7 +13,7 @@ export const en: Dictionary = {
     navGuides: 'Guides',
   },
 
-  footer: 'GTA6 Intel Hub · Unofficial fan site · Not affiliated with Rockstar Games / Take-Two · All trademarks belong to their respective owners',
+  footer: 'GTA6 Intel Hub · Unofficial fan site · Not affiliated with Rockstar Games / Take-Two · All trademarks belong to their respective owners · This site may contain affiliate links and may earn a commission on qualifying purchases',
 
   countdown: {
     days: 'd',

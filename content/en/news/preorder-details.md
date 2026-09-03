@@ -37,3 +37,9 @@ coverCaption: "Official screenshot · Jason and Lucia · Source: Rockstar Games"
 - **Launch is single-player only**: GTA Online 2 has not been announced.
 
 > Prices and edition contents are subject to the PlayStation Store, Microsoft Store, Rockstar Store and retailers.
+
+## Where to pre-order
+
+- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+
+> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.

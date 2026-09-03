@@ -43,3 +43,9 @@ A: Launch is single-player only; GTA Online 2's launch timing has not been annou
 A: Officially confirmed: the single-player campaign has no microtransactions.
 
 > This information is based on official announcements and public reports; always refer to Rockstar Games for the latest.
+
+## Where to buy
+
+- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+
+> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.
