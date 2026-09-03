@@ -63,3 +63,27 @@ export function websiteSchema(siteName: string): Record<string, unknown> {
     url: SITE_URL,
   };
 }
+
+// 视频结构化数据（VideoObject）：让 Google 能把页面里嵌入的 YouTube 视频编入视频结果。
+export function videoSchema(video: { id: string; title?: string }): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    name: video.title || 'Video',
+    thumbnailUrl: `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`,
+    embedUrl: `https://www.youtube.com/embed/${video.id}`,
+    contentUrl: `https://www.youtube.com/watch?v=${video.id}`,
+  };
+}
+
+// 从 markdown 正文里提取 YouTube 视频 ID，为文章内嵌的视频批量生成 VideoObject。
+export function videoSchemasFromMarkdown(
+  markdown: string,
+  fallbackTitle?: string,
+): Record<string, unknown>[] {
+  const ids = new Set<string>();
+  const re = /(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([\w-]{6,})/g;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(markdown)) !== null) ids.add(m[1]);
+  return Array.from(ids).map((id) => videoSchema({ id, title: fallbackTitle }));
+}

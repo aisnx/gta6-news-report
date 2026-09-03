@@ -2,6 +2,8 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 import { Countdown } from '@/components/Countdown';
 import { VideoEmbed } from '@/components/VideoEmbed';
+import { JsonLd } from '@/components/JsonLd';
+import { videoSchema } from '@/lib/schema';
 import { SITE_URL } from '@/lib/data';
 import { getAllNews, getAllGuides } from '@/lib/content';
 import { toLocale, getDictionary } from '@/lib/i18n';
@@ -34,6 +36,9 @@ export default async function HomePage({
 
   return (
     <>
+      {dict.videos.map((v) => (
+        <JsonLd key={v.id} data={videoSchema(v)} />
+      ))}
       <section className="hero">
         <h1>
           {dict.home.heroTitle1}

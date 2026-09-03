@@ -5,7 +5,7 @@ import { Markdown } from '@/components/Markdown';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { RelatedPosts } from '@/components/RelatedPosts';
 import { JsonLd } from '@/components/JsonLd';
-import { articleSchema, breadcrumbSchema, absoluteUrl } from '@/lib/schema';
+import { articleSchema, breadcrumbSchema, absoluteUrl, videoSchemasFromMarkdown } from '@/lib/schema';
 import { alternateLanguages } from '@/lib/seo';
 import { toLocale, getDictionary } from '@/lib/i18n';
 
@@ -67,6 +67,9 @@ export default async function NewsPostPage({
     <>
       <JsonLd data={articleSchema('news', post, locale, dict.siteName)} />
       <JsonLd data={breadcrumbSchema(breadcrumbs)} />
+      {videoSchemasFromMarkdown(post.content, post.title).map((s, i) => (
+        <JsonLd key={`video-${i}`} data={s} />
+      ))}
       <Breadcrumbs items={breadcrumbs} ariaLabel={dict.breadcrumbs.ariaLabel} />
       <article>
         <div className="article-head">
