@@ -8,7 +8,7 @@ cover: /covers/vice-city-6.jpg
 coverCaption: "Captura oficial · Vice City · Fuente: Rockstar Games"
 ---
 
-GTA6 sale el 19-11-2026 **solo en PS5 y Xbox Series X|S**. La versión de PC **no ha sido anunciada**, por lo que **todavía no hay requisitos oficiales de PC**. Este artículo explica lo que sabemos, lo que se puede inferir y lo que sigue sin confirmar.
+GTA6 sale el 19-11-2026 **solo en PS5 y Xbox Series X|S**. La versión de PC **no ha sido anunciada**, por lo que **todavía no hay requisitos oficiales de PC**. Aquí va lo que sabemos, lo que se puede inferir y lo que sigue sin confirmar.
 
 ## Lo que sabemos (oficial)
 

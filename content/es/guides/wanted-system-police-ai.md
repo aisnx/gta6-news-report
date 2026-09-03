@@ -1,14 +1,14 @@
 ---
-title: "Sistema de búsqueda e IA policial de GTA6 explicados: vuelven las seis estrellas, rastreo de pistas y consejos de escape"
+title: "Sistema de búsqueda e IA policial de GTA6 explicados: según se informa, vuelven las seis estrellas"
 date: "2026-09-01"
-description: "El sistema de búsqueda renovado de GTA6: vuelven las seis estrellas, la policía caza por pistas y hay múltiples iconos de evidencia. Un desglose completo de la mecánica y cómo escapar."
+description: "El sistema de búsqueda renovado de GTA6: según se informa, vuelven las seis estrellas y la policía caza por pistas. Un desglose de la mecánica y cómo escapar."
 category: "Guía de sistemas"
 tags: ["búsqueda", "IA policial", "seis estrellas", "sistemas"]
 cover: /covers/wanted-stars.svg
 coverCaption: "Ilustración original · nivel de búsqueda de seis estrellas"
 ---
 
-El sistema de búsqueda de GTA6 ha sido renovado: la policía ya no "aparece de la nada". Este artículo separa los **principios confirmados oficialmente** de los **detalles de versiones filtradas / reportajes de avance**.
+El sistema de búsqueda de GTA6 ha sido renovado: la policía ya no "aparece de la nada". Aquí va la separación: **principios confirmados oficialmente** vs **detalles de versiones filtradas / reportajes de avance**.
 
 ## Principio confirmado oficialmente
 

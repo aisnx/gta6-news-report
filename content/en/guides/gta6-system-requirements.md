@@ -8,7 +8,7 @@ cover: /covers/vice-city-6.jpg
 coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 ---
 
-GTA6 launches 2026-11-19 on **PS5 and Xbox Series X|S only**. The PC version has **not been announced**, which means **there are no official PC system requirements yet**. This article lays out what we know, what to infer, and what's still unconfirmed.
+GTA6 launches 2026-11-19 on **PS5 and Xbox Series X|S only**. The PC version has **not been announced**, which means **there are no official PC system requirements yet**. Here's what we know, what to infer, and what's still unconfirmed.
 
 ## What we know (official)
 

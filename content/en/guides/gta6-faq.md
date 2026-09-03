@@ -1,66 +1,41 @@
 ---
-title: "GTA6 FAQ — everything players keep asking"
+title: "GTA6 FAQ: the questions everyone keeps asking, answered plainly"
 date: "2026-09-01"
-description: "GTA6 release date, platforms, PC version, pre-orders, microtransactions, online mode — the questions players ask most, answered."
+description: "Release date, platforms, PC, pre-orders, microtransactions, online mode — the real answers, no fluff."
 category: "Buying guide"
-tags: ["FAQ", "questions", "release date"]
+tags: ["FAQ", "release date", "platforms"]
 cover: /covers/jason-lucia-5.jpg
 coverCaption: "Official screenshot · Jason and Lucia · Source: Rockstar Games"
 ---
 
-This article answers the most common pre-launch questions about GTA6, all based on officially confirmed information.
+The two questions that matter most, up front: GTA6 releases **November 19, 2026** on **PS5 and Xbox Series X|S**, and there is **no PC date yet**. Everything else people keep asking is below.
 
-## Quick reference
+## Release & platforms
 
-| Item | Details |
-|---|---|
-| Release date | 2026-11-19 |
-| Launch platforms | PS5 · Xbox Series X\|S |
-| PC | Unannounced |
-| Standard / Ultimate | $79.99 / $99.99 |
+**When is it out?** 2026-11-19, on PS5 and Xbox Series X|S only.
 
-## Q: When does GTA6 release?
+**What about PC?** No date. Rumors point to February 2027, but that's one leaker's claim — unconfirmed. Assume it's not this year.
 
-2026-11-19, on PS5 and Xbox Series X|S.
+## Buying
 
-## Q: When is the PC version coming?
+**Standard or Ultimate?** Standard is $79.99; Ultimate is $99.99 and adds exclusive vehicles, weapons, outfits, extra story content, and exclusive stores/missions.
 
-Not announced. Rumors point to February 2027, but this is unconfirmed — refer to official announcements.
+**Should I pre-order now?** Only if you're buying it anyway. There's no early access, and the pre-order bonus (Vintage Vice City Pack) runs until 2026-11-20. No rush.
 
-## Q: Should I pre-order now?
+**Can I pre-load?** Yes, digital pre-load opens 2026-11-12.
 
-The pre-order bonus (Vintage Vice City Pack) is available until 11-20; neither edition has **early access**, so buying early doesn't let you play early — buy any time before launch.
+**Physical edition — is there a disc?** No. It's a download code in a box.
 
-## Q: Can I pre-load the digital edition?
+## Game content
 
-Yes, digital pre-load opens on 2026-11-12.
+**Does single-player have microtransactions?** No. Rockstar confirmed it.
 
-## Q: Does the physical edition include a disc?
+**Is the online mode (GTA Online 2) there at launch?** No — launch is single-player. Online timing hasn't been announced.
 
-The physical edition is a download code, not a physical disc.
+**Did they use generative AI?** No. Rockstar said all content is human-made; traditional AI only drives NPCs, traffic, and police.
 
-## Q: Does single-player have microtransactions?
+**How much storage?** Not announced yet. Leave a healthy chunk of SSD free.
 
-Officially confirmed: the single-player campaign has **no microtransactions**.
+**What's GTA+?** Rockstar's subscription. Digital pre-orders include one free month (usable in GTA5 today). GTA6-specific perks aren't announced yet.
 
-## Q: Is the online mode available at launch?
-
-Launch is a **single-player experience**; GTA Online 2's launch timing has not been announced.
-
-## Q: What's the difference between Standard and Ultimate?
-
-The Ultimate edition ($99.99) adds exclusive vehicles/weapons/outfits, extra story-related content, and exclusive stores and missions on top of the Standard edition ($79.99).
-
-## Q: Did development use generative AI?
-
-Officially denied — content is made by human developers; traditional AI only drives NPC, traffic and police behavior.
-
-## Q: How much storage does it need?
-
-No specific size has been announced; leave plenty of free SSD space.
-
-## Q: What is GTA+ for?
-
-GTA+ is Rockstar's subscription service; digital pre-orders include one free month (usable in GTA5 etc.). GTA6-specific benefits are yet to be announced.
-
-> All of the above is based on official announcements and credible sources; always refer to Rockstar Games for the latest.
+Got a question I didn't cover? Drop it below and I'll add it.

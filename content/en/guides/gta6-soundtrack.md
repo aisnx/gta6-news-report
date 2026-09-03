@@ -8,7 +8,7 @@ cover: /covers/soundtrack-radio.svg
 coverCaption: "Original illustration · unofficial asset"
 ---
 
-Radio stations and music are always a GTA highlight. This article strictly separates **officially confirmed** (heard in trailers / gameplay demos) from **rumors / leaks** (not officially confirmed).
+Radio stations and music are always a GTA highlight. Here's a strict split: **officially confirmed** (heard in trailers / gameplay demos) vs **rumors / leaks** (not officially confirmed).
 
 ## 1. Officially confirmed songs
 

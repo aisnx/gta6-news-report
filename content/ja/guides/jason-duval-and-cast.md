@@ -8,7 +8,7 @@ cover: /covers/jason.jpg
 coverCaption: "公式スクリーンショット · Jason Duval · 出典：Rockstar Games"
 ---
 
-Lucia とコンビを組む **Jason Duval** は、GTA6 のもう一人のプレイアブル主人公です。本記事では彼の既知情報と、名前が明かされた脇役を整理します。
+Lucia とコンビを組む **Jason Duval** は、GTA6 のもう一人のプレイアブル主人公です。彼の既知情報と、名前が明かされた脇役を整理します。
 
 ## Jason Duval
 

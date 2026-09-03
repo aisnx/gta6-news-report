@@ -8,7 +8,7 @@ cover: /covers/vice-city-7.jpg
 coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 ---
 
-With *GTA6* around the corner, the question players ask most is: "What's actually changed from GTA5?" This article compares the two item by item to set expectations.
+With *GTA6* around the corner, the question players ask most is: "What's actually changed from GTA5?" Here's the two compared, item by item.
 
 ## 1. Release timeline
 
@@ -45,7 +45,7 @@ With *GTA6* around the corner, the question players ask most is: "What's actuall
 ## 5. Wanted system
 
 - **GTA5**: five-star wanted levels; police spawn out of nowhere and lock onto the player's location.
-- **GTA6**: **six-star wanted levels return** (first since GTA4), with a reworked police AI — someone must witness or trigger an alarm to report you, and police track you by clues (clothing / face / plate / vehicle), which you must clear one by one.
+- **GTA6**: **six-star wanted levels reportedly return** (first since GTA4), with a reworked police AI — someone must witness or trigger an alarm to report you, and police track you by clues (clothing / face / plate / vehicle). This comes from leaked builds / preview reports, not an official Rockstar announcement.
 
 ## 6. Vehicles
 

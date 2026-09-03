@@ -1,14 +1,14 @@
 ---
-title: "GTA6 wanted system & police AI explained: six stars return, clue tracking and escape tips"
+title: "GTA6 wanted system & police AI explained: reported six-star return, clue tracking and escape tips"
 date: "2026-09-01"
-description: "GTA6's overhauled wanted system: six stars return, police hunt by clues, and multiple evidence icons. A full breakdown of the mechanic and how to escape."
+description: "GTA6's overhauled wanted system: a reported six-star return, police hunting by clues, and multiple evidence icons. A breakdown of the mechanic and how to escape."
 category: "Systems guide"
 tags: ["wanted", "police AI", "six stars", "systems"]
 cover: /covers/wanted-stars.svg
 coverCaption: "Original illustration · six-star wanted level"
 ---
 
-GTA6's wanted system has been overhauled — police no longer "spawn out of nowhere." This article separates **officially confirmed principles** from **leaked-build / preview details**.
+GTA6's wanted system has been overhauled — police no longer "spawn out of nowhere." Here's the split: **officially confirmed principles** vs **leaked-build / preview details**.
 
 ## Officially confirmed principle
 

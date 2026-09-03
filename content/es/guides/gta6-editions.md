@@ -8,7 +8,7 @@ cover: /covers/jason-lucia-4.jpg
 coverCaption: "Captura oficial · Jason y Lucia · Fuente: Rockstar Games"
 ---
 
-GTA6 sale en dos ediciones: **Standard ($79.99)** y **Ultimate ($99.99)**. No se ha anunciado ninguna edición de coleccionista. Este artículo las compara para ayudarte a decidir.
+GTA6 sale en dos ediciones: **Standard ($79.99)** y **Ultimate ($99.99)**. No se ha anunciado ninguna edición de coleccionista. Aquí va la comparación lado a lado.
 
 ## Comparativa de ediciones
 

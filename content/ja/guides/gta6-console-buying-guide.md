@@ -1,14 +1,14 @@
 ---
 title: "GTA6 は PS5 と Xbox どちらを買う？本体選びガイド"
 date: "2026-09-02"
-description: "GTA6 は PS5 と Xbox Series X|S のみで発売され、PC版は未発表。本記事では2つの本体を比較し、購入判断をお手伝いします。"
+description: "GTA6 は PS5 と Xbox Series X|S のみで発売され、PC版は未発表。2つの本体を比較し、購入判断をサポートします。"
 category: "購入ガイド"
 tags: ["PS5", "Xbox", "本体", "購入ガイド"]
 cover: /covers/jason-lucia-4.jpg
 coverCaption: "公式スクリーンショット · Jason と Lucia · 出典：Rockstar Games"
 ---
 
-GTA6 は 2026-11-19 に **PS5 と Xbox Series X|S のみ**で発売され、PC版は未発表（噂は2027年以降）。GTA6 のために本体を買うなら、本記事が参考になります。
+GTA6 は 2026-11-19 に **PS5 と Xbox Series X|S のみ**で発売され、PC版は未発表（噂は2027年以降）。GTA6 のために本体を買うなら、以下が参考になります。
 
 ## まず事実をひとつ
 

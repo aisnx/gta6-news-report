@@ -8,7 +8,7 @@ cover: /covers/vice-city-8.jpg
 coverCaption: "官方截图 · 罪恶都市 · 来源：Rockstar Games"
 ---
 
-GTA6 将于 2026-11-19 发售。买数字版还是实体版？本文帮你理清差异。
+GTA6 将于 2026-11-19 发售。买数字版还是实体版？真正的差别在这里。
 
 ## 一个重要前提
 

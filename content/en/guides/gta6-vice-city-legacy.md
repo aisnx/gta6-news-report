@@ -1,14 +1,14 @@
 ---
 title: "GTA6 returns to Vice City: ties and tributes to GTA: Vice City"
 date: "2026-09-02"
-description: "GTA6's stage returns to a Miami-style Vice City. This article maps its ties, tributes and returning characters/stations from 2002's GTA: Vice City."
+description: "GTA6's stage returns to a Miami-style Vice City. Here are its ties, tributes and returning characters/stations from 2002's GTA: Vice City."
 category: "Series retrospective"
 tags: ["Vice City", "series retrospective", "tributes"]
 cover: /covers/vice-city.jpg
 coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 ---
 
-*GTA: Vice City* (2002) is a classic for countless players. Now GTA6's stage returns to the same city — a modernized Miami-style Vice City within the larger state of Leonida. This article maps the ties between the two.
+*GTA: Vice City* (2002) is a classic for countless players. Now GTA6's stage returns to the same city — a modernized Miami-style Vice City within the larger state of Leonida. Here are the ties between the two.
 
 ## Why "returning to Vice City" is a big deal
 

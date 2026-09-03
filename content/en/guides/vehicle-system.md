@@ -1,7 +1,7 @@
 ---
-title: "GTA6 vehicle system explained: fuel, car-theft tiers, garages and registration"
+title: "GTA6 vehicle system explained: reported fuel and car-theft tiers, garages and registration"
 date: "2026-09-01"
-description: "GTA6's overhauled vehicle system: fuel/charging, tiered luxury-car theft, the Waink scanner, trackers, garages and vehicle registration."
+description: "GTA6's overhauled vehicle system: reported fuel/charging, tiered luxury-car theft, the Waink scanner, trackers, garages and vehicle registration."
 category: "Systems guide"
 tags: ["vehicles", "fuel", "car theft", "garages", "systems"]
 cover: /covers/vice-city-6.jpg

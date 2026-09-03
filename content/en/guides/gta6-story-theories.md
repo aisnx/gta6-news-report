@@ -8,7 +8,7 @@ cover: /covers/jason-lucia.jpg
 coverCaption: "Official screenshot · Jason and Lucia · Source: Rockstar Games"
 ---
 
-GTA6 stars **Jason Duval × Lucia Caminos**, repeatedly described by Rockstar and the press as a "**Bonnie and Clyde**"-style crime couple. This article analyzes the story based on **official trailers and confirmed information**; all speculation is clearly labeled and never mixed with leaks.
+GTA6 stars **Jason Duval × Lucia Caminos**, repeatedly described by Rockstar and the press as a "**Bonnie and Clyde**"-style crime couple. Here's a look at the story based on **official trailers and confirmed information**; all speculation is clearly labeled and never mixed with leaks.
 
 ## Confirmed story foundations (grounded)
 

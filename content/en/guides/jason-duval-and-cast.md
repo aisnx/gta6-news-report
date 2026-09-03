@@ -8,7 +8,7 @@ cover: /covers/jason.jpg
 coverCaption: "Official screenshot · Jason Duval · Source: Rockstar Games"
 ---
 
-Partnering with Lucia, **Jason Duval** is GTA6's other playable protagonist. This article compiles what's known about him and the named supporting characters.
+Partnering with Lucia, **Jason Duval** is GTA6's other playable protagonist. Here's what we know about him — and the supporting cast we can actually name.
 
 ## Jason Duval
 

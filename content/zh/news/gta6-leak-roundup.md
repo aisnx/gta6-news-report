@@ -8,7 +8,7 @@ cover: /covers/vice-city-3.jpg
 coverCaption: 官方截图 · 罪恶都市 · 来源：Rockstar Games
 ---
 
-近期又有一批 GTA6「爆料视频」在流传。这些**均未证实**，Rockstar 也未回应。本文汇总主要说法，并逐条给出我们的可信度判断。
+近期又有一批 GTA6「爆料视频」在流传。这些**均未证实**，Rockstar 也未回应。下面逐条给出可信度判断。
 
 ## 来源视频
 

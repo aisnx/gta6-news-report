@@ -1,14 +1,14 @@
 ---
 title: "GTA6 买 PS5 还是 Xbox？主机选择指南"
 date: "2026-09-02"
-description: "GTA6 首发仅登陆 PS5 与 Xbox Series X|S，PC 未公布。本文帮你对比两台主机，做出购买决策。"
+description: "GTA6 首发仅登陆 PS5 与 Xbox Series X|S，PC 未公布。两台主机怎么选，一次说清。"
 category: "购买指南"
 tags: ["PS5", "Xbox", "主机", "购买指南"]
 cover: /covers/jason-lucia-4.jpg
 coverCaption: "官方截图 · Jason 与 Lucia · 来源：Rockstar Games"
 ---
 
-GTA6 将于 2026-11-19 首发，**仅登陆 PS5 与 Xbox Series X|S**，PC 版官方未公布（传闻指向 2027+）。如果你为 GTA6 而买主机，本文帮你做决定。
+GTA6 将于 2026-11-19 首发，**仅登陆 PS5 与 Xbox Series X|S**，PC 版官方未公布（传闻指向 2027+）。如果你为 GTA6 而买主机，下面帮你做决定。
 
 ## 先明确一个事实
 

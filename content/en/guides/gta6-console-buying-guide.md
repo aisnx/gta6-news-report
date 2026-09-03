@@ -1,7 +1,7 @@
 ---
 title: "GTA6: PS5 or Xbox? A console buying guide"
 date: "2026-09-02"
-description: "GTA6 launches only on PS5 and Xbox Series X|S, with PC unannounced. This article compares the two consoles to help you decide."
+description: "GTA6 launches only on PS5 and Xbox Series X|S, with PC unannounced. Here's how the two consoles stack up."
 category: "Buying guide"
 tags: ["PS5", "Xbox", "console", "buying guide"]
 cover: /covers/jason-lucia-4.jpg

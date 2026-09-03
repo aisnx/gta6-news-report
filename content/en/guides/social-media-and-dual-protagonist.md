@@ -8,7 +8,7 @@ cover: /covers/jason-lucia.jpg
 coverCaption: "Official screenshot · Jason and Lucia · Source: Rockstar Games"
 ---
 
-GTA6's in-game phone includes a built-in **social media system**, deeply tied to **dual-protagonist switching**. This article covers what's known and what's still unconfirmed.
+GTA6's in-game phone includes a built-in **social media system**, deeply tied to **dual-protagonist switching**. Here's what's known and what's still unconfirmed.
 
 ## In-game social media
 

@@ -1,7 +1,7 @@
 ---
-title: "Sistema de vehículos de GTA6 explicado: combustible, niveles de robo, garajes y registro"
+title: "Sistema de vehículos de GTA6 explicado: combustible y niveles de robo, según informes"
 date: "2026-09-01"
-description: "El sistema de vehículos renovado de GTA6: combustible/carga, robo de coches de lujo por niveles, el escáner Waink, rastreadores, garajes y registro de vehículos."
+description: "El sistema de vehículos renovado de GTA6: según informes, combustible/carga, robo de coches de lujo por niveles, el escáner Waink, rastreadores, garajes y registro."
 category: "Guía de sistemas"
 tags: ["vehículos", "combustible", "robo de coches", "garajes", "sistemas"]
 cover: /covers/vice-city-6.jpg

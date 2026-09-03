@@ -1,24 +1,17 @@
 ---
-title: "Rockstar 放出 3 张 GTA6 官方新截图"
+title: "3 张 GTA6 新截图——也没给你看什么新东西"
 date: "2026-09-01"
-description: "Rockstar 于 9 月 1 日在官网媒体区新增 3 张官方截图，展示 Lucia、Jason 与罪恶都市，紧随 8 月 27 日实机演示之后。"
+description: "Rockstar 9 月 1 日在官网媒体区新增 3 张截图：Lucia、Jason 和罪恶都市。纯文字说明，不转载图。"
 category: "官方动态"
 tags: ["截图", "官方素材"]
 cover: /covers/vice-city-3.jpg
 coverCaption: 官方截图 · 罪恶都市 · 来源：Rockstar Games
 ---
 
-Rockstar Games 于 2026 年 9 月 1 日在 GTA6 官网媒体区新增 **3 张官方截图**，这是继 8 月 27 日《An Extended Look》实机演示之后的又一批官方素材。
+9 月 1 日 Rockstar 在 GTA6 官网媒体区加了 3 张截图，紧跟 8 月 27 日的演示之后。不是什么新料——就是官方再给你看看同样的两个主角和罪恶都市。
 
-## 截图内容（文字描述）
+三张分别是：**Lucia Caminos**、**Jason Duval**，还有一张**罪恶都市**的环境。
 
-- **Lucia Caminos**：女主角的特写场景。
-- **Jason Duval**：男主角相关画面。
-- **罪恶都市（Vice City）**：城市环境与氛围展示。
+先说清楚：这图我不转（版权），这篇只是文字告诉你去哪看。想看原图，去 Rockstar 官网。
 
-## 时间线背景
-
-- 2026-08-27：《An Extended Look》实机演示（Netflix 首映 → YouTube 4K）。
-- 2026-09-01：3 张新截图上线官网媒体区。
-
-> 本站遵守版权边界，不转载官方截图画面，仅报道"官方已发布新截图"这一公开事实及文字性描述。请前往 Rockstar 官网查看原图。
+这几张图改变不了任何判断——就是 Rockstar 在演示和发售之间保持营销节奏而已。下一个真正的节点大概率是线上模式，那边还是鸦雀无声。

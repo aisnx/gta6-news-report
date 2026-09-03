@@ -1,66 +1,41 @@
 ---
-title: "Preguntas frecuentes de GTA6 — todo lo que los jugadores siguen preguntando"
+title: "GTA6 FAQ: las preguntas que todos repiten, respondidas sin rodeos"
 date: "2026-09-01"
-description: "Fecha de lanzamiento de GTA6, plataformas, versión de PC, reservas, micropagos, modo online — las preguntas más frecuentes de los jugadores, respondidas."
+description: "Fecha, plataformas, PC, reservas, micropagos, modo online — las respuestas de verdad, sin relleno."
 category: "Guía de compra"
-tags: ["FAQ", "preguntas", "fecha de lanzamiento"]
+tags: ["FAQ", "fecha de lanzamiento", "plataformas"]
 cover: /covers/jason-lucia-5.jpg
 coverCaption: "Captura oficial · Jason y Lucia · Fuente: Rockstar Games"
 ---
 
-Este artículo responde a las preguntas más comunes antes del lanzamiento de GTA6, todas basadas en información confirmada oficialmente.
+Las dos preguntas que más importan, primero: GTA6 sale el **19 de noviembre de 2026** en **PS5 y Xbox Series X|S**, y **no hay fecha de PC todavía**. Lo demás, abajo.
 
-## Referencia rápida
+## Lanzamiento y plataformas
 
-| Elemento | Detalles |
-|---|---|
-| Fecha de lanzamiento | 19-11-2026 |
-| Plataformas de lanzamiento | PS5 · Xbox Series X\|S |
-| PC | Sin anunciar |
-| Estándar / Ultimate | $79.99 / $99.99 |
+**¿Cuándo sale?** El 19-11-2026, solo en PS5 y Xbox Series X|S.
 
-## P: ¿Cuándo sale GTA6?
+**¿Y en PC?** Sin fecha. Hay rumores de febrero de 2027, pero es la afirmación de un solo filtrador — sin confirmar. Cuenta con que no sale este año.
 
-El 19-11-2026, en PS5 y Xbox Series X|S.
+## Compra
 
-## P: ¿Cuándo sale la versión de PC?
+**¿Estándar o Ultimate?** Estándar $79.99; Ultimate $99.99, con vehículos, armas, atuendos exclusivos, contenido extra de historia y tiendas/misiones exclusivas.
 
-No está anunciada. Los rumores apuntan a febrero de 2027, pero no está confirmado; consulta los anuncios oficiales.
+**¿Reservar ya?** Solo si vas a comprarlo igual. No hay acceso anticipado, y la bonificación (Vintage Vice City Pack) dura hasta el 20-11-2026. Sin prisa.
 
-## P: ¿Debería reservar ya?
+**¿Precarga?** Sí, la precarga digital abre el 12-11-2026.
 
-La bonificación de reserva (Vintage Vice City Pack) está disponible hasta el 20-11; ninguna edición tiene **acceso anticipado**, así que comprar antes no te deja jugar antes; compra cuando quieras antes del lanzamiento.
+**¿Disco físico?** No. Es un código de descarga en una caja.
 
-## P: ¿Puedo precargar la edición digital?
+## Contenido
 
-Sí, la precarga digital se abre el 12-11-2026.
+**¿Micropagos en la historia?** No. Rockstar lo confirmó.
 
-## P: ¿La edición física incluye disco?
+**¿Modo online (GTA Online 2) en el lanzamiento?** No — el lanzamiento es solo un jugador. Sin fecha para el online.
 
-La edición física es un código de descarga, no un disco físico.
+**¿Usaron IA generativa?** No. Rockstar dijo que todo el contenido es humano; la IA tradicional solo mueve NPC, tráfico y policía.
 
-## P: ¿El modo historia tiene micropagos?
+**¿Cuánto ocupa?** Aún no se anuncia. Deja un buen margen de SSD libre.
 
-Confirmado oficialmente: la campaña en solitario **no tiene micropagos**.
+**¿Qué es GTA+?** La suscripción de Rockstar. Las reservas digitales incluyen un mes gratis (utilizable ya en GTA5). Las ventajas de GTA6 aún no se anuncian.
 
-## P: ¿El modo online está disponible en el lanzamiento?
-
-El lanzamiento es una **experiencia en solitario**; la fecha de GTA Online 2 no se ha anunciado.
-
-## P: ¿Cuál es la diferencia entre Estándar y Ultimate?
-
-La edición Ultimate ($99.99) añade vehículos/armas/atuendos exclusivos, contenido adicional de la historia y tiendas y misiones exclusivas sobre la edición Estándar ($79.99).
-
-## P: ¿El desarrollo usó IA generativa?
-
-Negado oficialmente: el contenido lo hacen desarrolladores humanos; la IA tradicional solo controla el comportamiento de NPC, tráfico y policía.
-
-## P: ¿Cuánto almacenamiento necesita?
-
-No se ha anunciado un tamaño concreto; deja bastante espacio libre en SSD.
-
-## P: ¿Para qué sirve GTA+?
-
-GTA+ es el servicio de suscripción de Rockstar; las reservas digitales incluyen un mes gratis (utilizable en GTA5, etc.). Las ventajas específicas para GTA6 aún no se han anunciado.
-
-> Todo lo anterior se basa en anuncios oficiales y fuentes fiables; consulta siempre a Rockstar Games para la información más reciente.
+¿Alguna pregunta que no haya cubierto? Déjala abajo y la añado.

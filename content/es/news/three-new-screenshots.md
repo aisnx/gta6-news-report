@@ -1,24 +1,17 @@
 ---
-title: "Rockstar publica 3 nuevas capturas oficiales de GTA6"
+title: "3 nuevas capturas de GTA6 — y no enseñan nada que no hayas visto"
 date: "2026-09-01"
-description: "Rockstar añadió 3 capturas oficiales a la sección de medios del sitio web de GTA6 el 1 de septiembre, mostrando a Lucia, Jason y Vice City, justo después de la demo del 27 de agosto."
+description: "Rockstar añadió 3 capturas a la sección de medios oficial el 1 de septiembre: Lucia, Jason y Vice City. Solo nota textual, sin republicar."
 category: "Novedades oficiales"
 tags: ["capturas", "material oficial"]
 cover: /covers/vice-city-3.jpg
 coverCaption: "Captura oficial · Vice City · Fuente: Rockstar Games"
 ---
 
-Rockstar Games añadió **3 capturas oficiales** a la sección de medios del sitio web de GTA6 el 1 de septiembre de 2026 — otro lote de material oficial tras la demo de jugabilidad *An Extended Look* del 27 de agosto.
+El 1 de septiembre Rockstar añadió tres capturas a la sección de medios oficial de GTA6, justo después de la demo del 27 de agosto. No son información nueva — solo miradas oficiales a los mismos dos protagonistas y a Vice City.
 
-## Contenido de las capturas (descripción textual)
+Las tres: **Lucia Caminos**, **Jason Duval** y una toma del entorno de **Vice City**.
 
-- **Lucia Caminos**: una escena en primer plano de la protagonista.
-- **Jason Duval**: una escena del protagonista.
-- **Vice City**: mostrando el entorno y la atmósfera de la ciudad.
+Aviso justo: no voy a republicar las imágenes aquí (derechos de autor), así que esto es una nota solo de texto que te dice dónde verlas. Las capturas reales están en la web oficial de Rockstar.
 
-## Contexto cronológico
-
-- 27-08-2026: demo de jugabilidad *An Extended Look* (estreno en Netflix → YouTube en 4K).
-- 01-09-2026: 3 nuevas capturas añadidas a la sección de medios oficial.
-
-> Este sitio respeta los límites de derechos de autor y no republica las imágenes oficiales; solo informa del hecho público de que se publicaron nuevas capturas, con descripciones textuales. Visita el sitio oficial de Rockstar para ver las imágenes originales.
+Nada de esto cambia el panorama — es Rockstar manteniendo el goteo de marketing entre la demo y el lanzamiento. El siguiente gran hito probablemente sea el modo online, y de eso sigue habiendo silencio absoluto.

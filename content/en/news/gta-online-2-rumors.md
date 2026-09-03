@@ -1,40 +1,31 @@
 ---
-title: "GTA6 online mode (GTA Online 2) rumors: no official confirmation yet, launch timing a mystery"
+title: "GTA6 online mode: everything we (don't) know about GTA Online 2"
 date: "2026-09-01"
-description: "GTA6 is currently marketed around its single-player; the online mode is not officially confirmed. We break down the rumor timeline, the 32-player lobby evidence and UGC speculation."
+description: "GTA6 is being marketed around single-player only. Here's what's actually known about the online mode — and what's just rumor."
 category: "Rumor tracking"
 tags: ["GTA Online", "online mode", "rumor"]
 cover: /covers/vice-city-4.jpg
 coverCaption: "Official screenshot · Vice City · illustrative image · Source: Rockstar Games"
 ---
 
-*GTA6* is just around the corner, but its **online mode (commonly called "GTA Online 2") has still not been officially confirmed**. This article breaks down the known facts and the rumors.
+GTA6 launches in November, but its online mode — the thing everyone calls "GTA Online 2" — still hasn't been officially announced. Here's what we actually know, versus what people are guessing.
 
-## The official word
+## The one thing we know
 
-- Rockstar / Take-Two have **not confirmed** any GTA6 online mode.
-- Current store listings and marketing focus on the **single-player experience**.
-- Bloomberg's Jason Schreier reported that Rockstar has **no plans to announce multiplayer details anytime soon**.
+Rockstar and Take-Two haven't confirmed an online mode at all. Store listings and marketing are single-player only, and Bloomberg's Jason Schreier reported there are no plans to announce multiplayer details anytime soon.
 
-## Launch-timing rumors
+So: assume it's not there at launch. Everything below is rumor.
 
-- Historical reference: GTA Online launched ~2 weeks after GTA5; Red Dead Online followed RDR2.
-- Industry rumors point to **December 2026** (~1 month after the main launch), but this is **unconfirmed**.
-- The general expectation is that the online mode will **not** be available at launch.
+## The launch-timing guess
 
-## Leaks / circumstantial evidence
+Industry rumor points to **December 2026**, about a month after launch. History backs that up — GTA Online shipped ~2 weeks after GTA5, and Red Dead Online followed RDR2.
 
-- In a Rockstar vs. former employees lawsuit, court evidence mentioned an unannounced online service supporting **32-player lobbies**; the lawyer described the info as "top secret."
-- Current GTA Online supports 30 players + 2 spectators, so 32 is only a small bump.
+## The one piece of actual evidence
 
-## UGC (user-generated content) speculation
+In a Rockstar lawsuit against former employees, court docs mentioned an unannounced online service supporting **32-player lobbies**. For reference, current GTA Online does 30 players + 2 spectators, so 32 is barely a bump.
 
-- Rockstar acquired Cfx.re (the FiveM / RedM team), leading to speculation that the online mode may include **UGC** (internal codename "Project Rome").
-- Some players speculate the online mode might be announced together with the rumored PC version (2027) — pure guesswork.
+## The UGC speculation
 
-## Still unknown
+Rockstar bought Cfx.re (the FiveM/RedM team), which has people betting the online mode gets user-generated content. Some even think it'll be announced alongside a PC version in 2027. That part is pure guesswork.
 
-- Official name, trailer, pricing and cross-play are all unannounced.
-- Whether it ships free with the base game (as GTA Online did with GTA5) is also unclear.
-
-> Except for "marketed around single-player," this section is all rumor/speculation — always refer to official Rockstar announcements.
+If GTA Online 2 does land a month after release, are you jumping straight in, or finishing the story first?

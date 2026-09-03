@@ -8,7 +8,7 @@ cover: /covers/vice-city-8.jpg
 coverCaption: "Captura oficial · Vice City · Fuente: Rockstar Games"
 ---
 
-GTA6 se lanza el 19-11-2026. ¿Digital o físico? Este artículo desglosa las diferencias.
+GTA6 se lanza el 19-11-2026. ¿Digital o físico? Aquí está la diferencia real.
 
 ## Una premisa clave
 

@@ -8,7 +8,7 @@ cover: /covers/jason-lucia.jpg
 coverCaption: "Captura oficial · Jason y Lucia · Fuente: Rockstar Games"
 ---
 
-GTA6 está protagonizado por **Jason Duval × Lucia Caminos**, descritos repetidamente por Rockstar y la prensa como una pareja criminal estilo "**Bonnie y Clyde**". Este artículo analiza la historia basándose en **tráilers oficiales e información confirmada**; toda la especulación está claramente marcada y nunca mezclada con filtraciones.
+GTA6 está protagonizado por **Jason Duval × Lucia Caminos**, descritos repetidamente por Rockstar y la prensa como una pareja criminal estilo "**Bonnie y Clyde**". Aquí va un análisis de la historia basado en **tráilers oficiales e información confirmada**; toda la especulación está claramente marcada y nunca mezclada con filtraciones.
 
 ## Bases confirmadas de la historia (fundamentadas)
 

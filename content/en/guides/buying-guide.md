@@ -1,51 +1,52 @@
 ---
-title: "GTA6 buying guide: which edition to choose, FAQ"
+title: "GTA6 buying guide: Standard vs Ultimate, and whether to pre-order now"
 date: "2026-09-01"
-description: "GTA6 Standard vs Ultimate: which to pick? Should you pre-order? When does pre-load start? When is the PC version out? Your pre-purchase questions, answered."
+description: "Plain-English answer to the only three questions that matter: which edition, should you pre-order, and when's the PC version."
 category: "Buying guide"
-tags: ["buying guide", "FAQ", "edition comparison"]
+tags: ["buying guide", "editions", "pre-order"]
 cover: /covers/vice-city-5.jpg
 coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 ---
 
-With launch approaching, this article answers common pre-purchase questions so you can pick the right edition and not miss the pre-order bonus.
+Short version: if you just want to play the story, buy **Standard ($79.99)**. If you'll replay it, chase collectibles, or like having extra cars and outfits on day one, the **Ultimate ($99.99)** is worth the $20. Pre-ordering gets you the Vintage Vice City Pack either way, and there's no early access, so there's no rush.
 
-## Standard vs Ultimate: which to choose?
+## Standard vs Ultimate
 
-| Dimension | Standard $79.99 | Ultimate $99.99 |
+| | Standard $79.99 | Ultimate $99.99 |
 |---|---|---|
-| Best for | Players who just want the base game | Players who want vehicles/weapons/outfits + extra story-related content |
-| Extra content | None | Exclusive vehicles/weapons/outfits + exclusive stores and extra missions |
-| Pre-order bonus | Vintage Vice City Pack | Vintage Vice City Pack (same as Standard) |
+| Base game | Yes | Yes |
+| Extra story content | No | Yes |
+| Exclusive vehicles / weapons / outfits | No | Yes |
+| Exclusive stores + missions | No | Yes |
+| Pre-order bonus | Vintage Vice City Pack | Vintage Vice City Pack |
 
-**Recommendation**: if you just want the story, Standard is enough; if you value extra content and collectibility, go Ultimate. Standard players can pay to upgrade later.
+The $20 gap buys cosmetics, exclusive vehicles, and a bit of extra story. If you're the type who plays GTA for hundreds of hours, that's cheap. If you finish the story once and move on, you'll never notice the difference.
 
 ## Should you pre-order now?
 
-- **Yes**: to lock in the Vintage Vice City Pack (1980s-style rewards), and the digital edition includes one free month of GTA+.
-- **No rush**: the pre-order bonus is available until 2026-11-20, so you can buy any time before launch; note there's **no early access** — buying early doesn't let you play early.
+- **If you're buying anyway**, sure — the bonus is free and it's the same price.
+- **If you're on the fence**, wait. There's **no early access**, and the bonus runs until 2026-11-20, the day after launch. Buying early buys you nothing.
 
-## FAQ
+One real perk worth knowing: digital pre-orders include **one free month of GTA+**, Rockstar's subscription. That's usable in GTA5 now, not just GTA6.
 
-**Q: When is the PC version out?**
-A: The PC date has not been announced; launch is PS5 and Xbox Series X|S only, with PC expected in 2027 or later (pending confirmation).
+## Quick answers
 
-**Q: Can I pre-load the digital edition?**
-A: Yes, digital pre-load opens on 2026-11-12.
+**PC version?** Not announced. PS5 and Xbox Series X|S only at launch; PC is realistically 2027 or later.
 
-**Q: Does the physical edition include a disc?**
-A: The physical edition is a download code, not a physical disc.
+**Pre-load?** 2026-11-12 for the digital edition.
 
-**Q: Is the online mode available at launch?**
-A: Launch is single-player only; GTA Online 2's launch timing has not been announced.
+**Physical disc?** No disc — the physical edition is a download code in a box.
 
-**Q: Does single-player have microtransactions?**
-A: Officially confirmed: the single-player campaign has no microtransactions.
+**Online mode at launch?** No. Launch is single-player; GTA Online 2's date hasn't been announced.
 
-> This information is based on official announcements and public reports; always refer to Rockstar Games for the latest.
+**Microtransactions in story?** No. Confirmed by Rockstar.
+
+**Upgrade later?** Yes — Standard owners can pay to upgrade to Ultimate.
 
 ## Where to buy
 
-- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
 
-> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.
+Disclosure: some of these are affiliate links — we may earn a commission if you buy through them, at no extra cost to you.
+
+Which one are you grabbing — Standard or Ultimate?

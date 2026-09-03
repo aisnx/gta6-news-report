@@ -1,39 +1,34 @@
 ---
-title: "Detalles de la reserva de GTA6: desde $79.99, Ultimate $99.99, precarga desde el 12 de noviembre"
+title: "Reserva de GTA6: $79.99 estándar, $99.99 Ultimate, precarga el 12 de noviembre"
 date: "2026-09-01"
-description: "Las reservas de GTA6 se abrieron el 25 de junio — Estándar $79.99, Ultimate $99.99, la precarga digital abre el 12 de noviembre, sin acceso anticipado."
+description: "Las reservas abrieron el 25 de junio. Estándar $79.99, Ultimate $99.99, precarga digital el 12 de noviembre — y sin acceso anticipado."
 category: "Guía de compra"
 tags: ["reserva", "precio", "ediciones"]
 cover: /covers/jason-lucia-4.jpg
 coverCaption: "Captura oficial · Jason y Lucia · Fuente: Rockstar Games"
 ---
 
-Las reservas de *Grand Theft Auto VI* se abrieron el **25 de junio de 2026**. Este artículo resume el precio, las ediciones y las bonificaciones de reserva.
+Las reservas de GTA6 están abiertas desde el 25 de junio. Estándar **$79.99**, Ultimate **$99.99**, y la precarga digital empieza el **12 de noviembre**. Una cosa que conviene saber antes de pagar: **ninguna edición te deja jugar antes**.
 
-## Precio y ediciones
+## Las dos ediciones
 
-| Edición | USD | Contenido |
+| Edición | Precio | Qué incluye |
 |---|---|---|
-| Estándar | $79.99 | Juego base + bonificación de reserva por tiempo limitado |
-| Ultimate | $99.99 | Todo lo de la Estándar + vehículos/armas/atuendos + contenido adicional de la historia + tiendas y misiones exclusivas |
+| Estándar | $79.99 | Juego base + bonificación de reserva |
+| Ultimate | $99.99 | Todo lo de Estándar + vehículos/armas/atuendos + contenido extra de historia + tiendas y misiones exclusivas |
 
-> Precios regionales: Canadá $109.99/$139.99, Europa €79.99/€99.99 (el precio final varía según la plataforma).
+El precio regional varía — Canadá $109.99/$139.99, Europa €79.99/€99.99.
 
-## Bonificaciones de reserva
+## La bonificación
 
-- **Vintage Vice City Pack**: consíguelo reservando o comprando antes del 20-11-2026; incluye atuendos y vehículos de estilo años 80.
-- **Un mes gratis de GTA+**: disponible con las reservas digitales.
+Reserva (o compra antes del 20 de noviembre) y te llevas el **Vintage Vice City Pack**, un conjunto de atuendos y vehículos estilo años 80. Las reservas digitales añaden también **un mes gratis de GTA+**.
 
-## Fechas clave
+## Lo que debes saber
 
-- 25-06-2026: se abren las reservas.
-- 12-11-2026: se abre la precarga digital.
-- 19-11-2026: lanzamiento oficial.
+- **Sin acceso anticipado** — comprar ahora no te deja jugar un día antes.
+- **La edición física es un código de descarga**, no un disco.
+- **El lanzamiento es solo un jugador** — GTA Online 2 no se ha anunciado.
 
-## Notas
+Dónde comprar: [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
 
-- **Sin acceso anticipado**: ninguna edición incluye juego anticipado.
-- **La edición física es un código de descarga**: no es un disco físico.
-- **El lanzamiento es solo un jugador**: GTA Online 2 no se ha anunciado.
-
-> Los precios y el contenido de las ediciones están sujetos a PlayStation Store, Microsoft Store, Rockstar Store y los distribuidores.
+Aviso: algunos de estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.

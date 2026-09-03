@@ -1,14 +1,14 @@
 ---
 title: "GTA6 PC 版发售日期：什么时候上 PC？"
 date: "2026-09-03"
-description: "GTA6 的 PC 版目前没有发售日期——首发仅限主机。本文梳理 Rockstar 的 PC 移植历史与相关传闻。"
+description: "GTA6 的 PC 版目前没有发售日期——首发仅限主机。Rockstar 的 PC 移植历史与相关传闻，一次说清。"
 category: "传闻追踪"
 tags: ["PC", "发售日期", "PC 移植"]
 cover: /covers/vice-city-2.jpg
 coverCaption: 官方截图 · 罪恶都市 · 来源：Rockstar Games
 ---
 
-GTA6 将于 2026-11-19 登陆 **PS5 与 Xbox Series X|S**，**PC 版没有发售日期**——Rockstar 尚未公布。本文梳理已知信息与历史规律。
+GTA6 将于 2026-11-19 登陆 **PS5 与 Xbox Series X|S**，**PC 版没有发售日期**——Rockstar 尚未公布。下面说已知信息和历史规律。
 
 ## 官方信息
 

@@ -8,7 +8,7 @@ cover: /covers/jason-lucia.jpg
 coverCaption: "官方截图 · Jason 与 Lucia · 来源：Rockstar Games"
 ---
 
-GTA6 采用 **Jason Duval × Lucia Caminos** 双主角，被官方与媒体反复称为「**邦妮与克莱德（Bonnie and Clyde）**」式犯罪情侣。本文基于**官方预告与已确认信息**，理性分析剧情走向；所有推测都会明确标注，绝不与泄露内容混淆。
+GTA6 采用 **Jason Duval × Lucia Caminos** 双主角，被官方与媒体反复称为「**邦妮与克莱德（Bonnie and Clyde）**」式犯罪情侣。基于**官方预告与已确认信息**，理性分析剧情走向；所有推测都会明确标注，绝不与泄露内容混淆。
 
 ## 已确认的剧情基础（有据可依）
 

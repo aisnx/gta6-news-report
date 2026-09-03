@@ -1,60 +1,49 @@
 ---
-title: "GTA6 complete intel roundup: release, map, characters, gameplay — everything officially confirmed"
+title: "GTA6: what's actually confirmed, and what's still just a leak (Sept 2026)"
 date: "2026-09-01"
-description: "As of September 2026, everything officially confirmed and credibly sourced about GTA6's release date, platforms, setting, dual protagonists and gameplay features, all in one place."
+description: "A clean split of GTA6's officially confirmed facts vs. the leak-sourced rumors still floating around, as of September 2026."
 category: "Intel roundup"
-tags: ["roundup", "release date", "map", "characters", "gameplay"]
+tags: ["roundup", "confirmed", "rumors", "release date", "characters"]
 cover: /covers/vice-city-2.jpg
 coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 ---
 
-This article rounds up everything officially confirmed and credibly reported about *Grand Theft Auto VI* as of **September 2026**, so you can tell at a glance what's confirmed and what's still rumor.
+GTA6 is out November 19, 2026 on PS5 and Xbox Series X|S, for $79.99 (Ultimate $99.99), and pre-orders have been open since June 25. That part is locked in. A lot of what you read about the game online is not.
 
-## 1. Release info
+Here's the clean split, so you can stop guessing which "confirmed" detail is actually real.
 
-| Item | Details |
+## What's officially confirmed
+
+| Item | Detail |
 |---|---|
-| Release date | 2026-11-19 |
-| Launch platforms | PS5 · Xbox Series X\|S |
-| PC | Unannounced (expected 2027+, not confirmed) |
-| Standard price | $79.99 |
-| Ultimate price | $99.99 |
-| Pre-orders opened | 2026-06-25 |
+| Release date | 2026-11-19 (PS5, Xbox Series X\|S) |
+| PC | Not announced — don't plan on it this year |
+| Price | Standard $79.99 · Ultimate $99.99 |
+| Pre-orders | Open since 2026-06-25 |
+| Pre-load | 2026-11-12 (digital) |
+| Physical | Download code in a box, no disc |
 
-## 2. Setting & map
+The leads are **Lucia Caminos** and **Jason Duval**, a Bonnie-and-Clyde-style couple you can switch between mid-mission. The confirmed supporting cast is Cal Hampton, Boobie Ike, Dre'Quan Priest, Raul Bautista, Real Dimez, and Brian Heder.
 
-- **Setting**: the fictional state of **Leonida**, based on Florida, USA.
-- **Core city**: the modern **Vice City**, Miami-inspired.
-- **Confirmed locations**: Vice City, Leonida Keys, Port Gellhorn, Ambrosia, Grassrivers, Mount Kalaga National Park.
-- **Scale**: officially larger than GTA V; third-party estimates vary (some put it at ~2× GTA V or more) — the exact size is unconfirmed.
+The game is set in **Leonida**, Rockstar's Florida, anchored by a modern **Vice City**. Confirmed named locations: Leonida Keys, Port Gellhorn, Grassrivers, Ambrosia, and Mount Kalaga National Park.
 
-## 3. Protagonists & characters
+Two more things Rockstar has said plainly: development used **no generative AI**, and the single-player story has **no microtransactions**. On the soundtrack side, the official trailers and the August demo have already confirmed a run of songs — Tom Petty's "Love Is a Long Road" in trailer one, and in the demo, Kodak Black, Def Leppard, Phil Collins, Depeche Mode and Lil Wayne among others.
 
-- **Jason Duval**: a former soldier turned drug dealer.
-- **Lucia Caminos**: recently released from prison, skilled in combat, the first playable female protagonist in the modern GTA series.
-- **Relationship**: a "Bonnie and Clyde"-style crime duo, switchable at any time during missions and in the open world.
-- **Other known characters**: Cal Hampton, Boobie Ike, Brian Heder, Raul Bautista, DreQuan Priest, The Real Dimez.
+## What's floating around (leak-sourced, NOT confirmed)
 
-## 4. Gameplay features (officially confirmed / widely reported)
+These all trace back to the 2022 leak or unnamed sources, and Rockstar has never confirmed them:
 
-- **Dual-protagonist switching**: switch freely during missions and in the open world.
-- **Partner missions**: cooperative gameplay built around Jason and Lucia.
-- **In-game social media**: browse viral videos, follow influencers, discover events via the feed.
-- **Open world**: swamps, beaches, small towns and an urban core, larger in scale.
-- **NPC systems**: daily routines, random events, interactive shops.
-- **Wanted system**: six-star wanted levels, reworked police AI (witness reports, suspect profiling).
-- **Character progression**: diet and exercise affect weight and muscle.
-- **Slow-motion aiming**: highlights enemy weak points.
-- **Vehicle systems**: fuel system, car-theft tiers, vehicle storage and registration.
-- **Crime economy**: robberies, fencing stolen goods, banks and cash systems.
-- **Side activities**: street races, mud racing, diving, skydiving, pool, mini-golf, kayaking, zoo, gym and more.
-- **Licensed soundtrack**: includes Kodak Black, Def Leppard, Phil Collins, Depeche Mode, Lil Wayne and more.
-- **Playtime**: around 80 hours including optional content (widely reported).
+- **Six-star wanted levels** and reworked police AI (witness reports, suspect profiling).
+- **Fuel system** and car-theft tiers.
+- **Diet and exercise** changing your character's weight and muscle.
+- **Slow-motion aiming** that highlights weak points.
+- **~80 hours** of playtime.
+- A map **roughly 2× GTA V** with 700+ enterable interiors.
 
-## 5. Still unconfirmed (watching closely)
+None of that is fake-for-sure, and some of it probably lands. But it's rumor until Rockstar or a trailer shows it.
 
-- The exact PC release date.
-- GTA Online 2's launch timing and business model.
-- Exact map size and the number of enterable buildings.
+## What I'd actually bet on
 
-> This site only reports public news facts and official confirmations, and does not repost leaked footage or copyrighted material. Always refer to official Rockstar Games announcements.
+Release date, price, and the dual protagonists are safe. The rest (wanted system, fuel, map size) I'd treat as "interesting if true, zero reason to plan around it."
+
+What detail are you most hoping turns out to be real? Tell me — a fuel system would kill me, I'd be gassing up every five minutes.

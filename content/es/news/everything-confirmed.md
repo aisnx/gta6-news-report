@@ -8,7 +8,7 @@ cover: /covers/vice-city-2.jpg
 coverCaption: "Captura oficial · Vice City · Fuente: Rockstar Games"
 ---
 
-Este artículo reúne todo lo confirmado oficialmente y de fuentes fiables sobre *Grand Theft Auto VI* a fecha de **septiembre de 2026**, para que distingas de un vistazo qué es real y qué sigue siendo rumor.
+GTA6 sale el **19 de noviembre de 2026** en PS5 y Xbox Series X|S, por $79.99 (Ultimate $99.99), con reservas abiertas desde el 25 de junio. Eso es firme. Mucho de lo que lees sobre el juego, no. Aquí va la separación limpia.
 
 ## 1. Información de lanzamiento
 
@@ -35,21 +35,30 @@ Este artículo reúne todo lo confirmado oficialmente y de fuentes fiables sobre
 - **Relación**: una pareja criminal estilo "Bonnie y Clyde", intercambiable en cualquier momento durante las misiones y en el mundo abierto.
 - **Otros personajes conocidos**: Cal Hampton, Boobie Ike, Brian Heder, Raul Bautista, DreQuan Priest, The Real Dimez.
 
-## 4. Características de jugabilidad (confirmadas / ampliamente reportadas)
+## 4. Características de jugabilidad
+
+Primero, distingamos dos cosas: lo **mostrado oficialmente** (en tráilers/demos) y los **rumores/filtraciones** (sin confirmar).
+
+### Confirmado oficialmente (mostrado en tráilers/demos)
 
 - **Cambio de doble protagonista**: cambia libremente durante las misiones y en el mundo abierto.
 - **Misiones de pareja**: jugabilidad cooperativa centrada en Jason y Lucia.
 - **Redes sociales dentro del juego**: navega vídeos virales, sigue a influencers y descubre eventos desde el feed.
 - **Mundo abierto**: pantanos, playas, pueblos pequeños y un núcleo urbano, a mayor escala.
 - **Sistema de NPC**: rutinas diarias, eventos aleatorios, tiendas interactivas.
-- **Sistema de búsqueda**: seis estrellas de búsqueda, IA policial rehecha (denuncias de testigos, perfilado de sospechosos).
+- **Actividades secundarias**: carreras callejeras, carreras de barro, buceo, paracaidismo, billar, minigolf, kayak, zoo, gimnasio y más.
+- **Banda sonora con licencia**: incluye a Kodak Black, Def Leppard, Phil Collins, Depeche Mode, Lil Wayne y más (aparecidos en tráilers/demos).
+
+### Rumores y filtraciones (sin confirmar)
+
+Todo lo siguiente proviene de la filtración de 2022 o de fuentes anónimas, y Rockstar nunca lo ha confirmado:
+
+- **Seis estrellas de búsqueda** y la IA policial rehecha (denuncias de testigos, perfilado de sospechosos).
 - **Progresión del personaje**: la dieta y el ejercicio afectan al peso y al músculo.
 - **Apuntado a cámara lenta**: resalta los puntos débiles del enemigo.
-- **Sistema de vehículos**: sistema de combustible, niveles de robo de coches, almacenamiento y registro de vehículos.
+- **Sistema de combustible**, niveles de robo de coches, almacenamiento y registro de vehículos.
 - **Economía criminal**: atracos, venta de objetos robados, bancos y sistemas de efectivo.
-- **Actividades secundarias**: carreras callejeras, carreras de barro, buceo, paracaidismo, billar, minigolf, kayak, zoo, gimnasio y más.
-- **Banda sonora con licencia**: incluye a Kodak Black, Def Leppard, Phil Collins, Depeche Mode, Lil Wayne y más.
-- **Duración**: unas 80 horas incluyendo contenido opcional (ampliamente reportado).
+- **Duración**: unas 80 horas incluyendo contenido opcional.
 
 ## 5. Sin confirmar aún (en seguimiento)
 

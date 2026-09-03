@@ -8,7 +8,7 @@ cover: /covers/soundtrack-radio.svg
 coverCaption: "Ilustración original · material no oficial"
 ---
 
-Las emisoras y la música siempre son un punto fuerte de GTA. Este artículo separa estrictamente lo **confirmado oficialmente** (escuchado en tráilers / demos) de lo **rumoreado / filtrado** (no confirmado oficialmente).
+Las emisoras y la música siempre son un punto fuerte de GTA. Aquí va la separación estricta: lo **confirmado oficialmente** (escuchado en tráilers / demos) vs lo **rumoreado / filtrado** (no confirmado oficialmente).
 
 ## 1. Canciones confirmadas oficialmente
 

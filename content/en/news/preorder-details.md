@@ -1,45 +1,34 @@
 ---
-title: "GTA6 pre-order details: from $79.99, Ultimate $99.99, pre-load starts Nov 12"
+title: "GTA6 pre-orders: $79.99 standard, $99.99 Ultimate, pre-load Nov 12"
 date: "2026-09-01"
-description: "GTA6 pre-orders opened on June 25 — Standard $79.99, Ultimate $99.99, digital pre-load opens November 12, with no early access."
+description: "Pre-orders opened June 25. Standard is $79.99, Ultimate $99.99, digital pre-load starts November 12 — and there's no early access."
 category: "Buying guide"
 tags: ["pre-order", "price", "editions"]
 cover: /covers/jason-lucia-4.jpg
 coverCaption: "Official screenshot · Jason and Lucia · Source: Rockstar Games"
 ---
 
-*Grand Theft Auto VI* pre-orders opened on **June 25, 2026**. This article rounds up the price, editions and pre-order bonuses.
+Pre-orders for GTA6 have been open since June 25. Standard is **$79.99**, Ultimate is **$99.99**, and digital pre-load starts **November 12**. One thing worth knowing before you buy: neither edition gets you in early.
 
-## Price & editions
+## The two editions
 
-| Edition | USD | Contents |
+| Edition | Price | What you get |
 |---|---|---|
-| Standard | $79.99 | Base game + limited-time pre-order bonus |
-| Ultimate | $99.99 | Everything in Standard + vehicles/weapons/outfits + extra story-related content + exclusive stores and missions |
+| Standard | $79.99 | Base game + pre-order bonus |
+| Ultimate | $99.99 | Standard, plus vehicles/weapons/outfits, extra story content, exclusive stores and missions |
 
-> Regional pricing: Canada $109.99/$139.99, Europe €79.99/€99.99 (final pricing varies by platform).
+Regional pricing varies — Canada runs $109.99/$139.99, Europe €79.99/€99.99.
 
-## Pre-order bonuses
+## The bonus
 
-- **Vintage Vice City Pack**: get it by pre-ordering or purchasing before 2026-11-20; includes 1980s-style outfits and vehicles.
-- **One free month of GTA+**: available with digital pre-orders.
+Pre-order (or buy before November 20) and you get the **Vintage Vice City Pack**, a set of 1980s-style outfits and vehicles. Digital pre-orders also toss in **one free month of GTA+**.
 
-## Key dates
+## What you should know
 
-- 2026-06-25: pre-orders open.
-- 2026-11-12: digital pre-load opens.
-- 2026-11-19: official launch.
+- **No early access** — buying now doesn't let you play a day sooner.
+- **The physical edition is a download code**, not a disc.
+- **Launch is single-player only** — GTA Online 2 hasn't been announced.
 
-## Notes
+Where to buy: [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
 
-- **No early access**: neither edition includes early play.
-- **Physical edition is a download code**: not a physical disc.
-- **Launch is single-player only**: GTA Online 2 has not been announced.
-
-> Prices and edition contents are subject to the PlayStation Store, Microsoft Store, Rockstar Store and retailers.
-
-## Where to pre-order
-
-- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
-
-> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.
+Disclosure: some of these are affiliate links — we may earn a commission if you buy through them, at no extra cost to you.

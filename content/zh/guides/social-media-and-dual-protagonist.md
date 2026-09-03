@@ -8,7 +8,7 @@ cover: /covers/jason-lucia.jpg
 coverCaption: 官方截图 · Jason 与 Lucia · 来源：Rockstar Games
 ---
 
-GTA6 的移动端将内置一套**社交媒体系统**，并与**双主角切换**深度绑定。本文说明已知信息与尚待确认之处。
+GTA6 的移动端将内置一套**社交媒体系统**，并与**双主角切换**深度绑定。已知信息与尚待确认之处，说明如下。
 
 ## 游戏内社交媒体
 

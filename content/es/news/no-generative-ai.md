@@ -1,23 +1,25 @@
 ---
-title: "Confirmado oficialmente: GTA6 no usó IA generativa y el modo historia no tiene micropagos"
+title: "Sin IA generativa y sin micropagos en la historia — Rockstar lo acaba de decir"
 date: "2026-09-01"
-description: "Rockstar confirmó en entrevistas recientes que el desarrollo de GTA6 no usó IA generativa y que la campaña en solitario no tiene micropagos; todo el contenido está hecho por humanos."
+description: "Rockstar confirmó dos cosas que los jugadores no paraban de preguntar: GTA6 no usó IA generativa y la campaña en solitario no tiene micropagos."
 category: "Novedades oficiales"
 tags: ["declaración oficial", "IA generativa", "micropagos"]
 cover: /covers/jason-lucia-3.jpg
 coverCaption: "Captura oficial · imagen ilustrativa · Fuente: Rockstar Games"
 ---
 
-Rockstar dio recientemente respuestas claras, a través de canales oficiales y entrevistas, a dos preguntas que preocupan a los jugadores: **si el desarrollo usó IA generativa** y **si el modo en solitario tiene micropagos**.
+Dos rumores acaban de morir a manos del propio Rockstar: el desarrollo de GTA6 **no** usó IA generativa, y la historia en solitario tiene **cero micropagos**.
 
-## La postura oficial
+## La respuesta sobre la IA
 
-- **IA generativa**: cuando se preguntó directamente a Rob Nelson, codirector de Rockstar North, si el estudio usaba IA generativa, respondió con un claro **"No."** El estudio insistió en que todo el contenido del juego está hecho por desarrolladores humanos; la IA tradicional solo se usa para el comportamiento rutinario de NPC, tráfico y policía.
-- **Micropagos**: confirmado oficialmente — la **campaña en solitario de GTA6 no contiene micropagos (compras dentro del juego)**.
+A Rob Nelson, codirector de Rockstar North, le preguntaron a la cara si el estudio usaba IA generativa. Su respuesta fue un **"No"** seco. Todo el contenido lo hacen desarrolladores humanos. La "IA" del juego es la de siempre, la que mueve NPC, tráfico y policía desde hace décadas.
 
-## Qué significa esto para los jugadores
+## La respuesta sobre los micropagos
 
-- La historia en solitario no tiene muros de pago; el contenido se entrega completo.
-- El modelo de negocio del modo online (GTA Online 2) no se ha anunciado; este sitio lo seguirá de cerca.
+También confirmado: la campaña en solitario **no tiene compras dentro del juego**. La historia se entrega completa, sin muros de pago.
 
-> Basado en declaraciones oficiales de Rockstar y entrevistas públicas; consulta los anuncios oficiales para la información más reciente.
+## Lo que sigue abierto
+
+El modo online es otra cosa — su modelo de negocio no se ha anunciado. Si algún día llegan los micropagos, aterrizarán ahí. Vale la pena vigilarlo.
+
+Si al final el online saca un pase de batalla o una nueva versión de las Shark Cards, ¿cambia eso lo que piensas de la postura del modo historia? Tengo curiosidad por saber dónde aterriza la gente.

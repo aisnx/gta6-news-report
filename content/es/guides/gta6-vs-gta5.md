@@ -8,7 +8,7 @@ cover: /covers/vice-city-7.jpg
 coverCaption: "Captura oficial · Vice City · Fuente: Rockstar Games"
 ---
 
-Con *GTA6* a la vuelta de la esquina, la pregunta que más se repite es: "¿Qué ha cambiado realmente respecto a GTA5?" Este artículo compara ambos elemento por elemento para fijar expectativas.
+Con *GTA6* a la vuelta de la esquina, la pregunta que más se repite es: "¿Qué ha cambiado realmente respecto a GTA5?" Aquí van los dos comparados, elemento por elemento.
 
 ## 1. Cronología de lanzamiento
 
@@ -45,7 +45,7 @@ Con *GTA6* a la vuelta de la esquina, la pregunta que más se repite es: "¿Qué
 ## 5. Sistema de búsqueda
 
 - **GTA5**: cinco estrellas de búsqueda; la policía aparece de la nada y fija la ubicación del jugador.
-- **GTA6**: **vuelven las seis estrellas** (por primera vez desde GTA4), con una IA policial rehecha: alguien debe presenciar o activar una alarma para denunciarte, y la policía te rastrea por pistas (ropa / rostro / matrícula / vehículo) que debes eliminar una a una.
+- **GTA6**: **según se informa, vuelven las seis estrellas** (por primera vez desde GTA4), con una IA policial rehecha: alguien debe presenciar o activar una alarma para denunciarte, y la policía te rastrea por pistas (ropa / rostro / matrícula / vehículo). Este detalle proviene de builds filtrados / informes de la demo, no de un anuncio oficial.
 
 ## 6. Vehículos
 

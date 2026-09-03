@@ -8,7 +8,7 @@ cover: /covers/jason-lucia.jpg
 coverCaption: "Captura oficial · Jason y Lucia · Fuente: Rockstar Games"
 ---
 
-El teléfono dentro del juego de GTA6 incluye un **sistema de redes sociales** integrado, profundamente ligado al **cambio de doble protagonista**. Este artículo cubre lo conocido y lo que sigue sin confirmar.
+El teléfono dentro del juego de GTA6 incluye un **sistema de redes sociales** integrado, profundamente ligado al **cambio de doble protagonista**. Aquí va lo conocido y lo que sigue sin confirmar.
 
 ## Redes sociales dentro del juego
 

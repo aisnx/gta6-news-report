@@ -8,7 +8,7 @@ cover: /covers/vice-city-5.jpg
 coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 ---
 
-GTA6 costs **$79.99 (Standard)** or **$99.99 (Ultimate)** in the US. This article breaks down pricing by region, what you get, and whether the price is justified.
+GTA6 costs **$79.99 (Standard)** or **$99.99 (Ultimate)** in the US. Here's the price by region, what you get, and whether it's worth it.
 
 ## Price by region
 

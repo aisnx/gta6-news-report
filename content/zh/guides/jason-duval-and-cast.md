@@ -8,7 +8,7 @@ cover: /covers/jason.jpg
 coverCaption: 官方截图 · Jason Duval · 来源：Rockstar Games
 ---
 
-与 Lucia 搭档的 **Jason Duval**，是《GTA6》的另一位可玩主角。本文整理他的已知信息与已披露姓名的配角。
+与 Lucia 搭档的 **Jason Duval**，是《GTA6》的另一位可玩主角。他的已知信息与已披露姓名的配角，整理如下。
 
 ## Jason Duval
 

@@ -1,25 +1,26 @@
 ---
-title: "Análisis completo de la demo extendida de GTA6 'An Extended Look'"
+title: "Los 26 minutos de 'An Extended Look' de GTA6 — lo que enseñó de verdad"
 date: "2026-08-27"
-description: "Rockstar publicó el 27 de agosto una demo de jugabilidad extendida de ~26 minutos — estreno exclusivo en Netflix y luego subida a YouTube en 4K — que muestra más del mundo abierto de Leonida y la jugabilidad de doble protagonista."
+description: "La demo de ~26 minutos de Rockstar 'An Extended Look' se estrenó el 27 de agosto, mostrando el cambio de doble protagonista, una Leonida más grande y redes sociales dentro del juego."
 category: "Análisis de tráiler"
 tags: ["tráiler", "demo de jugabilidad", "mundo abierto"]
 cover: /covers/jason-lucia-2.jpg
 coverCaption: "Captura oficial · fotograma de la demo · Fuente: Rockstar Games"
 ---
 
-Rockstar Games publicó *Grand Theft Auto VI: An Extended Look* el 27 de agosto de 2026, una demo de jugabilidad extendida de unos 26 minutos que desvela más de Vice City y de la jugabilidad de doble protagonista.
+El 27 de agosto Rockstar lanzó *An Extended Look*, una demo de unos 26 minutos que es lo más cerca que hemos estado de GTA6. Se estrenó en Netflix y llegó al canal de YouTube de Rockstar en 4K unas seis horas después.
 
-## Cronología del lanzamiento
+La conclusión de fondo: el juego de doble protagonista ya no es una función secundaria, es todo el juego.
 
-- **Estreno exclusivo en Netflix**: en la madrugada del 28 de agosto (hora de Pekín)
-- **Subida a YouTube**: unas 6 horas después del estreno, se subió una versión gratuita en 4K al canal oficial de Rockstar
+## Lo que enseñó
 
-## Puntos clave
+- **Jason y Lucia se intercambian libremente**, en medio de las misiones y por el mundo. Las "misiones de pareja" están construidas en torno a los dos trabajando juntos.
+- **Leonida es más grande.** Pantanos, playas, pueblos pequeños y el núcleo urbano de Vice City fluyen en un mundo claramente mayor que GTA V.
+- **Navegas un feed social dentro del juego.** Vídeos virales, influencers y eventos que descubres por el feed — una internet falsa dentro del juego.
+- **Los NPC se sienten más vivos.** Tienen rutinas diarias, aparecen eventos aleatorios y las tiendas son interactivas.
 
-- **Cambio de doble protagonista**: Jason Duval y Lucia Caminos se intercambian libremente durante las misiones y en el mundo abierto, cooperando en "misiones de pareja".
-- **Una Leonida más grande**: pantanos, playas, pueblos pequeños y el núcleo urbano de Vice City se entrelazan; un mundo notablemente más grande que GTA V.
-- **Redes sociales dentro del juego**: navega vídeos virales, sigue a influencers y descubre eventos desde el feed.
-- **Comportamiento de NPC mejorado**: los NPC tienen rutinas diarias y eventos aleatorios, y escenarios como las tiendas son interactivos.
+## Lo que no enseñó
 
-> Este sitio solo informa de la información textual mostrada en la demo pública y no republica ni redistribuye material de juego protegido por derechos de autor.
+El modo online. Rockstar mantiene el multijugador en completo silencio, lo que encaja con un lanzamiento solo para un jugador.
+
+Si lo viste, ¿qué te llamó más — el cambio de personaje o la escala del mapa?

@@ -1,25 +1,26 @@
 ---
-title: "Full breakdown of GTA6's extended gameplay demo 'An Extended Look'"
+title: "GTA6's 26-minute 'An Extended Look' — what it actually showed"
 date: "2026-08-27"
-description: "Rockstar released a ~26-minute extended gameplay demo on August 27 — a Netflix exclusive premiere followed by a 4K YouTube upload — further showcasing Leonida's open world and dual-protagonist gameplay."
+description: "Rockstar's ~26-minute gameplay demo 'An Extended Look' premiered August 27, showing dual-protagonist switching, a bigger Leonida and in-game social media."
 category: "Trailer breakdown"
 tags: ["trailer", "gameplay demo", "open world"]
 cover: /covers/jason-lucia-2.jpg
 coverCaption: "Official screenshot · gameplay demo frame · Source: Rockstar Games"
 ---
 
-Rockstar Games released *Grand Theft Auto VI: An Extended Look* on August 27, 2026 — an extended gameplay demo of about 26 minutes that pulls back the curtain further on Vice City and the dual-protagonist gameplay.
+On August 27 Rockstar dropped *An Extended Look*, a ~26-minute gameplay demo that's the closest look at GTA6 yet. It premiered on Netflix, then hit Rockstar's YouTube channel in 4K about six hours later.
 
-## Release timeline
+The headline takeaway: dual-protagonist play is the whole game now, not a side feature.
 
-- **Netflix exclusive premiere**: early morning on August 28 (Beijing time)
-- **YouTube upload**: about 6 hours after the premiere, a free 4K version went up on Rockstar's official channel
+## What it showed
 
-## Key highlights
+- **Jason and Lucia switch freely**, mid-mission and out in the world. The "partner missions" are built around the two of them working together.
+- **Leonida is bigger.** Swamps, beaches, small towns, and Vice City's urban core all flow together into a world clearly larger than GTA V.
+- **You browse an in-game social feed.** Viral videos, influencers, and events you discover through the feed — a full fake internet inside the game.
+- **NPCs feel more alive.** They keep daily routines, random events pop up, and shops are interactive.
 
-- **Dual-protagonist switching**: Jason Duval and Lucia Caminos switch freely during missions and in the open world, teaming up for "partner missions."
-- **A bigger Leonida**: swamps, beaches, small towns and Vice City's urban core interweave — a world noticeably larger than GTA V.
-- **In-game social media**: browse viral videos, follow influencers and discover events through the feed.
-- **Upgraded NPC behavior**: NPCs have daily routines and random events, and scenes like shops are interactive.
+## What it didn't show
 
-> This site only reports the textual information shown in the public gameplay demo and does not repost or redistribute copyrighted game footage.
+The online mode. Rockstar is keeping multiplayer completely quiet, which lines up with the single-player-only launch.
+
+If you watched it, what caught your eye — the character switching or the map scale?

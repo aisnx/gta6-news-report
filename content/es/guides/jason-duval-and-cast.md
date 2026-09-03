@@ -8,7 +8,7 @@ cover: /covers/jason.jpg
 coverCaption: "Captura oficial · Jason Duval · Fuente: Rockstar Games"
 ---
 
-Compañero de Lucia, **Jason Duval** es el otro protagonista jugable de GTA6. Este artículo recopila lo que se sabe de él y de los personajes secundarios con nombre.
+Compañero de Lucia, **Jason Duval** es el otro protagonista jugable de GTA6. Esto es lo que se sabe de él — y de los personajes secundarios con nombre.
 
 ## Jason Duval
 
