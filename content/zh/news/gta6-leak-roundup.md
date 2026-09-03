@@ -10,6 +10,12 @@ coverCaption: 官方截图 · 罪恶都市 · 来源：Rockstar Games
 
 近期又有一批 GTA6「爆料视频」在流传。这些**均未证实**，Rockstar 也未回应。本文汇总主要说法，并逐条给出我们的可信度判断。
 
+## 来源视频
+
+近期广为流传的爆料长视频（社区内容，未经证实）：
+
+[GTA6 爆料长视频](https://www.youtube.com/watch?v=tJbzMqJGH4k)
+
 ## 说法一：Leonida 地图面积约为 GTA5 的 2.5 倍
 
 - **爆料内容**：一段近期流传的视频显示 Leonida 地图比早前估计更大、更密集。

@@ -10,6 +10,12 @@ coverCaption: "Captura oficial · Vice City · Fuente: Rockstar Games"
 
 Ha circulado una nueva oleada de vídeos de "filtraciones" de GTA6. Nada de esto está confirmado — Rockstar no se ha pronunciado. Este es un resumen de las afirmaciones principales, con nuestra lectura de credibilidad.
 
+## El vídeo fuente
+
+El vídeo largo de filtraciones que circula actualmente (contenido de la comunidad, sin confirmar):
+
+[Vídeo largo de filtraciones de GTA6](https://www.youtube.com/watch?v=tJbzMqJGH4k)
+
 ## Afirmación 1: el mapa de Leonida es ~2,5 veces el tamaño de GTA V
 
 - **Qué dice la filtración**: un clip reciente muestra un Leonida mucho más grande y denso de lo estimado.

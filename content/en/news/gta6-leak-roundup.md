@@ -10,6 +10,12 @@ coverCaption: "Official screenshot · Vice City · Source: Rockstar Games"
 
 A fresh wave of GTA6 "leak" videos has been making the rounds. None of these are confirmed — Rockstar has not commented. Here's a roundup of the main claims, each with our read on credibility.
 
+## The source video
+
+The long leak video currently circulating (community content, unconfirmed):
+
+[GTA6 leak long video](https://www.youtube.com/watch?v=tJbzMqJGH4k)
+
 ## Claim 1: Leonida's map is ~2.5x the size of GTA V
 
 - **What the leak says**: a recent clip shows a much larger, denser Leonida map than earlier estimates.
