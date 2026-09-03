@@ -17,6 +17,7 @@ export interface PostMeta {
   tags?: string[];
   cover?: string;
   coverCaption?: string;
+  featured?: boolean;
 }
 
 export interface Post extends PostMeta {
@@ -44,6 +45,7 @@ function readPosts(type: ContentType, locale: Locale): Post[] {
       tags: (data.tags as string[]) ?? [],
       cover: data.cover as string | undefined,
       coverCaption: data.coverCaption as string | undefined,
+      featured: (data.featured as boolean) ?? false,
       content,
     } as Post;
   });

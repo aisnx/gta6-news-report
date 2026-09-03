@@ -175,6 +175,19 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
 .card p { font-size: 14px; color: var(--muted); flex: 1; }
 .card .meta { font-size: 12px; color: var(--muted); }
 
+/* ===== 置顶推荐 ===== */
+.featured-card {
+  display: flex; flex-direction: column; gap: 8px;
+  padding: 24px; border-radius: var(--radius);
+  border: 1px solid rgba(255, 45, 120, 0.35);
+  background: linear-gradient(135deg, rgba(255, 45, 120, 0.10), rgba(139, 92, 246, 0.10));
+  transition: border-color 0.2s, transform 0.2s;
+}
+.featured-card:hover { border-color: rgba(255, 45, 120, 0.6); transform: translateY(-2px); text-decoration: none; }
+.featured-card h2 { font-size: 24px; color: var(--text); line-height: 1.35; }
+.featured-card p { color: var(--muted); font-size: 15px; }
+.featured-card .meta { font-size: 12px; color: var(--muted); }
+
 /* ===== 分类分组 ===== */
 .group { margin-top: 32px; }
 .group:first-of-type { margin-top: 0; }

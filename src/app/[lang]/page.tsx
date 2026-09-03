@@ -31,6 +31,7 @@ export default async function HomePage({
   const { lang } = await params;
   const locale = toLocale(lang);
   const dict = getDictionary(locale);
+  const featured = getAllNews(locale).find((p) => p.featured);
   const latestNews = getAllNews(locale).slice(0, 3);
   const latestGuides = getAllGuides(locale).slice(0, 3);
 
@@ -48,6 +49,17 @@ export default async function HomePage({
         <p className="lead">{dict.home.lead}</p>
         <Countdown labels={dict.countdown} />
       </section>
+
+      {featured ? (
+        <section className="section" id="featured">
+          <Link href={`/${locale}/news/${featured.slug}`} className="featured-card">
+            <span className="tag">{featured.category}</span>
+            <h2>{featured.title}</h2>
+            <p>{featured.description}</p>
+            <div className="meta">{featured.date}</div>
+          </Link>
+        </section>
+      ) : null}
 
       <section className="section" id="trailers">
         <h2>{dict.home.trailersTitle}</h2>
