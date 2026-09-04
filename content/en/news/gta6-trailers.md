@@ -12,11 +12,11 @@ Catch up on GTA6's official trailers here, in one place.
 
 ## Official trailer (1)
 
-[GTA VI Official Trailer (1)](https://www.youtube.com/watch?v=VQRLujxTm3c)
+[GTA VI Official Trailer (1)](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 
 ## Official trailer (2)
 
-[GTA VI Official Trailer (2)](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+[GTA VI Official Trailer (2)](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
 ## Official site
 

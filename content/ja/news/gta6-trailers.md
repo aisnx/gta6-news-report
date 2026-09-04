@@ -12,11 +12,11 @@ GTA6の公式トレーラーをここでまとめて視聴できます。
 
 ## 公式トレーラー（1）
 
-[GTA VI 公式トレーラー（1）](https://www.youtube.com/watch?v=VQRLujxTm3c)
+[GTA VI 公式トレーラー（1）](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 
 ## 公式トレーラー（2）
 
-[GTA VI 公式トレーラー（2）](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+[GTA VI 公式トレーラー（2）](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
 ## 公式サイト
 

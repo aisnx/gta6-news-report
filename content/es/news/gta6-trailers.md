@@ -12,11 +12,11 @@ Ponte al día con los tráilers oficiales de GTA6 aquí, en un solo lugar.
 
 ## Tráiler oficial (1)
 
-[Tráiler oficial de GTA VI (1)](https://www.youtube.com/watch?v=VQRLujxTm3c)
+[Tráiler oficial de GTA VI (1)](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 
 ## Tráiler oficial (2)
 
-[Tráiler oficial de GTA VI (2)](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+[Tráiler oficial de GTA VI (2)](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
 ## Sitio oficial
 

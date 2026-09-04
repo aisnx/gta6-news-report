@@ -93,9 +93,9 @@ export const zh: Dictionary = {
   fallbackCategory: '其他',
 
   videos: [
-    { id: 'VQRLujxTm3c', title: '官方预告片（一）' },
-    { id: 'QdBZY2fkU-0', title: '官方预告片（二）' },
-    { id: 'tJbzMqJGH4k', title: '爆料长视频（社区，未证实）' },
+    { id: 'QdBZY2fkU-0', title: '官方预告片（一）' },
+    { id: 'VQRLujxTm3c', title: '官方预告片（二）' },
+    { id: 'tJbzMqJGH4k', title: '官方预告：An Extended Look' },
   ],
 
   facts: [

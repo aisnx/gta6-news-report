@@ -15,7 +15,7 @@ export function VideoEmbed({ id, title }: { id: string; title?: string }) {
     <figure className="video-embed">
       <div className="video-embed-inner">
         <iframe
-          src={`https://www.youtube-nocookie.com/embed/${id}`}
+          src={`https://www.youtube.com/embed/${id}`}
           title={title || 'Video'}
           loading="lazy"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

@@ -93,9 +93,9 @@ export const es: Dictionary = {
   fallbackCategory: 'Otros',
 
   videos: [
-    { id: 'VQRLujxTm3c', title: 'Tráiler oficial (1)' },
-    { id: 'QdBZY2fkU-0', title: 'Tráiler oficial (2)' },
-    { id: 'tJbzMqJGH4k', title: 'Vídeo largo de filtraciones (comunidad, sin confirmar)' },
+    { id: 'QdBZY2fkU-0', title: 'Tráiler oficial 1' },
+    { id: 'VQRLujxTm3c', title: 'Tráiler oficial 2' },
+    { id: 'tJbzMqJGH4k', title: 'Vistazo oficial: An Extended Look' },
   ],
 
   facts: [

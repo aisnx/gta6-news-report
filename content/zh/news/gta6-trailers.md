@@ -12,11 +12,11 @@ GTA6 官方预告片在此一站看齐。
 
 ## 官方预告片（一）
 
-[GTA VI 官方预告片（一）](https://www.youtube.com/watch?v=VQRLujxTm3c)
+[GTA VI 官方预告片（一）](https://www.youtube.com/watch?v=QdBZY2fkU-0)
 
 ## 官方预告片（二）
 
-[GTA VI 官方预告片（二）](https://www.youtube.com/watch?v=QdBZY2fkU-0)
+[GTA VI 官方预告片（二）](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
 ## 官方入口
 

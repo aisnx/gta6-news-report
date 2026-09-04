@@ -93,9 +93,9 @@ export const ja: Dictionary = {
   fallbackCategory: 'その他',
 
   videos: [
-    { id: 'VQRLujxTm3c', title: '公式トレーラー（1）' },
-    { id: 'QdBZY2fkU-0', title: '公式トレーラー（2）' },
-    { id: 'tJbzMqJGH4k', title: 'リーク長編動画（コミュニティ、未確認）' },
+    { id: 'QdBZY2fkU-0', title: '公式トレーラー1' },
+    { id: 'VQRLujxTm3c', title: '公式トレーラー2' },
+    { id: 'tJbzMqJGH4k', title: '公式映像：An Extended Look' },
   ],
 
   facts: [
