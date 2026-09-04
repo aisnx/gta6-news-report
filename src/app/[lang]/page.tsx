@@ -79,12 +79,21 @@ export default async function HomePage({
         {mainBuyingGuide ? (
           <Link
             href={`/${locale}/guides/${mainBuyingGuide.slug}`}
-            className="featured-card"
+            className="buying-guide-card"
           >
-            <span className="tag">{mainBuyingGuide.category}</span>
-            <h3>{mainBuyingGuide.title}</h3>
-            <p>{mainBuyingGuide.description}</p>
-            <div className="meta">{mainBuyingGuide.date}</div>
+            {mainBuyingGuide.cover ? (
+              <img
+                className="bg-cover"
+                src={mainBuyingGuide.cover}
+                alt={mainBuyingGuide.title}
+              />
+            ) : null}
+            <div className="bg-body">
+              <span className="tag">{mainBuyingGuide.category}</span>
+              <h3>{mainBuyingGuide.title}</h3>
+              <p>{mainBuyingGuide.description}</p>
+              <div className="meta">{mainBuyingGuide.date}</div>
+            </div>
           </Link>
         ) : null}
         {restBuyingGuides.length ? (
