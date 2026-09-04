@@ -35,6 +35,8 @@ export const en: Dictionary = {
     guidesSub: 'Characters, map, systems, soundtrack and buying guide.',
     trailersTitle: 'Watch the trailers',
     trailersSub: 'Official trailers and the latest community video, in one place.',
+    buyingGuideTitle: 'Buying guide',
+    buyingGuideSub: 'Which console to buy and how much it costs, region by region.',
     viewAll: 'View all',
     disclaimer: {
       lead: 'Disclaimer: ',

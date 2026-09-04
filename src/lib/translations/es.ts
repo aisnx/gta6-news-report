@@ -35,6 +35,8 @@ export const es: Dictionary = {
     guidesSub: 'Personajes, mapa, sistemas, banda sonora y guía de compra.',
     trailersTitle: 'Tráilers y vídeos',
     trailersSub: 'Tráilers oficiales y el último vídeo de la comunidad, en un solo lugar.',
+    buyingGuideTitle: 'Guía de compra',
+    buyingGuideSub: 'Qué consola elegir y cuánto cuesta, región por región.',
     viewAll: 'Ver todo',
     disclaimer: {
       lead: 'Aviso legal: ',

@@ -73,6 +73,8 @@ export interface Dictionary {
     guidesSub: string;
     trailersTitle: string;
     trailersSub: string;
+    buyingGuideTitle: string;
+    buyingGuideSub: string;
     viewAll: string;
     disclaimer: {
       lead: string;

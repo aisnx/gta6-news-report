@@ -1,43 +1,89 @@
 ---
-title: "GTA6: ¿PS5 o Xbox? Guía de compra de consola"
-date: "2026-09-02"
-description: "GTA6 se lanza solo en PS5 y Xbox Series X|S, con PC sin anunciar. Aquí va cómo se comparan las dos consolas."
+title: "GTA6: ¿PS5 o Xbox? Comparativa detallada de las tres consolas"
+date: "2026-09-04"
+description: "GTA6 se lanza solo en PS5 y Xbox Series X|S. Rendimiento, almacenamiento, precio, mando y ecosistema de las tres consolas, más precios de referencia."
 category: "Guía de compra"
 tags: ["PS5", "Xbox", "consola", "guía de compra"]
 cover: /covers/jason-lucia-4.jpg
 coverCaption: "Captura oficial · Jason y Lucia · Fuente: Rockstar Games"
 ---
 
-GTA6 se lanza el 19-11-2026 **solo en PS5 y Xbox Series X|S**; la versión de PC no está anunciada (rumores apuntan a 2027+). Si vas a comprar una consola por GTA6, este artículo te ayuda a decidir.
+Conclusión rápida: ninguna consola tiene contenido exclusivo de GTA6, y la experiencia de lanzamiento es prácticamente idéntica en ambas plataformas. Así que la elección depende de tu biblioteca, de dónde están tus amigos y de tu presupuesto. Aquí va el desglose completo.
 
-## Un dato primero
+## Un dato que conviene aclarar primero
 
-- **Plataformas de lanzamiento**: PS5, Xbox Series X, Xbox Series S
-- **PC**: sin anunciar, no saldrá a la vez
-- **Contenido exclusivo**: Rockstar **no ha anunciado** contenido exclusivo de plataforma — la experiencia de lanzamiento es esencialmente idéntica
+- GTA6 sale el 19-11-2026 solo en PS5 y Xbox Series X|S. PC sin anunciar (rumor: 2027+).
+- Rockstar no ha anunciado contenido exclusivo de plataforma. Ambas plataformas reciben el mismo juego en el lanzamiento.
+- La versión física es un código de descarga (sin disco), así que físico vs digital no cambia la elección de consola.
 
-## PS5 vs Xbox Series X|S
+## Las tres consolas de un vistazo
 
-| Dimensión | PS5 | Xbox Series X | Xbox Series S |
+| | PS5 | Xbox Series X | Xbox Series S |
 |---|---|---|---|
-| Posicionamiento | Buque insignia | Buque insignia | Next-gen de entrada |
-| Gráficos / rendimiento | Alto | Alto | Menor (objetivo 1080p) |
-| Precio | Mayor | Similar a PS5 | El más bajo |
-| Mando | Gatillos adaptativos | Estándar | Estándar |
+| Posicionamiento | Next-gen principal | Next-gen principal | Next-gen de entrada |
+| Potencia GPU | ~10,3 TFLOPS | ~12 TFLOPS | ~4 TFLOPS |
+| Resolución objetivo | 4K (hasta 120 Hz) | 4K (hasta 120 Hz) | 1080p–1440p |
+| Almacenamiento | 825 GB (~667 GB útiles) | 1 TB (~802 GB útiles) | 512 GB (~364 GB útiles) |
+| Lector de discos | Sí (existe modelo digital) | Sí | No |
+| Precio de referencia (EE. UU.) | Desde $449,99 | $499,99 | $299,99 |
+| Mando | Gatillos adaptativos + hápticos | Vibración estándar | Vibración estándar |
 
-## Recomendaciones
+## Ventajas e inconvenientes de PS5
 
-- **Mejores gráficos y sensación de mando** → **PS5** (los gatillos adaptativos podrían dar un toque único a la conducción y los tiroteos de GTA6)
-- **Ya en el ecosistema Xbox / presupuesto ajustado** → **Xbox Series S** (la forma más barata de jugar a GTA6)
-- **Ya tienes cualquier consola next-gen** → **no cambies**, solo espera al lanzamiento
+**Ventajas**
+- El **mando DualSense** es lo más destacable: gatillos adaptativos y respuesta háptica. En la conducción, los tiroteos y las persecuciones de GTA6, la resistencia de los gatillos puede sumar inmersión real.
+- Fuerte ecosistema de exclusivos (God of War, Spider-Man). Si ya juegas a los first-party de Sony, PS5 es lo natural.
+- Mayor base instalada, lo que facilita el emparejamiento cuando llegue el online.
 
-## Más allá del presupuesto
+**Inconvenientes**
+- Más cara (desde $449,99).
+- Unos 667 GB útiles de SSD se llenan rápido con varios AAA; quizá acabes comprando un SSD extra.
 
-- ¿Ya tienes una biblioteca o amigos en una plataforma? **El ecosistema** suele importar más que un solo juego.
-- La edición física es un código de descarga (sin disco), así que físico vs digital no afecta a la elección de consola.
+## Ventajas e inconvenientes de Xbox Series X
 
-## Nota para jugadores de PC
+**Ventajas**
+- **La más potente de las tres** (~12 TFLOPS). Elígela si quieres los mejores gráficos y tasas de fotogramas estables.
+- **Game Pass** es la función clave: una suscripción con un catálogo enorme que te ahorra dinero más allá del propio GTA6.
+- **Quick Resume** alterna entre varios juegos al instante, algo muy cómodo en el día a día.
+- Algunos títulos admiten Smart Delivery y Play Anywhere con PC.
 
-Si solo tienes PC y no quieres una consola: la fecha de PC no está anunciada, con rumores que apuntan a **2027** (sin confirmar). Lo seguimos en [Rumores del lanzamiento de PC de GTA6](/es/news/gta6-pc-release-rumors).
+**Inconvenientes**
+- El mando usa vibración estándar, sin la respuesta de gatillos de PS5.
+- Menos grandes exclusivos, y la mayoría también llegan a PC.
 
-> Las comparaciones de consolas se basan en especificaciones públicas y conocimiento general; el rendimiento real de GTA6 por plataforma está sujeto a pruebas tras el lanzamiento. Consulta los anuncios oficiales de Rockstar.
+## Ventajas e inconvenientes de Xbox Series S
+
+**Ventajas**
+- **La más barata** ($299,99), la barrera más baja para jugar a GTA6.
+- Pequeña y solo digital, ideal para presupuestos ajustados o como segunda consola.
+
+**Inconvenientes**
+- **Visiblemente más débil** (~4 TFLOPS), apunta a 1080p, así que gráficos y framerate se resienten.
+- Solo ~364 GB útiles, y GTA6 por sí solo puede ocupar buena parte.
+- **Sin lector de discos**, solo compras digitales.
+
+## ¿Cuál elegir para GTA6?
+
+- **Mejores gráficos + inmersión de mando** → **PS5** (los gatillos del DualSense pueden brillar en GTA6).
+- **Máximo rendimiento + valor de Game Pass** → **Xbox Series X**.
+- **La vía más barata** → **Xbox Series S** (aceptando 1080p y almacenamiento justo).
+- **Ya tienes una consola de esta generación** → **no cambies**. Ambas ejecutan GTA6 completo, no merece la pena comprar otra.
+
+## Precios de referencia de consolas (EE. UU.; sujetos a ofertas)
+
+| Consola | Precio de referencia |
+|---|---|
+| PS5 (Digital) | $449,99 |
+| PS5 (Disco) | $499,99 |
+| Xbox Series X | $499,99 |
+| Xbox Series S | $299,99 |
+
+> Los precios de consola fluctúan con ofertas y packs; son MSRP habituales de EE. UU., no precios de GTA6. Para precios del juego por región, consulta la [guía de precios de GTA6](/es/guides/gta6-price).
+
+## No ignores el ecosistema
+
+Tu biblioteca actual, en qué plataforma están tus amigos y si usas Game Pass suelen importar más que un solo juego. GTA6 corre en ambas, así que no cambies de bando solo por él, salvo que empieces de cero.
+
+> Las especificaciones se basan en datos públicos y conocimiento general; el rendimiento real de GTA6 en cada plataforma está sujeto a las reseñas posteriores al lanzamiento. Consulta los anuncios oficiales de Rockstar.
+
+¿Qué te importa más, la sensación del mando o el valor de Game Pass?

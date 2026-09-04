@@ -5,7 +5,7 @@ import { VideoEmbed } from '@/components/VideoEmbed';
 import { JsonLd } from '@/components/JsonLd';
 import { videoSchema } from '@/lib/schema';
 import { SITE_URL } from '@/lib/data';
-import { getAllNews, getAllGuides } from '@/lib/content';
+import { getAllNews, getAllGuides, type Post } from '@/lib/content';
 import { toLocale, getDictionary } from '@/lib/i18n';
 
 export async function generateMetadata({
@@ -34,6 +34,18 @@ export default async function HomePage({
   const featured = getAllNews(locale).find((p) => p.featured);
   const latestNews = getAllNews(locale).slice(0, 3);
   const latestGuides = getAllGuides(locale).slice(0, 3);
+  // 购买指南固定排序：主机选择作为主卡，价格/版本/清单作为次卡。
+  const buyingGuideOrder = [
+    'gta6-console-buying-guide',
+    'gta6-price',
+    'gta6-editions',
+    'pre-launch-checklist',
+  ];
+  const buyingGuides = buyingGuideOrder
+    .map((slug) => getAllGuides(locale).find((p) => p.slug === slug))
+    .filter((p): p is Post => Boolean(p));
+  const mainBuyingGuide = buyingGuides[0];
+  const restBuyingGuides = buyingGuides.slice(1);
 
   return (
     <>
@@ -60,6 +72,34 @@ export default async function HomePage({
           </Link>
         </section>
       ) : null}
+
+      <section className="section" id="buying-guide">
+        <h2>{dict.home.buyingGuideTitle}</h2>
+        <p className="sub">{dict.home.buyingGuideSub}</p>
+        {mainBuyingGuide ? (
+          <Link
+            href={`/${locale}/guides/${mainBuyingGuide.slug}`}
+            className="featured-card"
+          >
+            <span className="tag">{mainBuyingGuide.category}</span>
+            <h3>{mainBuyingGuide.title}</h3>
+            <p>{mainBuyingGuide.description}</p>
+            <div className="meta">{mainBuyingGuide.date}</div>
+          </Link>
+        ) : null}
+        {restBuyingGuides.length ? (
+          <div className="grid">
+            {restBuyingGuides.map((p) => (
+              <Link href={`/${locale}/guides/${p.slug}`} className="card" key={p.slug}>
+                <span className="tag">{p.category}</span>
+                <h3>{p.title}</h3>
+                <p>{p.description}</p>
+                <div className="meta">{p.date}</div>
+              </Link>
+            ))}
+          </div>
+        ) : null}
+      </section>
 
       <section className="section" id="trailers">
         <h2>{dict.home.trailersTitle}</h2>

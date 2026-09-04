@@ -35,6 +35,8 @@ export const zh: Dictionary = {
     guidesSub: '角色、地图、系统、配乐与购买指南。',
     trailersTitle: '预告片 & 视频',
     trailersSub: '官方预告片与最新社区视频，一站看齐。',
+    buyingGuideTitle: '购买指南',
+    buyingGuideSub: '主机怎么选、各地区多少钱，一次看清。',
     viewAll: '查看全部',
     disclaimer: {
       lead: '免责与边界声明：',

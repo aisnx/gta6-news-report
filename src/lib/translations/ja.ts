@@ -35,6 +35,8 @@ export const ja: Dictionary = {
     guidesSub: 'キャラクター・マップ・システム・サウンドトラック・購入ガイド。',
     trailersTitle: 'トレーラー & 動画',
     trailersSub: '公式トレーラーと最新のコミュニティ動画をまとめて視聴。',
+    buyingGuideTitle: '購入ガイド',
+    buyingGuideSub: 'どの本体を選ぶか、地域ごとの価格も一括で。',
     viewAll: 'すべて見る',
     disclaimer: {
       lead: '免責事項：',
