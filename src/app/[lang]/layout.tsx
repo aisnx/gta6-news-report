@@ -49,6 +49,13 @@ export default async function RootLayout({
 
   return (
     <html lang={htmlLang[locale]}>
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3499353264010840"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>
         <JsonLd data={websiteSchema(dict.siteName)} />
         <Header locale={locale} dict={dict} />

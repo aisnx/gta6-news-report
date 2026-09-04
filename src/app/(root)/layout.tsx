@@ -5,6 +5,13 @@ import type { ReactNode } from 'react';
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="zh-CN">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3499353264010840"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>{children}</body>
     </html>
   );
