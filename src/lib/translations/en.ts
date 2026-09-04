@@ -95,7 +95,7 @@ export const en: Dictionary = {
   videos: [
     { id: 'QdBZY2fkU-0', title: 'Official Trailer 1' },
     { id: 'VQRLujxTm3c', title: 'Official Trailer 2' },
-    { id: 'tJbzMqJGH4k', title: 'Official look: An Extended Look' },
+    { id: 'tJbzMqJGH4k', title: 'Official look: An Extended Look', embeddable: false },
   ],
 
   facts: [

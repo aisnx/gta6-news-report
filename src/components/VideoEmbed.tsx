@@ -10,7 +10,37 @@ export function parseYouTube(url: string): string | null {
   return m ? m[1] : null;
 }
 
-export function VideoEmbed({ id, title }: { id: string; title?: string }) {
+export function VideoEmbed({
+  id,
+  title,
+  embeddable = true,
+}: {
+  id: string;
+  title?: string;
+  embeddable?: boolean;
+}) {
+  // 年龄限制视频无法在第三方站点内嵌播放，改为「缩略图 + 跳转 YouTube」卡片。
+  if (!embeddable) {
+    return (
+      <figure className="video-embed">
+        <a
+          className="video-embed-cta"
+          href={`https://www.youtube.com/watch?v=${id}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={`https://i.ytimg.com/vi/${id}/hqdefault.jpg`}
+            alt={title || 'Video'}
+            loading="lazy"
+          />
+          <span className="play-badge" aria-hidden="true">▶</span>
+        </a>
+        {title ? <figcaption>{title}</figcaption> : null}
+      </figure>
+    );
+  }
+
   return (
     <figure className="video-embed">
       <div className="video-embed-inner">

@@ -35,6 +35,8 @@ export interface VerifyRow {
 export interface Video {
   id: string;
   title: string;
+  // 是否可内嵌：YouTube 年龄限制视频无法嵌入第三方站点，标记 false 改为渲染跳转卡片。
+  embeddable?: boolean;
 }
 
 // 站点字典：聚合所有 UI 文案 + 本地化数据（facts / timeline / verifyRows）

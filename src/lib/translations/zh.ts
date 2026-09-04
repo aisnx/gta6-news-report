@@ -95,7 +95,7 @@ export const zh: Dictionary = {
   videos: [
     { id: 'QdBZY2fkU-0', title: '官方预告片（一）' },
     { id: 'VQRLujxTm3c', title: '官方预告片（二）' },
-    { id: 'tJbzMqJGH4k', title: '官方预告：An Extended Look' },
+    { id: 'tJbzMqJGH4k', title: '官方预告：An Extended Look', embeddable: false },
   ],
 
   facts: [

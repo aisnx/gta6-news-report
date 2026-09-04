@@ -115,7 +115,7 @@ export default async function HomePage({
         <p className="sub">{dict.home.trailersSub}</p>
         <div className="video-grid">
           {dict.videos.map((v) => (
-            <VideoEmbed key={v.id} id={v.id} title={v.title} />
+            <VideoEmbed key={v.id} id={v.id} title={v.title} embeddable={v.embeddable} />
           ))}
         </div>
       </section>

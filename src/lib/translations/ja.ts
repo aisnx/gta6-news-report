@@ -95,7 +95,7 @@ export const ja: Dictionary = {
   videos: [
     { id: 'QdBZY2fkU-0', title: '公式トレーラー1' },
     { id: 'VQRLujxTm3c', title: '公式トレーラー2' },
-    { id: 'tJbzMqJGH4k', title: '公式映像：An Extended Look' },
+    { id: 'tJbzMqJGH4k', title: '公式映像：An Extended Look', embeddable: false },
   ],
 
   facts: [
