@@ -6,9 +6,9 @@ import { useEffect, useRef } from 'react';
 // repoId / categoryId 需在 https://giscus.app 上按仓库生成后填入，否则评论区不渲染。
 const GISCUS = {
   repo: 'aisnx/gta6-news-report',
-  repoId: '', // TODO 填入 repo id（形如 R_kgDO…）
+  repoId: 'R_kgDOUG5GdA', // 已填：仓库 node_id（repo 公开后经 GitHub API 获取）
   category: 'General',
-  categoryId: '', // TODO 填入 category id（形如 DIC_kwDO…）
+  categoryId: 'DIC_kwDOUG5GdM4DE12k', // General 分类的 node_id
   mapping: 'pathname',
   reactionsEnabled: '1',
   emitMetadata: '0',
