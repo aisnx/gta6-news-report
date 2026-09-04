@@ -67,7 +67,11 @@ export default async function GuidePostPage({
     <>
       <JsonLd data={articleSchema('guides', post, locale, dict.siteName)} />
       <JsonLd data={breadcrumbSchema(breadcrumbs)} />
-      {videoSchemasFromMarkdown(post.content, post.title).map((s, i) => (
+      {videoSchemasFromMarkdown(post.content, {
+        title: post.title,
+        date: post.date,
+        description: post.description,
+      }).map((s, i) => (
         <JsonLd key={`video-${i}`} data={s} />
       ))}
       <Breadcrumbs items={breadcrumbs} ariaLabel={dict.breadcrumbs.ariaLabel} />
