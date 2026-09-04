@@ -219,6 +219,11 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
   .buying-guide-card .bg-cover { height: 160px; }
 }
 
+/* ===== 评论区 ===== */
+.comments-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.comments-section h2 { font-size: 20px; color: var(--text); margin-bottom: 16px; }
+.comments { min-height: 60px; }
+
 /* ===== 分类分组 ===== */
 .group { margin-top: 32px; }
 .group:first-of-type { margin-top: 0; }

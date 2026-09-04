@@ -81,6 +81,7 @@ export const es: Dictionary = {
   },
 
   related: 'Lecturas relacionadas',
+  comments: 'Comentarios',
 
   meta: {
     defaultTitle: 'Centro GTA6 — fecha de lanzamiento, filtraciones, análisis de tráilers y guías',

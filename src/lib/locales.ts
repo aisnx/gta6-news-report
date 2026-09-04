@@ -119,6 +119,7 @@ export interface Dictionary {
   };
 
   related: string;
+  comments: string;
 
   meta: {
     defaultTitle: string;

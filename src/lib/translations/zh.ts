@@ -81,6 +81,7 @@ export const zh: Dictionary = {
   },
 
   related: '相关阅读',
+  comments: '评论区',
 
   meta: {
     defaultTitle: 'GTA6 情报站｜发售日期、爆料汇总、预告解析、攻略',

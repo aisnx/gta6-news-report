@@ -81,6 +81,7 @@ export const en: Dictionary = {
   },
 
   related: 'Related reading',
+  comments: 'Comments',
 
   meta: {
     defaultTitle: 'GTA6 Intel Hub — release date, leaks, trailer analysis & guides',

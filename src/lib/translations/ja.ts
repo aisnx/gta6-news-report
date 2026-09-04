@@ -81,6 +81,7 @@ export const ja: Dictionary = {
   },
 
   related: '関連記事',
+  comments: 'コメント',
 
   meta: {
     defaultTitle: 'GTA6 情報ステーション｜発売日・リークまとめ・予告編解説・攻略',

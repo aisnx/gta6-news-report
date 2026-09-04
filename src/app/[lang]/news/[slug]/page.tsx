@@ -5,6 +5,7 @@ import { Markdown } from '@/components/Markdown';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { RelatedPosts } from '@/components/RelatedPosts';
 import { JsonLd } from '@/components/JsonLd';
+import { Giscus } from '@/components/Giscus';
 import { articleSchema, breadcrumbSchema, absoluteUrl, videoSchemasFromMarkdown } from '@/lib/schema';
 import { alternateLanguages } from '@/lib/seo';
 import { toLocale, getDictionary } from '@/lib/i18n';
@@ -92,6 +93,10 @@ export default async function NewsPostPage({
         <Markdown content={post.content} />
       </article>
       <RelatedPosts basePath={`/${locale}/news`} posts={related} title={dict.related} />
+      <section className="comments-section">
+        <h2>{dict.comments}</h2>
+        <Giscus lang={locale} />
+      </section>
     </>
   );
 }
