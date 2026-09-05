@@ -37,8 +37,6 @@ export const ja: Dictionary = {
     trailersSub: '公式トレーラーと最新のコミュニティ動画をまとめて視聴。',
     buyingGuideTitle: '購入ガイド',
     buyingGuideSub: 'どの本体を選ぶか、地域ごとの価格も一括で。',
-    buyingGuideBuyTitle: '購入先',
-    affiliateDisclosure: '※一部はアフィリエイトリンクです。対象の購入により当サイトが報酬を得る場合があります（追加費用はかかりません）。',
     viewAll: 'すべて見る',
     disclaimer: {
       lead: '免責事項：',

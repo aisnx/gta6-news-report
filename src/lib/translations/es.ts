@@ -37,8 +37,6 @@ export const es: Dictionary = {
     trailersSub: 'Tráilers oficiales y el último vídeo de la comunidad, en un solo lugar.',
     buyingGuideTitle: 'Guía de compra',
     buyingGuideSub: 'Qué consola elegir y cuánto cuesta, región por región.',
-    buyingGuideBuyTitle: 'Dónde comprar',
-    affiliateDisclosure: 'Aviso: estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.',
     viewAll: 'Ver todo',
     disclaimer: {
       lead: 'Aviso legal: ',

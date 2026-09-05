@@ -37,8 +37,6 @@ export const zh: Dictionary = {
     trailersSub: '官方预告片与最新社区视频，一站看齐。',
     buyingGuideTitle: '购买指南',
     buyingGuideSub: '主机怎么选、各地区多少钱，一次看清。',
-    buyingGuideBuyTitle: '购买链接',
-    affiliateDisclosure: '说明：以上为推广链接，通过链接购买本站可能获得佣金，不影响你的价格。',
     viewAll: '查看全部',
     disclaimer: {
       lead: '免责与边界声明：',
