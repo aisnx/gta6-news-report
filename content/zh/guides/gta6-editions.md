@@ -42,3 +42,9 @@ GTA6 共两个版本：**标准版（$79.99）** 与 **终极版（$99.99）**�
 只玩战役就选标准版；在意额外内容与收藏价值就选终极版。
 
 > 版本内容以 PlayStation Store、Microsoft Store 与 Rockstar Store 为准。日期与定价见 [预购详情](/zh/news/preorder-details)。
+
+## 购买链接
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5 主机](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X 主机](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense 手柄](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD 固态硬盘](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+说明：以上部分为推广链接，通过链接购买本站可能获得佣金，不影响你的价格。

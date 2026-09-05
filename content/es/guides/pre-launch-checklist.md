@@ -40,3 +40,9 @@ El lanzamiento oficial de GTA6 (19-11-2026) se acerca. Esta lista te ayuda a ord
 - Sigue este sitio: desde el día de lanzamiento actualizaremos guías de la historia principal, huevos de pascua, coleccionables y finales.
 
 > Los detalles específicos están sujetos a los anuncios oficiales de Rockstar Games.
+
+## Dónde comprar
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [Mando DualSense](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [SSD PS5](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+Aviso: algunos de estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.

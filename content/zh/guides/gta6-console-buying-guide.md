@@ -87,3 +87,9 @@ coverCaption: "官方截图 · Jason 与 Lucia · 来源：Rockstar Games"
 > 主机规格基于公开参数与常规认知；GTA6 在具体平台的实机表现以发售后的评测为准，请以 Rockstar 官方公告为准。
 
 你更看重手柄手感，还是 Game Pass 的性价比？
+
+## 购买链接
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5 主机](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X 主机](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense 手柄](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD 固态硬盘](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+说明：以上部分为推广链接，通过链接购买本站可能获得佣金，不影响你的价格。

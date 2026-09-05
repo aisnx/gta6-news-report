@@ -40,3 +40,9 @@ GTA6 の正式発売（2026-11-19）が近づいています。このチェッ�
 - 当サイトをチェック：発売日からメインストーリー、イースターエッグ、収集品、エンディングの攻略を更新。
 
 > 具体的な情報は Rockstar Games の公式発表に準じます。
+
+## 購入先
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense コントローラー](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+※一部はアフィリエイトリンクで、購入時に手数料が発生する場合があります（追加費用はかかりません）。

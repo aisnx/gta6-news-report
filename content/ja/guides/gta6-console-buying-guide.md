@@ -87,3 +87,9 @@ coverCaption: "公式スクリーンショット · Jason と Lucia · 出典：
 > 本体スペックは公開情報と一般的な知識に基づきます。GTA6 の各プラットフォームでの実機パフォーマンスは発売後のレビューが基準です。Rockstar 公式の発表を優先してください。
 
 コントローラーの感触と Game Pass のコスパ、どちらを重視する？
+
+## 購入先
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense コントローラー](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+※一部はアフィリエイトリンクで、購入時に手数料が発生する場合があります（追加費用はかかりません）。

@@ -42,3 +42,9 @@ GTA6は **スタンダード版（$79.99）** と **アルティメット版（$
 キャンペーンだけ遊ぶならスタンダード版、追加コンテンツや収集要素を重視するならアルティメット版がおすすめです。
 
 > エディション内容はPlayStation Store・Microsoft Store・Rockstar Storeに準じます。日付と価格は[予約詳細](/ja/news/preorder-details)をご覧ください。
+
+## 購入先
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense コントローラー](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+※一部はアフィリエイトリンクで、購入時に手数料が発生する場合があります（追加費用はかかりません）。

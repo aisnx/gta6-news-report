@@ -45,3 +45,9 @@ GTA6 を遊ぶにはまず次世代本体が要る。3 機種の米国での一�
 ゲーム自体はスタンダード版 $79.99 から、アルティメット版は +$20 で限定コンテンツ。本体は予算優先なら Series S、体験重視なら PS5 か Series X。ゲームと本体を合算すると、最安ルートは約 $380（Series S＋スタンダード版）、最上位は約 $600（PS5/Series X＋アルティメット版）。
 
 > 最終価格は PlayStation Store、Microsoft Store、Rockstar Store および各小売を基準とします。
+
+## 購入先
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense コントローラー](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+※一部はアフィリエイトリンクで、購入時に手数料が発生する場合があります（追加費用はかかりません）。

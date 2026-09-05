@@ -87,3 +87,9 @@ Tu biblioteca actual, en qué plataforma están tus amigos y si usas Game Pass s
 > Las especificaciones se basan en datos públicos y conocimiento general; el rendimiento real de GTA6 en cada plataforma está sujeto a las reseñas posteriores al lanzamiento. Consulta los anuncios oficiales de Rockstar.
 
 ¿Qué te importa más, la sensación del mando o el valor de Game Pass?
+
+## Dónde comprar
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [Mando DualSense](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [SSD PS5](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+Aviso: algunos de estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.

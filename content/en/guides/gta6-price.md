@@ -45,3 +45,9 @@ You'll need a next-gen console first. Common US pricing for the three:
 The game itself starts at $79.99, with the Ultimate adding $20 for exclusive content. For the console, pick Series S on a budget, or PS5/Series X for the full experience. Add it all up and the cheapest path is roughly $380 (Series S + Standard), the top end about $600 (PS5/Series X + Ultimate).
 
 > Final prices are subject to the PlayStation Store, Microsoft Store, Rockstar Store and retailers.
+
+## Where to buy (affiliate)
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense controller](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+Disclosure: some of these are affiliate links — we may earn a commission if you buy through them, at no extra cost to you.

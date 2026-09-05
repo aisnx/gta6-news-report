@@ -45,3 +45,9 @@ GTA6 美国定价 **标准版 $79.99**、**终极版 $99.99**，这是全球定�
 游戏本身：标准版 $79.99 起，终极版多 $20 买独家内容。主机：预算有限选 Series S，追求体验选 PS5 或 Series X。把「游戏 + 主机」加起来，最低门槛约 $380（Series S + 标准版），顶配约 $600（PS5/Series X + 终极版）。
 
 > 最终价格以 PlayStation Store、Microsoft Store、Rockstar Store 及各零售渠道为准。
+
+## 购买链接
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5 主机](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X 主机](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense 手柄](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD 固态硬盘](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+说明：以上部分为推广链接，通过链接购买本站可能获得佣金，不影响你的价格。

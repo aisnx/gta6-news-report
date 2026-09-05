@@ -42,3 +42,9 @@ GTA6 sale en dos ediciones: **Standard ($79.99)** y **Ultimate ($99.99)**. No se
 Si solo quieres la campaña, Standard es suficiente; si valoras el contenido extra y el coleccionismo, ve por Ultimate.
 
 > El contenido de las ediciones está sujeto a PlayStation Store, Microsoft Store y Rockstar Store. Consulta [detalles de reserva](/es/news/preorder-details) para fechas y precios.
+
+## Dónde comprar
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [Mando DualSense](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [SSD PS5](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+Aviso: algunos de estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.

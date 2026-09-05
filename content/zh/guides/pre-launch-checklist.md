@@ -40,3 +40,9 @@ coverCaption: 官方截图 · 罪恶都市 · 来源：Rockstar Games
 - 关注本站：发售日起更新主线任务、彩蛋、收集与结局攻略。
 
 > 具体信息以 Rockstar Games 官方公告为准。
+
+## 购买链接
+
+[GTA6](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20) · [PS5 主机](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X 主机](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense 手柄](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD 固态硬盘](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+说明：以上部分为推广链接，通过链接购买本站可能获得佣金，不影响你的价格。
