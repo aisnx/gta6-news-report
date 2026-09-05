@@ -29,6 +29,6 @@ GTA6 の予約は6月25日から始まっています。通常版 **$79.99**、�
 - **パッケージ版はダウンロードコード**。ディスクではありません。
 - **発売はストーリーモードのみ**——GTA Online 2 は未発表。
 
-購入先：[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+購入先：[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
 
 ※一部はアフィリエイトリンクで、購入時に手数料が発生する場合があります（追加費用はかかりません）。

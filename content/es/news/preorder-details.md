@@ -29,6 +29,6 @@ Reserva (o compra antes del 20 de noviembre) y te llevas el **Vintage Vice City 
 - **La edición física es un código de descarga**, no un disco.
 - **El lanzamiento es solo un jugador** — GTA Online 2 no se ha anunciado.
 
-Dónde comprar: [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+Dónde comprar: [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
 
 Aviso: algunos de estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.

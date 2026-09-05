@@ -29,6 +29,6 @@ Pre-order (or buy before November 20) and you get the **Vintage Vice City Pack**
 - **The physical edition is a download code**, not a disc.
 - **Launch is single-player only** — GTA Online 2 hasn't been announced.
 
-Where to buy: [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+Where to buy: [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
 
 Disclosure: some of these are affiliate links — we may earn a commission if you buy through them, at no extra cost to you.

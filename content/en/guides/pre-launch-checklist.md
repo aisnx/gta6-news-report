@@ -43,6 +43,10 @@ GTA6's official launch (2026-11-19) is getting close. This checklist helps you s
 
 ## Where to buy
 
-- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
+
+## Consoles & accessories
+
+- [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense controller](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
 
 > Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.

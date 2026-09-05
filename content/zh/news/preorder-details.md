@@ -29,6 +29,6 @@ GTA6 预购从 6 月 25 日就开了。标准版 **$79.99**，终极版 **$99.99
 - **实体版是下载码**，不是光盘。
 - **首发只有单机**——GTA Online 2 还没公布。
 
-去哪买：[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+去哪买：[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
 
 说明：以上部分为推广链接，通过链接购买本站可能获得佣金，不影响你的价格。

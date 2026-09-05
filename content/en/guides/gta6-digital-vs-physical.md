@@ -43,6 +43,6 @@ If you only care about playing as early as possible, go digital; if you value th
 
 ## Where to buy
 
-- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+- [PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
 
 > Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.

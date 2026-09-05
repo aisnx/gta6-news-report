@@ -80,6 +80,12 @@ Bottom line: no console gets exclusive GTA6 content, and the launch experience i
 
 > Console prices fluctuate with sales and bundles; these are common US MSRPs, not GTA6 pricing. For game prices by region, see the [GTA6 price guide](/en/guides/gta6-price).
 
+## Where to buy (affiliate)
+
+- [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense controller](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
+
+> Disclosure: this page contains affiliate links — we may earn a commission on qualifying purchases at no extra cost to you.
+
 ## Don't ignore ecosystem lock-in
 
 Your existing library, which platform your friends are on, and whether you use Game Pass usually matter more than a single game. GTA6 runs on both, so don't switch sides just for it unless you're starting from scratch.

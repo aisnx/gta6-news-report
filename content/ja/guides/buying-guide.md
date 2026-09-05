@@ -45,7 +45,11 @@ coverCaption: "公式スクリーンショット · バイスシティ · 出典
 
 ## 購入先
 
-[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
+
+## 本体・周辺機器
+
+[PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [DualSense コントローラー](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 SSD](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
 
 ※一部はアフィリエイトリンクで、購入時に手数料が発生する場合があります（追加費用はかかりません）。
 

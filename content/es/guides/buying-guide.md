@@ -45,7 +45,11 @@ Un detalle que sí vale la pena: la reserva digital incluye **un mes gratis de G
 
 ## Dónde comprar
 
-[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com)
+[PlayStation Store](https://store.playstation.com) · [Microsoft / Xbox Store](https://www.xbox.com) · [Rockstar Store](https://store.rockstargames.com) · [Amazon](https://www.amazon.com/s?k=GTA6&tag=gta6game20-20)
+
+## Consolas y accesorios
+
+[PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20) · [Xbox Series X](https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20) · [Mando DualSense](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [SSD PS5](https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20)
 
 Aviso: algunos de estos son enlaces de afiliado — podemos ganar una comisión si compras a través de ellos, sin coste extra para ti.
 
