@@ -157,6 +157,9 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
   font-size: 13px; color: var(--muted);
 }
 
+/* ===== AdSense 广告位 ===== */
+.ad-slot { margin: 28px 0; min-height: 90px; overflow: hidden; }
+
 /* ===== 列表卡片 ===== */
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
 .card {

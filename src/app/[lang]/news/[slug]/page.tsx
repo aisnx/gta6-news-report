@@ -6,6 +6,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { RelatedPosts } from '@/components/RelatedPosts';
 import { JsonLd } from '@/components/JsonLd';
 import { Giscus } from '@/components/Giscus';
+import { AdUnit } from '@/components/AdUnit';
 import { articleSchema, breadcrumbSchema, absoluteUrl, videoSchemasFromMarkdown } from '@/lib/schema';
 import { alternateLanguages } from '@/lib/seo';
 import { toLocale, getDictionary } from '@/lib/i18n';
@@ -92,6 +93,7 @@ export default async function NewsPostPage({
         </div>
         <Markdown content={post.content} />
       </article>
+      <AdUnit />
       <RelatedPosts basePath={`/${locale}/news`} posts={related} title={dict.related} />
       <section className="comments-section">
         <h2>{dict.comments}</h2>

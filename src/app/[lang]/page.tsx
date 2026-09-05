@@ -3,6 +3,7 @@ import type { Metadata } from 'next';
 import { Countdown } from '@/components/Countdown';
 import { VideoEmbed } from '@/components/VideoEmbed';
 import { JsonLd } from '@/components/JsonLd';
+import { AdUnit } from '@/components/AdUnit';
 import { videoSchema } from '@/lib/schema';
 import { SITE_URL } from '@/lib/data';
 import { getAllNews, getAllGuides, type Post } from '@/lib/content';
@@ -135,6 +136,8 @@ export default async function HomePage({
           ))}
         </div>
       </section>
+
+      <AdUnit />
 
       <section className="section" id="news">
         <h2>{dict.home.newsTitle}</h2>
