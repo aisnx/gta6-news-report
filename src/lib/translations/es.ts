@@ -3,6 +3,7 @@ import type { Dictionary } from '../locales';
 export const es: Dictionary = {
   siteName: 'Centro GTA6',
   ogLocale: 'es_ES',
+  editorialTeam: 'Equipo editorial de GTA6 Intel',
 
   header: {
     topbar: '🎮 GTA6 sale el 19-11-2026 · Reservas abiertas · PC previsto para 2027+',
@@ -11,6 +12,8 @@ export const es: Dictionary = {
     navNews: 'Noticias',
     navVerify: 'Verificar',
     navGuides: 'Guías',
+    navAbout: 'Acerca',
+    searchPlaceholder: 'Buscar',
   },
 
   footer: 'Centro GTA6 · Sitio de fans no oficial · Sin relación con Rockstar Games / Take-Two · Todas las marcas pertenecen a sus respectivos dueños · Este sitio puede contener enlaces de afiliado y podría ganar una comisión por compras',
@@ -71,6 +74,7 @@ export const es: Dictionary = {
     description: 'Guías y recursos de GTA6: sistemas, perfiles de personajes, mapa, banda sonora, actividades secundarias y guía de compra — guías de misiones desde el día de lanzamiento.',
     sub: 'Sistemas, personajes, mapa, banda sonora, actividades secundarias y guía de compra, agrupados por categoría.',
     empty: 'Las guías se desbloquean el día del lanzamiento, 19-11-2026 — permanece atento.',
+    filterAll: 'Todos',
   },
 
   breadcrumbs: {
@@ -88,6 +92,17 @@ export const es: Dictionary = {
     template: '%s — Centro GTA6',
     description: 'Tu centro GTA6: fecha de lanzamiento, precio, plataformas, reservas, análisis de tráilers, verificación de rumores y guías completas tras el lanzamiento.',
     ogDescription: 'Tu centro GTA6: fecha de lanzamiento, precio, plataformas, reservas, análisis de tráilers, verificación de rumores y guías.',
+  },
+
+  about: {
+    title: 'Acerca de & política editorial',
+    description: 'Quiénes somos y cómo separamos los hechos de los rumores.',
+    sections: [
+      { heading: 'Qué es esto', body: 'GTA6 Intel Hub es un sitio de fans no oficial que sigue noticias, rumores y guías de GTA6. No tenemos relación con Rockstar Games ni Take-Two Interactive.' },
+      { heading: 'Normas editoriales', body: 'Separamos todo en dos grupos: confirmaciones oficiales (de Rockstar, Take-Two o fuentes verificadas) y rumores/filtraciones (no verificadas). Lo no verificado siempre se etiqueta como tal, nunca se presenta como hecho.' },
+      { heading: 'Divulgación de afiliados', body: 'Algunas páginas contienen enlaces de afiliado de Amazon. Si compras a través de ellos podemos ganar una comisión sin coste extra para ti.' },
+      { heading: 'Correcciones y contacto', body: 'Si ves un error, déjalo en los comentarios de cualquier página y lo corregiremos. Este sitio no aloja ni redistribuye material filtrado, capturas ni código fuente.' },
+    ],
   },
 
   fallbackCategory: 'Otros',

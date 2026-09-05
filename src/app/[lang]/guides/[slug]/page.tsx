@@ -67,7 +67,7 @@ export default async function GuidePostPage({
 
   return (
     <>
-      <JsonLd data={articleSchema('guides', post, locale, dict.siteName)} />
+      <JsonLd data={articleSchema('guides', post, locale, dict.siteName, post.author ?? dict.editorialTeam)} />
       <JsonLd data={breadcrumbSchema(breadcrumbs)} />
       {videoSchemasFromMarkdown(post.content, {
         title: post.title,
@@ -81,7 +81,7 @@ export default async function GuidePostPage({
         <div className="article-head">
           {post.category ? <span className="tag">{post.category}</span> : null}
           <h1>{post.title}</h1>
-          <div className="meta">{post.date}</div>
+          <div className="meta">{post.author ?? dict.editorialTeam} · {post.date}</div>
           {post.cover ? (
             <figure className="cover-fig">
               <img className="cover" src={post.cover} alt={post.title} />

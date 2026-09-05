@@ -49,3 +49,8 @@ skills-lock.json
 
 # Word 锁文件
 ~$*
+
+# 构建时生成（prebuild 钩子），不入库
+/public/search-index.json
+/public/llms.txt
+/public/llms-full.txt

@@ -13,6 +13,7 @@ export interface PostMeta {
   title: string;
   date: string;
   description: string;
+  author?: string;
   category?: string;
   tags?: string[];
   cover?: string;
@@ -41,6 +42,7 @@ function readPosts(type: ContentType, locale: Locale): Post[] {
       title: (data.title as string) ?? slug,
       date: (data.date as string) ?? '',
       description: (data.description as string) ?? '',
+      author: data.author as string | undefined,
       category: data.category as string | undefined,
       tags: (data.tags as string[]) ?? [],
       cover: data.cover as string | undefined,

@@ -3,6 +3,7 @@ import type { Dictionary } from '../locales';
 export const zh: Dictionary = {
   siteName: 'GTA6 情报站',
   ogLocale: 'zh_CN',
+  editorialTeam: 'GTA6 情报站编辑部',
 
   header: {
     topbar: '🎮 GTA6 定档 2026-11-19 · 预购已开启 · PC 版预计 2027+',
@@ -11,6 +12,8 @@ export const zh: Dictionary = {
     navNews: '情报',
     navVerify: '真伪求证',
     navGuides: '攻略',
+    navAbout: '关于',
+    searchPlaceholder: '搜索',
   },
 
   footer: 'GTA6 情报站 · 非官方粉丝站 · 与 Rockstar Games / Take-Two 无任何关联 · 相关商标归其权利人所有 · 本站可能包含推广链接，通过链接购买本站可能获得佣金',
@@ -71,6 +74,7 @@ export const zh: Dictionary = {
     description: 'GTA6 攻略与资料：系统详解、角色档案、地图、配乐、支线活动与购买指南，发售日起更新任务攻略。',
     sub: '系统详解、角色、地图、配乐、支线与购买指南，按类别整理。',
     empty: '攻略将在 2026-11-19 发售日解锁，敬请期待。',
+    filterAll: '全部',
   },
 
   breadcrumbs: {
@@ -88,6 +92,17 @@ export const zh: Dictionary = {
     template: '%s｜GTA6 情报站',
     description: 'GTA6 一站式情报站：发售日期、价格、平台、预购、预告片解析、爆料真伪求证，以及发售后的全攻略。',
     ogDescription: 'GTA6 一站式情报站：发售日期、价格、平台、预购、预告解析、爆料真伪求证与攻略。',
+  },
+
+  about: {
+    title: '关于本站 & 编辑方针',
+    description: '我们是谁，以及我们如何区分事实与传闻。',
+    sections: [
+      { heading: '这是什么站', body: 'GTA6 情报站是非官方粉丝站，追踪 GTA6 的资讯、爆料与攻略，与 Rockstar Games / Take-Two 无任何关联。' },
+      { heading: '编辑标准', body: '我们把所有内容分成两档：官方确认（来自 Rockstar、Take-Two 或可信来源）与爆料/传闻（未证实）。未证实的信息一律明确标注，绝不当作事实呈现。' },
+      { heading: '推广链接说明', body: '部分页面含亚马逊联盟链接，通过链接购买本站可能获得佣金，不影响你的价格。' },
+      { heading: '纠错与联系', body: '发现错误请在任一页面评论区指出，我们会更正。本站不转载、不搬运任何泄露画面、截图或源码。' },
+    ],
   },
 
   fallbackCategory: '其他',

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
-import { getAllGuides, groupByCategory } from '@/lib/content';
+import { getAllGuides } from '@/lib/content';
 import { toLocale, getDictionary } from '@/lib/i18n';
+import { GuidesExplorer } from '@/components/GuidesExplorer';
 
 export async function generateMetadata({
   params,
@@ -27,7 +27,13 @@ export default async function GuidesPage({
   const locale = toLocale(lang);
   const dict = getDictionary(locale);
   const posts = getAllGuides(locale);
-  const groups = groupByCategory(posts, dict.fallbackCategory);
+  const items = posts.map((p) => ({
+    slug: p.slug,
+    title: p.title,
+    description: p.description,
+    date: p.date,
+    category: p.category ?? dict.fallbackCategory,
+  }));
 
   return (
     <section className="section">
@@ -36,23 +42,7 @@ export default async function GuidesPage({
       {posts.length === 0 ? (
         <div className="empty">{dict.guides.empty}</div>
       ) : (
-        groups.map(([category, items]) => (
-          <div className="group" key={category}>
-            <h3 className="group-title">
-              {category}
-              <span className="group-count">{items.length}</span>
-            </h3>
-            <div className="grid">
-              {items.map((p) => (
-                <Link href={`/${locale}/guides/${p.slug}`} className="card" key={p.slug}>
-                  <h3>{p.title}</h3>
-                  <p>{p.description}</p>
-                  <div className="meta">{p.date}</div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        ))
+        <GuidesExplorer items={items} locale={locale} allLabel={dict.guides.filterAll} />
       )}
     </section>
   );

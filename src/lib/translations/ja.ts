@@ -3,6 +3,7 @@ import type { Dictionary } from '../locales';
 export const ja: Dictionary = {
   siteName: 'GTA6 情報ステーション',
   ogLocale: 'ja_JP',
+  editorialTeam: 'GTA6 情報ステーション編集部',
 
   header: {
     topbar: '🎮 GTA6 発売日 2026-11-19 · 予約受付中 · PC版は2027年以降の見込み',
@@ -11,6 +12,8 @@ export const ja: Dictionary = {
     navNews: 'ニュース',
     navVerify: '検証',
     navGuides: '攻略',
+    navAbout: 'について',
+    searchPlaceholder: '検索',
   },
 
   footer: 'GTA6 情報ステーション · 非公式ファンサイト · Rockstar Games / Take-Two とは一切関係ありません · 各商標は権利者に帰属します · 本サイトにはアフィリエイトリンクが含まれる場合があります',
@@ -71,6 +74,7 @@ export const ja: Dictionary = {
     description: 'GTA6 の攻略と資料：システム解説・キャラクター・マップ・サウンドトラック・サブアクティビティ・購入ガイド。発売日からミッション攻略を更新。',
     sub: 'システム・キャラクター・マップ・サウンドトラック・サブアクティビティ・購入ガイドをカテゴリ別に整理。',
     empty: '攻略は発売日の 2026-11-19 に解禁予定です。お楽しみに。',
+    filterAll: 'すべて',
   },
 
   breadcrumbs: {
@@ -88,6 +92,17 @@ export const ja: Dictionary = {
     template: '%s｜GTA6 情報ステーション',
     description: 'GTA6 の総合情報ステーション：発売日・価格・プラットフォーム・予約・予告編解説・噂の検証、そして発売後の全攻略。',
     ogDescription: 'GTA6 の総合情報ステーション：発売日・価格・プラットフォーム・予約・予告編解説・噂の検証と攻略。',
+  },
+
+  about: {
+    title: '当サイトについて & 編集方針',
+    description: '運営者と、事実と噂をどう分けているか。',
+    sections: [
+      { heading: 'このサイトについて', body: 'GTA6 情報ステーションは、GTA6 のニュース・リーク・攻略を追う非公式ファンサイトです。Rockstar Games / Take-Two とは一切関係ありません。' },
+      { heading: '編集基準', body: 'すべての情報を「公式確認（Rockstar・Take-Two・検証済み情報源）」と「噂/リーク（未検証）」の2つに分けています。未検証の情報は必ずその旨を明記し、事実として扱いません。' },
+      { heading: 'アフィリエイト開示', body: '一部のページには Amazon アフィリエイトリンクが含まれます。リンク経由の購入で当サイトが報酬を得る場合があります（追加費用はかかりません）。' },
+      { heading: '訂正とお問い合わせ', body: '誤りを見つけたら、どのページでもコメントでお知らせください。訂正します。当サイトはリーク映像・スクリーンショット・ソースコードの転載や再配布は行いません。' },
+    ],
   },
 
   fallbackCategory: 'その他',

@@ -3,6 +3,7 @@ import type { Dictionary } from '../locales';
 export const en: Dictionary = {
   siteName: 'GTA6 Intel Hub',
   ogLocale: 'en_US',
+  editorialTeam: 'GTA6 Intel Editorial',
 
   header: {
     topbar: '🎮 GTA6 releases 2026-11-19 · Pre-orders open · PC expected 2027+',
@@ -11,6 +12,8 @@ export const en: Dictionary = {
     navNews: 'News',
     navVerify: 'Verify',
     navGuides: 'Guides',
+    navAbout: 'About',
+    searchPlaceholder: 'Search',
   },
 
   footer: 'GTA6 Intel Hub · Unofficial fan site · Not affiliated with Rockstar Games / Take-Two · All trademarks belong to their respective owners · This site may contain affiliate links and may earn a commission on qualifying purchases',
@@ -71,6 +74,7 @@ export const en: Dictionary = {
     description: 'GTA6 guides and resources: systems, character profiles, map, soundtrack, side activities and buying guide — mission guides from launch day.',
     sub: 'Systems, characters, map, soundtrack, side activities and buying guide, grouped by category.',
     empty: 'Guides unlock on launch day, 2026-11-19 — stay tuned.',
+    filterAll: 'All',
   },
 
   breadcrumbs: {
@@ -88,6 +92,17 @@ export const en: Dictionary = {
     template: '%s — GTA6 Intel Hub',
     description: 'Your one-stop GTA6 hub: release date, price, platforms, pre-orders, trailer breakdowns, rumor verification, and full post-launch guides.',
     ogDescription: 'Your one-stop GTA6 hub: release date, price, platforms, pre-orders, trailer breakdowns, rumor verification and guides.',
+  },
+
+  about: {
+    title: 'About & Editorial Policy',
+    description: 'Who runs this site and how we separate fact from rumor.',
+    sections: [
+      { heading: 'What this is', body: 'GTA6 Intel Hub is an unofficial fan site tracking GTA6 news, rumors and guides. We are not affiliated with Rockstar Games or Take-Two Interactive.' },
+      { heading: 'Editorial standards', body: 'We split everything into two buckets: official confirmations (from Rockstar, Take-Two or verified sources) and rumors/leaks (unverified). Unverified claims are always labeled as such, never presented as fact.' },
+      { heading: 'Affiliate disclosure', body: 'Some pages contain Amazon affiliate links. If you buy through them we may earn a commission at no extra cost to you.' },
+      { heading: 'Corrections & contact', body: 'If you spot an error, tell us in the comments on any page and we will correct it. This site does not host or redistribute leaked footage, screenshots or source code.' },
+    ],
   },
 
   fallbackCategory: 'Other',

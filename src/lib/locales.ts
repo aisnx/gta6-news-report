@@ -39,10 +39,16 @@ export interface Video {
   embeddable?: boolean;
 }
 
+export interface AboutSection {
+  heading: string;
+  body: string;
+}
+
 // 站点字典：聚合所有 UI 文案 + 本地化数据（facts / timeline / verifyRows）
 export interface Dictionary {
   siteName: string;
   ogLocale: string;
+  editorialTeam: string;
 
   header: {
     topbar: string;
@@ -51,6 +57,8 @@ export interface Dictionary {
     navNews: string;
     navVerify: string;
     navGuides: string;
+    navAbout: string;
+    searchPlaceholder: string;
   };
 
   footer: string;
@@ -111,6 +119,7 @@ export interface Dictionary {
     description: string;
     sub: string;
     empty: string;
+    filterAll: string;
   };
 
   breadcrumbs: {
@@ -128,6 +137,12 @@ export interface Dictionary {
     template: string;
     description: string;
     ogDescription: string;
+  };
+
+  about: {
+    title: string;
+    description: string;
+    sections: AboutSection[];
   };
 
   fallbackCategory: string;

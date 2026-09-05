@@ -25,6 +25,7 @@ export function articleSchema(
   post: Post,
   locale: Locale,
   siteName: string,
+  authorName?: string,
 ): Record<string, unknown> {
   return {
     '@context': 'https://schema.org',
@@ -37,7 +38,7 @@ export function articleSchema(
     keywords: post.tags ?? [],
     mainEntityOfPage: { '@type': 'WebPage', '@id': postUrl(type, locale, post.slug) },
     ...(post.cover ? { image: absoluteUrl(post.cover) } : {}),
-    author: { '@type': 'Organization', name: siteName, url: SITE_URL },
+    author: { '@type': 'Person', name: authorName || siteName, url: SITE_URL },
     publisher: { '@type': 'Organization', name: siteName, url: SITE_URL },
   };
 }
