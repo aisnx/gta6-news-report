@@ -8,6 +8,15 @@ import { SITE_URL } from '@/lib/data';
 import { getAllNews, getAllGuides, type Post } from '@/lib/content';
 import { toLocale, getDictionary } from '@/lib/i18n';
 
+// 亚马逊联盟购买链接（美站，tag=gta6game20-20）。标签为通用品牌名，跨语言共用。
+const AFFILIATE_LINKS = [
+  { label: 'GTA6', href: 'https://www.amazon.com/s?k=GTA6&tag=gta6game20-20' },
+  { label: 'PS5', href: 'https://www.amazon.com/s?k=PS5&tag=gta6game20-20' },
+  { label: 'Xbox Series X', href: 'https://www.amazon.com/s?k=Xbox+Series+X&tag=gta6game20-20' },
+  { label: 'DualSense controller', href: 'https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20' },
+  { label: 'PS5 SSD', href: 'https://www.amazon.com/s?k=PS5+SSD&tag=gta6game20-20' },
+];
+
 export async function generateMetadata({
   params,
 }: {
@@ -108,6 +117,17 @@ export default async function HomePage({
             ))}
           </div>
         ) : null}
+        <div className="affiliate-links">
+          <h3>{dict.home.buyingGuideBuyTitle}</h3>
+          <div className="affiliate-links-row">
+            {AFFILIATE_LINKS.map((l) => (
+              <a key={l.href} href={l.href} target="_blank" rel="noopener noreferrer nofollow sponsored">
+                {l.label}
+              </a>
+            ))}
+          </div>
+          <small>{dict.home.affiliateDisclosure}</small>
+        </div>
       </section>
 
       <section className="section" id="trailers">

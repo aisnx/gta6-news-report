@@ -37,6 +37,8 @@ export const en: Dictionary = {
     trailersSub: 'Official trailers and the latest community video, in one place.',
     buyingGuideTitle: 'Buying guide',
     buyingGuideSub: 'Which console to buy and how much it costs, region by region.',
+    buyingGuideBuyTitle: 'Where to buy',
+    affiliateDisclosure: 'Disclosure: these are affiliate links — we may earn a commission on qualifying purchases, at no extra cost to you.',
     viewAll: 'View all',
     disclaimer: {
       lead: 'Disclaimer: ',

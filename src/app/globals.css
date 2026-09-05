@@ -219,6 +219,26 @@ table.verify th { color: var(--muted); font-size: 12px; letter-spacing: 1px; }
   .buying-guide-card .bg-cover { height: 160px; }
 }
 
+/* ===== 首页购买链接（联盟） ===== */
+.affiliate-links {
+  margin-top: 24px;
+  padding: 18px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-2);
+}
+.affiliate-links h3 { font-size: 15px; font-weight: 700; margin-bottom: 12px; }
+.affiliate-links-row { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 12px; }
+.affiliate-links-row a {
+  display: inline-flex; align-items: center;
+  padding: 8px 16px; border-radius: 8px;
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  background: rgba(34, 211, 238, 0.08);
+  color: var(--cyan); font-weight: 600; font-size: 14px;
+}
+.affiliate-links-row a:hover { background: rgba(34, 211, 238, 0.16); text-decoration: none; }
+.affiliate-links small { color: var(--muted); font-size: 12px; }
+
 /* ===== 评论区 ===== */
 .comments-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
 .comments-section h2 { font-size: 20px; color: var(--text); margin-bottom: 16px; }
