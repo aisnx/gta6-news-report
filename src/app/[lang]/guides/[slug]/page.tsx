@@ -77,7 +77,7 @@ export default async function GuidePostPage({
         <JsonLd key={`video-${i}`} data={s} />
       ))}
       <Breadcrumbs items={breadcrumbs} ariaLabel={dict.breadcrumbs.ariaLabel} />
-      <article>
+      <article data-reveal>
         <div className="article-head">
           {post.category ? <span className="tag">{post.category}</span> : null}
           <h1>{post.title}</h1>

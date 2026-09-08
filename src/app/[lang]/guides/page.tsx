@@ -36,7 +36,7 @@ export default async function GuidesPage({
   }));
 
   return (
-    <section className="section">
+    <section className="section" data-reveal>
       <h2>{dict.guides.title}</h2>
       <p className="sub">{dict.guides.sub}</p>
       {posts.length === 0 ? (

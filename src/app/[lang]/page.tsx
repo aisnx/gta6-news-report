@@ -64,7 +64,7 @@ export default async function HomePage({
       </section>
 
       {featured ? (
-        <section className="section" id="featured">
+        <section className="section" id="featured" data-reveal>
           <Link href={`/${locale}/news/${featured.slug}`} className="featured-card">
             <span className="tag">{featured.category}</span>
             <h2>{featured.title}</h2>
@@ -74,7 +74,7 @@ export default async function HomePage({
         </section>
       ) : null}
 
-      <section className="section" id="buying-guide">
+      <section className="section" id="buying-guide" data-reveal>
         <h2>{dict.home.buyingGuideTitle}</h2>
         <p className="sub">{dict.home.buyingGuideSub}</p>
         {mainBuyingGuide ? (
@@ -111,7 +111,7 @@ export default async function HomePage({
         ) : null}
       </section>
 
-      <section className="section" id="trailers">
+      <section className="section" id="trailers" data-reveal>
         <h2>{dict.home.trailersTitle}</h2>
         <p className="sub">{dict.home.trailersSub}</p>
         <div className="video-grid">
@@ -121,7 +121,7 @@ export default async function HomePage({
         </div>
       </section>
 
-      <section className="section" id="facts">
+      <section className="section" id="facts" data-reveal>
         <h2>{dict.home.factsTitle}</h2>
         <p className="sub">{dict.home.factsSub}</p>
         <div className="facts">
@@ -139,7 +139,7 @@ export default async function HomePage({
 
       <AdUnit />
 
-      <section className="section" id="news">
+      <section className="section" id="news" data-reveal>
         <h2>{dict.home.newsTitle}</h2>
         <p className="sub">
           {dict.home.newsSub}
@@ -157,7 +157,7 @@ export default async function HomePage({
         </div>
       </section>
 
-      <section className="section" id="guides">
+      <section className="section" id="guides" data-reveal>
         <h2>{dict.home.guidesTitle}</h2>
         <p className="sub">
           {dict.home.guidesSub}

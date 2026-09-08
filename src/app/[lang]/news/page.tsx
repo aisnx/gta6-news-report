@@ -37,7 +37,7 @@ export default async function NewsPage({
         <div className="empty">{dict.news.empty}</div>
       ) : (
         groups.map(([category, items]) => (
-          <div className="group" key={category}>
+          <div className="group" key={category} data-reveal>
             <h3 className="group-title">
               {category}
               <span className="group-count">{items.length}</span>

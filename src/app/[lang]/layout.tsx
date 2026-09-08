@@ -4,6 +4,8 @@ import '../globals.css';
 import { Header } from '@/components/Header';
 import { Footer } from '@/components/Footer';
 import { JsonLd } from '@/components/JsonLd';
+import { NeonParticles } from '@/components/NeonParticles';
+import { ScrollReveal } from '@/components/ScrollReveal';
 import { websiteSchema } from '@/lib/schema';
 import { SITE_URL } from '@/lib/data';
 import { locales, toLocale, getDictionary, htmlLang } from '@/lib/i18n';
@@ -57,6 +59,8 @@ export default async function RootLayout({
         />
       </head>
       <body>
+        <NeonParticles />
+        <ScrollReveal />
         <JsonLd data={websiteSchema(dict.siteName)} />
         <Header locale={locale} dict={dict} />
         <main>{children}</main>
