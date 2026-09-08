@@ -53,15 +53,15 @@ section[id] { scroll-margin-top: 92px; }
 /* 内容置于粒子层之上 */
 .topbar, main, .site-footer { position: relative; z-index: 1; }
 
-/* ===== 滚动渐显 ===== */
-.reveal-enabled [data-reveal] {
-  opacity: 0;
-  transform: translateY(26px);
-  transition: opacity 0.65s ease, transform 0.65s ease;
+/* ===== 滚动渐显 =====
+   默认不隐藏内容（不设 opacity:0），只在进入视口加 is-visible 时播放一次上浮动画。
+   这样即便 JS 失败或客户端导航不重跑，内容也永远可见。 */
+[data-reveal].is-visible {
+  animation: revealUp 0.65s ease both;
 }
-.reveal-enabled [data-reveal].is-visible {
-  opacity: 1;
-  transform: none;
+@keyframes revealUp {
+  from { opacity: 0; transform: translateY(26px); }
+  to { opacity: 1; transform: none; }
 }
 
 /* ===== 顶部提示条 ===== */
