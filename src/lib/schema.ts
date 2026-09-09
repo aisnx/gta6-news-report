@@ -68,6 +68,15 @@ export function websiteSchema(siteName: string): Record<string, unknown> {
 // 视频结构化数据（VideoObject）：让 Google 能把页面里嵌入的 YouTube 视频编入视频结果。
 // 注意：uploadDate 是 Google「视频」索引报告的必填字段——缺了它视频永远进不了视频结果。
 // 单页无 YouTube API 拿不到真实上传时间，故用文章发布日期兜底（好过留空被判定为不可索引）。
+// Google 还要求 uploadDate 必须是「带时区的完整日期时间」（如 2026-09-03T00:00:00Z），
+// 否则会报「uploadDate 缺少时区信息 / 日期时间值无效」。
+function toUploadDate(date?: string): string | undefined {
+  if (!date) return undefined;
+  const d = new Date(date);
+  if (Number.isNaN(d.getTime())) return undefined;
+  return d.toISOString().replace(/\.\d{3}Z$/, 'Z');
+}
+
 export function videoSchema(video: {
   id: string;
   title?: string;
@@ -80,7 +89,7 @@ export function videoSchema(video: {
     name: video.title || 'Video',
     description: video.description,
     thumbnailUrl: `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`,
-    uploadDate: video.uploadDate,
+    uploadDate: toUploadDate(video.uploadDate),
     embedUrl: `https://www.youtube.com/embed/${video.id}`,
     contentUrl: `https://www.youtube.com/watch?v=${video.id}`,
   };

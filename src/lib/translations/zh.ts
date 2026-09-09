@@ -108,9 +108,9 @@ export const zh: Dictionary = {
   fallbackCategory: '其他',
 
   videos: [
-    { id: 'QdBZY2fkU-0', title: '官方预告片（一）' },
-    { id: 'VQRLujxTm3c', title: '官方预告片（二）' },
-    { id: 'tJbzMqJGH4k', title: '官方预告：An Extended Look', embeddable: false },
+    { id: 'QdBZY2fkU-0', title: '官方预告片（一）', uploadDate: '2023-12-05', description: 'Rockstar Games 官方发布的 GTA6 首支预告片。' },
+    { id: 'VQRLujxTm3c', title: '官方预告片（二）', uploadDate: '2025-05-06', description: 'Rockstar Games 官方发布的 GTA6 第二支预告片。' },
+    { id: 'tJbzMqJGH4k', title: '官方预告：An Extended Look', uploadDate: '2026-08-28', description: 'Rockstar Games 官方发布的 GTA6 加长版演示视频。', embeddable: false },
   ],
 
   facts: [

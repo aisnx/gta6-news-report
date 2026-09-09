@@ -108,9 +108,9 @@ export const en: Dictionary = {
   fallbackCategory: 'Other',
 
   videos: [
-    { id: 'QdBZY2fkU-0', title: 'Official Trailer 1' },
-    { id: 'VQRLujxTm3c', title: 'Official Trailer 2' },
-    { id: 'tJbzMqJGH4k', title: 'Official look: An Extended Look', embeddable: false },
+    { id: 'QdBZY2fkU-0', title: 'Official Trailer 1', uploadDate: '2023-12-05', description: "Rockstar Games' first official trailer for GTA6." },
+    { id: 'VQRLujxTm3c', title: 'Official Trailer 2', uploadDate: '2025-05-06', description: "Rockstar Games' second official trailer for GTA6." },
+    { id: 'tJbzMqJGH4k', title: 'Official look: An Extended Look', uploadDate: '2026-08-28', description: "Rockstar Games' official extended look at GTA6.", embeddable: false },
   ],
 
   facts: [

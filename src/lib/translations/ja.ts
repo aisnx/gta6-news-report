@@ -108,9 +108,9 @@ export const ja: Dictionary = {
   fallbackCategory: 'その他',
 
   videos: [
-    { id: 'QdBZY2fkU-0', title: '公式トレーラー1' },
-    { id: 'VQRLujxTm3c', title: '公式トレーラー2' },
-    { id: 'tJbzMqJGH4k', title: '公式映像：An Extended Look', embeddable: false },
+    { id: 'QdBZY2fkU-0', title: '公式トレーラー1', uploadDate: '2023-12-05', description: 'Rockstar Games が公開したGTA6の1本目の公式トレーラー。' },
+    { id: 'VQRLujxTm3c', title: '公式トレーラー2', uploadDate: '2025-05-06', description: 'Rockstar Games が公開したGTA6の2本目の公式トレーラー。' },
+    { id: 'tJbzMqJGH4k', title: '公式映像：An Extended Look', uploadDate: '2026-08-28', description: 'Rockstar Games が公開したGTA6の公式拡張映像。', embeddable: false },
   ],
 
   facts: [

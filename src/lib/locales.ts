@@ -37,6 +37,10 @@ export interface Video {
   title: string;
   // 是否可内嵌：YouTube 年龄限制视频无法嵌入第三方站点，标记 false 改为渲染跳转卡片。
   embeddable?: boolean;
+  // 视频在 YouTube 的真实发布日期（YYYY-MM-DD），用于 VideoObject.uploadDate（Google「视频」报告必填字段）。
+  uploadDate?: string;
+  // 视频描述，用于 VideoObject.description。
+  description?: string;
 }
 
 export interface AboutSection {
