@@ -32,6 +32,8 @@ La gran pregunta de los fans — ¿Jason y Lucia terminan juntos? — tiene resp
 
 > Una esquina de esto sigue siendo rumor: si llega hasta una relación explícita. Rockstar no ha confirmado esa parte.
 
+Para el desglose completo de cómo funciona el romance, mira la [guía del sistema de romance de GTA6](/es/guides/gta6-romance-system).
+
 ## El sistema de armas se puso más duro
 
 - Llevas **cuatro armas**: dos largas, una pistola, una cuerpo a cuerpo. Nada más.

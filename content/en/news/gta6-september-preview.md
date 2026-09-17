@@ -32,6 +32,8 @@ The big fan question — do Jason and Lucia get together — has an answer: **on
 
 > One corner of this is still rumor: whether it goes as far as an explicit relationship. Rockstar hasn't confirmed that part.
 
+For the full breakdown of how the romance actually works, see the [GTA6 romance system guide](/en/guides/gta6-romance-system).
+
 ## The weapon system got harder
 
 - You carry **four weapons**: two long guns, one handgun, one melee. That's it.
