@@ -7,6 +7,6 @@
   Cache-Control: public, max-age=86400, stale-while-revalidate=86400
 
 # Everything else (HTML + JSON/TXT/XML payloads): browser revalidates every time,
-# CDN edge may cache 1 hour with background revalidation
+# CDN edge may cache 24 hours with background revalidation
 /*
-  Cache-Control: public, max-age=0, s-maxage=3600, stale-while-revalidate=86400
+  Cache-Control: public, max-age=0, s-maxage=86400, stale-while-revalidate=86400
