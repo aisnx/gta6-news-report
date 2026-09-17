@@ -31,6 +31,8 @@ PS5 で GTA6 を遊ぶなら、コントローラー自体が PS5 を選ぶ理�
 - **手元のコントローラーがまだ使える** → 見た目の変更だけ。コレクション目的でなければスルー。
 - **Xbox で遊ぶ** → これは PS5 専用。Series X|S は通常コントローラーです。
 
+SSD・ヘッドセット・充電スタンドの選び方は、[GTA6 のコントローラーと周辺機器ガイド](/ja/guides/gta6-controller-and-accessories)をご覧ください。
+
 ## 購入先
 
 [DualSense コントローラー](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20)

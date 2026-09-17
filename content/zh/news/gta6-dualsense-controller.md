@@ -31,6 +31,8 @@ coverCaption: "官方截图 · Jason 与 Lucia · 来源：Rockstar Games"
 - **手上手柄还能用** → 纯外观升级，不是收藏党就别买。
 - **在 Xbox 上** → 这是 PS5 独占，Series X|S 用的是普通手柄。
 
+手柄之外的 SSD、耳机、充电底座怎么配，看这篇 [GTA6 手柄与配件选购](/zh/guides/gta6-controller-and-accessories)。
+
 ## 购买链接
 
 [PS5 DualSense 手柄](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5 主机](https://www.amazon.com/s?k=PS5&tag=gta6game20-20)

@@ -31,6 +31,8 @@ If you're playing GTA6 on PS5, the controller is already a reason to pick that c
 - **Already have a working controller** — it's a looks upgrade. Skip it unless you collect.
 - **On Xbox** — this is PS5-only. Series X|S uses standard controllers.
 
+For SSDs, headsets, and charging docks, see the [GTA6 controller and accessories guide](/en/guides/gta6-controller-and-accessories).
+
 ## Where to buy
 
 [PS5 DualSense controller](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20)

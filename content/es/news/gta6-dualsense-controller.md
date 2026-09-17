@@ -31,6 +31,8 @@ Si vas a jugar GTA6 en PS5, el mando ya es un motivo para elegir esa consola. Lo
 - **Tu mando aún funciona** → es solo un cambio de aspecto. Salvo que colecciones, déjalo.
 - **Juegas en Xbox** → esto es solo para PS5. Series X|S usa mandos normales.
 
+Para SSD, auriculares y bases de carga, mira la [guía de mandos y accesorios de GTA6](/es/guides/gta6-controller-and-accessories).
+
 ## Dónde comprar
 
 [Mando DualSense](https://www.amazon.com/s?k=DualSense+Wireless+Controller&tag=gta6game20-20) · [PS5](https://www.amazon.com/s?k=PS5&tag=gta6game20-20)
