@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { locales, toLocale, getDictionary } from '@/lib/i18n';
 
@@ -49,6 +50,12 @@ export default async function AboutPage({
           </section>
         ))}
       </article>
+
+      <section className="section">
+        <h2>{dict.buyingCta.title}</h2>
+        <p className="sub">{dict.buyingCta.text}</p>
+        <Link href={`/${locale}/guides/gta6-console-buying-guide`}>{dict.buyingCta.linkLabel} →</Link>
+      </section>
     </>
   );
 }

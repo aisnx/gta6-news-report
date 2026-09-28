@@ -105,6 +105,12 @@ export const es: Dictionary = {
     ],
   },
 
+  buyingCta: {
+    title: '¿Listo para el lanzamiento? Elige consola y edición',
+    text: 'Antes del 19 de noviembre, decide consola y edición. Nuestra guía compara PS5 vs Xbox y todas las ediciones.',
+    linkLabel: 'Ver la guía de compra',
+  },
+
   fallbackCategory: 'Otros',
 
   videos: [

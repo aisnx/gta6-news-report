@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { VerifyTable } from '@/components/VerifyTable';
 import { toLocale, getDictionary } from '@/lib/i18n';
 
@@ -46,6 +47,12 @@ export default async function VerifyPage({
             </div>
           ))}
         </div>
+      </section>
+
+      <section className="section">
+        <h2>{dict.buyingCta.title}</h2>
+        <p className="sub">{dict.buyingCta.text}</p>
+        <Link href={`/${locale}/guides/gta6-console-buying-guide`}>{dict.buyingCta.linkLabel} →</Link>
       </section>
     </>
   );

@@ -149,6 +149,12 @@ export interface Dictionary {
     sections: AboutSection[];
   };
 
+  buyingCta: {
+    title: string;
+    text: string;
+    linkLabel: string;
+  };
+
   fallbackCategory: string;
 
   videos: Video[];

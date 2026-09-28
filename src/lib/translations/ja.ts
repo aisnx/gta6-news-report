@@ -105,6 +105,12 @@ export const ja: Dictionary = {
     ],
   },
 
+  buyingCta: {
+    title: '発売に備えて本体とエディションを選ぼう',
+    text: '11月19日までに本体とエディションを決めましょう。PS5とXbox、各エディションを比較したガイドです。',
+    linkLabel: '本体の選び方ガイドを見る',
+  },
+
   fallbackCategory: 'その他',
 
   videos: [

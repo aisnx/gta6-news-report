@@ -105,6 +105,12 @@ export const en: Dictionary = {
     ],
   },
 
+  buyingCta: {
+    title: 'Ready for launch? Pick your console and edition',
+    text: 'Before November 19, lock in a console and edition. Our buying guide compares PS5 vs Xbox and every edition side by side.',
+    linkLabel: 'See the buying guide',
+  },
+
   fallbackCategory: 'Other',
 
   videos: [

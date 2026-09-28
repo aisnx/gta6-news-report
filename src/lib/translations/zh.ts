@@ -105,6 +105,12 @@ export const zh: Dictionary = {
     ],
   },
 
+  buyingCta: {
+    title: '准备好首发了吗？先把主机和版本定下来',
+    text: '趁 11 月 19 日前，把主机和版本选好。我们的导购把 PS5 / Xbox 和各版本逐一对比。',
+    linkLabel: '看主机选购指南',
+  },
+
   fallbackCategory: '其他',
 
   videos: [
