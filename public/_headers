@@ -6,7 +6,7 @@
 /covers/*
   Cache-Control: public, max-age=86400, stale-while-revalidate=86400
 
-# Everything else (HTML + JSON/TXT/XML payloads): browser revalidates every time,
-# CDN edge may cache 24 hours with background revalidation
+# Everything else (HTML + JSON/TXT/XML payloads): no edge caching so new
+# deployments go live immediately; browser revalidates every time
 /*
-  Cache-Control: public, max-age=0, s-maxage=86400, stale-while-revalidate=86400
+  Cache-Control: public, max-age=0, must-revalidate
