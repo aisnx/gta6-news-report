@@ -18,6 +18,10 @@ Ponte al día con los tráilers oficiales de GTA6 aquí, en un solo lugar.
 
 [Tráiler oficial de GTA VI (2)](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
+## Tráiler de lanzamiento
+
+[Tráiler de lanzamiento de GTA VI](https://www.youtube.com/watch?v=rz1B4B2yBZY)
+
 ## Sitio oficial
 
 Para las últimas noticias oficiales y reservas, visita el sitio oficial de GTA6 de Rockstar: [rockstargames.com/VI](https://www.rockstargames.com/VI)

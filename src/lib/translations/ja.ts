@@ -117,6 +117,7 @@ export const ja: Dictionary = {
     { id: 'QdBZY2fkU-0', title: '公式トレーラー1', uploadDate: '2023-12-05', description: 'Rockstar Games が公開したGTA6の1本目の公式トレーラー。' },
     { id: 'VQRLujxTm3c', title: '公式トレーラー2', uploadDate: '2025-05-06', description: 'Rockstar Games が公開したGTA6の2本目の公式トレーラー。' },
     { id: 'tJbzMqJGH4k', title: '公式映像：An Extended Look', uploadDate: '2026-08-28', description: 'Rockstar Games が公開したGTA6の公式拡張映像。', embeddable: false },
+    { id: 'rz1B4B2yBZY', title: '公式ローンチトレーラー', uploadDate: '2026-10-15', description: 'Rockstar Games が公開したGTA6の公式ローンチトレーラー。' },
   ],
 
   facts: [
@@ -126,7 +127,7 @@ export const ja: Dictionary = {
     { key: '主人公', value: 'Jason Duval × Lucia Caminos', note: 'ダブル主人公 · 現行シリーズ初の女性主人公' },
     { key: '舞台', value: 'レオニダ州（Leonida）', note: 'フロリダがモデル' },
     { key: '主要都市', value: 'バイスシティ（Vice City）', note: 'マイアミ風' },
-    { key: '最新予告編', value: 'An Extended Look', note: '8/27 初公開' },
+    { key: '最新予告編', value: 'ローンチトレーラー', note: '10/15 公開' },
     { key: '公式見解', value: '生成AI不使用 · ストーリーモードに課金なし', note: '9月の公式声明' },
   ],
 
@@ -165,6 +166,11 @@ export const ja: Dictionary = {
       date: '2026-09-01',
       title: '新スクリーンショット3点 + 生成AI不使用を確認',
       text: 'Rockstar は公式メディア欄に新スクリーンショット3点（Lucia、Jason、バイスシティ）を公開。取材では開発に生成AIを使用していないこと、ストーリーモードに課金がないことを確認。',
+    },
+    {
+      date: '2026-10-15',
+      title: 'ローンチトレーラー公開',
+      text: '発売前最後の大型予告編：全編PS5実機映像で、Justice が手がける楽曲「Flower in a Hurricane」を公開。11-12 プリロード開始、11-19 発売を確認。',
     },
   ],
 

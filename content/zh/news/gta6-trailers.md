@@ -18,6 +18,10 @@ GTA6 官方预告片在此一站看齐。
 
 [GTA VI 官方预告片（二）](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
+## 官方发售预告片（Launch Trailer）
+
+[GTA VI 发售预告片（Launch Trailer）](https://www.youtube.com/watch?v=rz1B4B2yBZY)
+
 ## 官方入口
 
 最新官方消息与预购，请访问 Rockstar 官方 GTA6 网站：[rockstargames.com/VI](https://www.rockstargames.com/VI)

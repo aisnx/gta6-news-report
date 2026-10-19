@@ -18,6 +18,10 @@ GTA6の公式トレーラーをここでまとめて視聴できます。
 
 [GTA VI 公式トレーラー（2）](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
+## 公式ローンチトレーラー
+
+[GTA VI ローンチトレーラー](https://www.youtube.com/watch?v=rz1B4B2yBZY)
+
 ## 公式サイト
 
 最新の公式情報と予約は、Rockstar公式GTA6サイトへ：[rockstargames.com/VI](https://www.rockstargames.com/VI)

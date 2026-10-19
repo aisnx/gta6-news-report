@@ -117,6 +117,7 @@ export const en: Dictionary = {
     { id: 'QdBZY2fkU-0', title: 'Official Trailer 1', uploadDate: '2023-12-05', description: "Rockstar Games' first official trailer for GTA6." },
     { id: 'VQRLujxTm3c', title: 'Official Trailer 2', uploadDate: '2025-05-06', description: "Rockstar Games' second official trailer for GTA6." },
     { id: 'tJbzMqJGH4k', title: 'Official look: An Extended Look', uploadDate: '2026-08-28', description: "Rockstar Games' official extended look at GTA6.", embeddable: false },
+    { id: 'rz1B4B2yBZY', title: 'Official Launch Trailer', uploadDate: '2026-10-15', description: "Rockstar Games' official GTA6 launch trailer." },
   ],
 
   facts: [
@@ -126,7 +127,7 @@ export const en: Dictionary = {
     { key: 'Protagonists', value: 'Jason Duval × Lucia Caminos', note: 'Dual protagonists · first female lead in the modern series' },
     { key: 'Setting', value: 'Leonida', note: 'Based on Florida' },
     { key: 'Core city', value: 'Vice City', note: 'Miami-inspired' },
-    { key: 'Latest trailer', value: 'An Extended Look', note: 'Premiered 8/27' },
+    { key: 'Latest trailer', value: 'Launch Trailer', note: 'Released 10/15' },
     { key: 'Official stance', value: 'No generative AI · no single-player microtransactions', note: 'Official statement in September' },
   ],
 
@@ -165,6 +166,11 @@ export const en: Dictionary = {
       date: '2026-09-01',
       title: '3 new screenshots + no generative AI confirmed',
       text: 'Rockstar released 3 new screenshots (Lucia, Jason and Vice City) in the official media section, and confirmed in interviews that development used no generative AI and the single-player campaign has no microtransactions.',
+    },
+    {
+      date: '2026-10-15',
+      title: 'Launch trailer released',
+      text: 'The final major trailer before launch: captured entirely on PS5, revealing a Justice-scored single "Flower in a Hurricane" and confirming preload on 11-12 and launch on 11-19.',
     },
   ],
 

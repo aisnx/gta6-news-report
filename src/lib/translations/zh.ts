@@ -117,6 +117,7 @@ export const zh: Dictionary = {
     { id: 'QdBZY2fkU-0', title: '官方预告片（一）', uploadDate: '2023-12-05', description: 'Rockstar Games 官方发布的 GTA6 首支预告片。' },
     { id: 'VQRLujxTm3c', title: '官方预告片（二）', uploadDate: '2025-05-06', description: 'Rockstar Games 官方发布的 GTA6 第二支预告片。' },
     { id: 'tJbzMqJGH4k', title: '官方预告：An Extended Look', uploadDate: '2026-08-28', description: 'Rockstar Games 官方发布的 GTA6 加长版演示视频。', embeddable: false },
+    { id: 'rz1B4B2yBZY', title: '官方发售预告片', uploadDate: '2026-10-15', description: 'Rockstar Games 官方发布的 GTA6 发售预告片（Launch Trailer）。' },
   ],
 
   facts: [
@@ -126,7 +127,7 @@ export const zh: Dictionary = {
     { key: '主角', value: 'Jason Duval × Lucia Caminos', note: '双主角 · 当代 GTA 首位女性主角' },
     { key: '世界观', value: '莱昂尼达州（Leonida）', note: '以佛罗里达为原型' },
     { key: '核心城市', value: '罪恶都市（Vice City）', note: '迈阿密风格' },
-    { key: '最新预告', value: 'An Extended Look', note: '8/27 首映' },
+    { key: '最新预告', value: '发售预告片（Launch Trailer）', note: '10/15 发布' },
     { key: '官方确认', value: '无生成式 AI · 单机无内购', note: '9 月官方声明' },
   ],
 
@@ -165,6 +166,11 @@ export const zh: Dictionary = {
       date: '2026-09-01',
       title: '3 张新截图 + 确认无生成式 AI',
       text: 'Rockstar 在官网媒体区放出 3 张新截图（Lucia、Jason 与罪恶都市）；并在媒体采访中确认开发未使用生成式 AI、单机战役无内购。',
+    },
+    {
+      date: '2026-10-15',
+      title: '发售预告片发布',
+      text: '临近发售的最后一支大预告：全程 PS5 实机，公开 Justice 配乐单曲《Flower in a Hurricane》，确认 11-12 预载、11-19 发售。',
     },
   ],
 

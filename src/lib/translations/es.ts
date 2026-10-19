@@ -117,6 +117,7 @@ export const es: Dictionary = {
     { id: 'QdBZY2fkU-0', title: 'Tráiler oficial 1', uploadDate: '2023-12-05', description: 'Primer tráiler oficial de GTA6 de Rockstar Games.' },
     { id: 'VQRLujxTm3c', title: 'Tráiler oficial 2', uploadDate: '2025-05-06', description: 'Segundo tráiler oficial de GTA6 de Rockstar Games.' },
     { id: 'tJbzMqJGH4k', title: 'Vistazo oficial: An Extended Look', uploadDate: '2026-08-28', description: 'Vistazo oficial extendido de GTA6 de Rockstar Games.', embeddable: false },
+    { id: 'rz1B4B2yBZY', title: 'Tráiler de lanzamiento oficial', uploadDate: '2026-10-15', description: 'Tráiler de lanzamiento oficial de GTA6 de Rockstar Games.' },
   ],
 
   facts: [
@@ -126,7 +127,7 @@ export const es: Dictionary = {
     { key: 'Protagonistas', value: 'Jason Duval × Lucia Caminos', note: 'Doble protagonista · primera mujer protagonista de la saga moderna' },
     { key: 'Escenario', value: 'Leonida', note: 'Basado en Florida' },
     { key: 'Ciudad principal', value: 'Vice City', note: 'Inspirada en Miami' },
-    { key: 'Último tráiler', value: 'An Extended Look', note: 'Estrenado el 27/8' },
+    { key: 'Último tráiler', value: 'Tráiler de lanzamiento', note: 'Publicado el 15/10' },
     { key: 'Postura oficial', value: 'Sin IA generativa · sin micropagos en el modo historia', note: 'Declaración oficial en septiembre' },
   ],
 
@@ -165,6 +166,11 @@ export const es: Dictionary = {
       date: '01-09-2026',
       title: '3 nuevas capturas + se confirma que no hay IA generativa',
       text: 'Rockstar publicó 3 capturas nuevas (Lucia, Jason y Vice City) en la sección de medios oficial y confirmó en entrevistas que el desarrollo no usó IA generativa y que la campaña en solitario no tiene micropagos.',
+    },
+    {
+      date: '15-10-2026',
+      title: 'Se publica el tráiler de lanzamiento',
+      text: 'El último gran tráiler antes del lanzamiento: grabado íntegramente en PS5, revela el sencillo "Flower in a Hurricane" compuesto por Justice y confirma la precarga el 12-11 y el lanzamiento el 19-11.',
     },
   ],
 

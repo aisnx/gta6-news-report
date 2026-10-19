@@ -18,6 +18,10 @@ Catch up on GTA6's official trailers here, in one place.
 
 [GTA VI Official Trailer (2)](https://www.youtube.com/watch?v=VQRLujxTm3c)
 
+## Official Launch Trailer
+
+[GTA VI Launch Trailer](https://www.youtube.com/watch?v=rz1B4B2yBZY)
+
 ## Official site
 
 For the latest official news and pre-orders, visit Rockstar's official GTA6 site: [rockstargames.com/VI](https://www.rockstargames.com/VI)
